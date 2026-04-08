@@ -1,0 +1,191 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:00.960",
+      "text": "Quand tu construis 1 SaaS"
+    },
+    {
+      "start_time": "00:00:00.961",
+      "end_time": "00:00:03.560",
+      "text": "on te dit souvent de faire attention à ton expérience utilisateur."
+    },
+    {
+      "start_time": "00:00:03.600",
+      "end_time": "00:00:03.960",
+      "text": "Et pour ça,"
+    },
+    {
+      "start_time": "00:00:03.961",
+      "end_time": "00:00:07.240",
+      "text": "on te donne des tips et des mécanismes basés sur des biais psychologiques."
+    },
+    {
+      "start_time": "00:00:07.320",
+      "end_time": "00:00:09.440",
+      "text": "Mais est-ce que tu sais réellement ce que c'est que l’UX ?"
+    },
+    {
+      "start_time": "00:00:09.720",
+      "end_time": "00:00:11.440",
+      "text": "Je vais te donner des exemples de la vraie vie,"
+    },
+    {
+      "start_time": "00:00:11.441",
+      "end_time": "00:00:13.560",
+      "text": "des trucs que tu as déjà vécu et tu vas comprendre."
+    },
+    {
+      "start_time": "00:00:13.680",
+      "end_time": "00:00:15.520",
+      "text": "Amazon qui préremplit ton adresse de livraison,"
+    },
+    {
+      "start_time": "00:00:15.600",
+      "end_time": "00:00:17.120",
+      "text": "tu n'as rien à faire, tu n'as rien à chercher,"
+    },
+    {
+      "start_time": "00:00:17.360",
+      "end_time": "00:00:19.960",
+      "text": "l'information est déjà là, au bon endroit, au bon moment."
+    },
+    {
+      "start_time": "00:00:20.000",
+      "end_time": "00:00:20.760",
+      "text": "C'est de l’UX."
+    },
+    {
+      "start_time": "00:00:20.761",
+      "end_time": "00:00:23.960",
+      "text": "Waze qui recalcule ton itinéraire automatiquement quand tu rates 1 sortie,"
+    },
+    {
+      "start_time": "00:00:24.000",
+      "end_time": "00:00:26.000",
+      "text": "il te juge pas, il te demande pas de confirmation,"
+    },
+    {
+      "start_time": "00:00:26.040",
+      "end_time": "00:00:27.400",
+      "text": "il s'adapte au automatiquement."
+    },
+    {
+      "start_time": "00:00:27.480",
+      "end_time": "00:00:28.200",
+      "text": "C'est de l’UX."
+    },
+    {
+      "start_time": "00:00:28.201",
+      "end_time": "00:00:31.400",
+      "text": "Le distributeur de billets qui te rend ta carte avant de te donner ton argent."
+    },
+    {
+      "start_time": "00:00:31.440",
+      "end_time": "00:00:32.520",
+      "text": "Pas après, mais avant."
+    },
+    {
+      "start_time": "00:00:32.560",
+      "end_time": "00:00:35.000",
+      "text": "Parce que quelqu'un a réfléchi à ce que les gens oublient le plus souvent,"
+    },
+    {
+      "start_time": "00:00:35.120",
+      "end_time": "00:00:35.840",
+      "text": "c'est de l’UX."
+    },
+    {
+      "start_time": "00:00:35.841",
+      "end_time": "00:00:39.000",
+      "text": "1 formulaire qui te dit « cette adresse email est déjà utilisée » avec 1 lien"
+    },
+    {
+      "start_time": "00:00:39.280",
+      "end_time": "00:00:40.400",
+      "text": "direct vers la connexion,"
+    },
+    {
+      "start_time": "00:00:40.520",
+      "end_time": "00:00:42.800",
+      "text": "au lieu de juste bloquer et de te laisser te débrouiller,"
+    },
+    {
+      "start_time": "00:00:42.960",
+      "end_time": "00:00:43.760",
+      "text": "c'est de l’UX."
+    },
+    {
+      "start_time": "00:00:43.800",
+      "end_time": "00:00:44.680",
+      "text": "Spotify qui te propose"
+    },
+    {
+      "start_time": "00:00:44.960",
+      "end_time": "00:00:45.600",
+      "text": "exactement la"
+    },
+    {
+      "start_time": "00:00:45.601",
+      "end_time": "00:00:48.440",
+      "text": "playlist qu'il te faut 1 lundi matin sans que tu n'aies rien demandé."
+    },
+    {
+      "start_time": "00:00:48.520",
+      "end_time": "00:00:49.320",
+      "text": "C'est de l’UX."
+    },
+    {
+      "start_time": "00:00:49.360",
+      "end_time": "00:00:52.360",
+      "text": "Donc tu vois le point commun ? Dans chaque cas, le produit a pensé à ta place,"
+    },
+    {
+      "start_time": "00:00:52.400",
+      "end_time": "00:00:54.160",
+      "text": "il a anticipé ce dont tu avais besoin,"
+    },
+    {
+      "start_time": "00:00:54.200",
+      "end_time": "00:00:56.960",
+      "text": "donc il a enlevé 1 friction avant même que tu la ressentes. L’UX"
+    },
+    {
+      "start_time": "00:00:57.040",
+      "end_time": "00:00:58.400",
+      "text": "c'est pas de rendre 1 produit joli,"
+    },
+    {
+      "start_time": "00:00:58.480",
+      "end_time": "00:01:00.000",
+      "text": "c'est de rendre 1 produit évident."
+    },
+    {
+      "start_time": "00:01:00.040",
+      "end_time": "00:01:02.760",
+      "text": "C'est tout ce qui fait que tu utilises quelque chose sans jamais te"
+    },
+    {
+      "start_time": "00:01:02.960",
+      "end_time": "00:01:03.760",
+      "text": "demander comment ça marche."
+    },
+    {
+      "start_time": "00:01:03.800",
+      "end_time": "00:01:06.720",
+      "text": "Donc la prochaine fois que quelque chose te semble naturel et fluide,"
+    },
+    {
+      "start_time": "00:01:06.840",
+      "end_time": "00:01:08.000",
+      "text": "sache que ce n'est pas 1 hasard,"
+    },
+    {
+      "start_time": "00:01:08.040",
+      "end_time": "00:01:10.320",
+      "text": "quelqu'un a passé du temps à le designer pour toi."
+    }
+  ]
+}

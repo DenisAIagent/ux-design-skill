@@ -1,0 +1,106 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.160",
+      "text": "Y a 1 truc simple que le cerveau fait en permanence."
+    },
+    {
+      "start_time": "00:00:02.680",
+      "end_time": "00:00:04.480",
+      "text": "Il garde en tête ce qui n'est pas terminé."
+    },
+    {
+      "start_time": "00:00:04.520",
+      "end_time": "00:00:06.320",
+      "text": "pas parce que c'est important ou urgent,"
+    },
+    {
+      "start_time": "00:00:06.480",
+      "end_time": "00:00:07.840",
+      "text": "mais parce que c'est resté ouvert."
+    },
+    {
+      "start_time": "00:00:07.920",
+      "end_time": "00:00:08.920",
+      "text": "1 action commencé,"
+    },
+    {
+      "start_time": "00:00:09.040",
+      "end_time": "00:00:10.360",
+      "text": "1 processus interrompu,"
+    },
+    {
+      "start_time": "00:00:10.520",
+      "end_time": "00:00:11.800",
+      "text": "1 étape laissée en suspens."
+    },
+    {
+      "start_time": "00:00:11.880",
+      "end_time": "00:00:15.640",
+      "text": "Le cerveau n'aime pas les boucles ouvertes et on appelle ça l'effet Zeigarnik."
+    },
+    {
+      "start_time": "00:00:15.800",
+      "end_time": "00:00:18.640",
+      "text": "On se souvient beaucoup mieux de ce qui est inachevé que de ce qui est"
+    },
+    {
+      "start_time": "00:00:18.960",
+      "end_time": "00:00:22.720",
+      "text": "terminé. car le cerveau essaie instinctivement de fermer la boucle."
+    },
+    {
+      "start_time": "00:00:22.880",
+      "end_time": "00:00:26.120",
+      "text": "Mais voilà le point important, l'inachevé tout seul ne crée pas l'engagement."
+    },
+    {
+      "start_time": "00:00:26.160",
+      "end_time": "00:00:28.040",
+      "text": "Si ce que tu commences n'a pas de sens clair,"
+    },
+    {
+      "start_time": "00:00:28.200",
+      "end_time": "00:00:29.960",
+      "text": "ton cerveau ne s'accroche pas, il lâche."
+    },
+    {
+      "start_time": "00:00:30.120",
+      "end_time": "00:00:32.920",
+      "text": "Et c'est exactement pour ça que dans 1 onboarding par exemple,"
+    },
+    {
+      "start_time": "00:00:33.080",
+      "end_time": "00:00:36.640",
+      "text": "afficher « 3 étapes restantes » n'a quasiment aucun effet. En revanche,"
+    },
+    {
+      "start_time": "00:00:36.840",
+      "end_time": "00:00:39.320",
+      "text": "préciser ce que ces étapes permettent d'obtenir changent"
+    },
+    {
+      "start_time": "00:00:39.640",
+      "end_time": "00:00:41.520",
+      "text": "complètement la manière dont l'utilisateur avance."
+    },
+    {
+      "start_time": "00:00:41.760",
+      "end_time": "00:00:44.080",
+      "text": "L'effet Zeigarnik n'est pas 1 outil pour pousser,"
+    },
+    {
+      "start_time": "00:00:44.240",
+      "end_time": "00:00:45.360",
+      "text": "c'est 1 rappel simple :"
+    },
+    {
+      "start_time": "00:00:45.400",
+      "end_time": "00:00:48.360",
+      "text": "Le cerveau avance mieux quand il sait ce qu'il est en train de terminer."
+    }
+  ]
+}

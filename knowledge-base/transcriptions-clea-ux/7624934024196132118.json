@@ -1,0 +1,166 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.520",
+      "text": "There’s one thing I hear a lot from SaaS founders, it’s"
+    },
+    {
+      "start_time": "00:00:02.600",
+      "end_time": "00:00:05.400",
+      "text": "“we don’t have the means to work on design yet.” Usually"
+    },
+    {
+      "start_time": "00:00:05.480",
+      "end_time": "00:00:06.440",
+      "text": "what they mean is"
+    },
+    {
+      "start_time": "00:00:06.480",
+      "end_time": "00:00:09.840",
+      "text": "“we don’t have the means to make our product look good.” But good and well-designed"
+    },
+    {
+      "start_time": "00:00:09.880",
+      "end_time": "00:00:10.920",
+      "text": "are not the same thing."
+    },
+    {
+      "start_time": "00:00:10.960",
+      "end_time": "00:00:11.960",
+      "text": "If you have to choose where"
+    },
+    {
+      "start_time": "00:00:12.240",
+      "end_time": "00:00:13.360",
+      "text": "to start and you don’t have the"
+    },
+    {
+      "start_time": "00:00:13.520",
+      "end_time": "00:00:14.840",
+      "text": "financial resources to do everything at once,"
+    },
+    {
+      "start_time": "00:00:14.920",
+      "end_time": "00:00:15.880",
+      "text": "here’s what I recommend."
+    },
+    {
+      "start_time": "00:00:15.960",
+      "end_time": "00:00:16.880",
+      "text": "UX first,"
+    },
+    {
+      "start_time": "00:00:17.040",
+      "end_time": "00:00:20.120",
+      "text": "UI after. Because a product that looks good but isn’t intuitive"
+    },
+    {
+      "start_time": "00:00:20.240",
+      "end_time": "00:00:21.120",
+      "text": "doesn’t convert."
+    },
+    {
+      "start_time": "00:00:21.160",
+      "end_time": "00:00:22.200",
+      "text": "Your users arrive,"
+    },
+    {
+      "start_time": "00:00:22.201",
+      "end_time": "00:00:24.680",
+      "text": "they see something pretty, but they don’t understand what to do,"
+    },
+    {
+      "start_time": "00:00:24.681",
+      "end_time": "00:00:25.400",
+      "text": "they get lost,"
+    },
+    {
+      "start_time": "00:00:25.401",
+      "end_time": "00:00:28.920",
+      "text": "they leave and the pretty interface didn’t keep them 1 second longer."
+    },
+    {
+      "start_time": "00:00:28.960",
+      "end_time": "00:00:31.760",
+      "text": "On the other hand, a less pretty product but ultra intuitive"
+    },
+    {
+      "start_time": "00:00:32.040",
+      "end_time": "00:00:32.680",
+      "text": "works."
+    },
+    {
+      "start_time": "00:00:32.681",
+      "end_time": "00:00:34.240",
+      "text": "Your user understands immediately,"
+    },
+    {
+      "start_time": "00:00:34.280",
+      "end_time": "00:00:36.880",
+      "text": "they know what to do, they move forward, they see the value and they come back."
+    },
+    {
+      "start_time": "00:00:36.960",
+      "end_time": "00:00:38.720",
+      "text": "UX is the logic of your product."
+    },
+    {
+      "start_time": "00:00:38.760",
+      "end_time": "00:00:40.815",
+      "text": "It’s what makes someone understand, without being explained,"
+    },
+    {
+      "start_time": "00:00:41.000",
+      "end_time": "00:00:43.960",
+      "text": "that the right button is in the right place and the journey is obvious."
+    },
+    {
+      "start_time": "00:00:44.000",
+      "end_time": "00:00:46.760",
+      "text": "It’s also what makes onboarding lead straight to value."
+    },
+    {
+      "start_time": "00:00:46.800",
+      "end_time": "00:00:47.840",
+      "text": "UI is the wrapping."
+    },
+    {
+      "start_time": "00:00:47.920",
+      "end_time": "00:00:48.640",
+      "text": "It’s important,"
+    },
+    {
+      "start_time": "00:00:48.641",
+      "end_time": "00:00:49.680",
+      "text": "super important even,"
+    },
+    {
+      "start_time": "00:00:49.681",
+      "end_time": "00:00:50.720",
+      "text": "but it’s the layer on top"
+    },
+    {
+      "start_time": "00:00:50.721",
+      "end_time": "00:00:52.680",
+      "text": "and you don’t put the wrapping on before the foundations."
+    },
+    {
+      "start_time": "00:00:52.760",
+      "end_time": "00:00:55.080",
+      "text": "It’s like you telling me you’re going to paint a wall you haven’t even"
+    },
+    {
+      "start_time": "00:00:55.240",
+      "end_time": "00:00:57.640",
+      "text": "built yet. So start by making your product intuitive,"
+    },
+    {
+      "start_time": "00:00:57.760",
+      "end_time": "00:00:59.040",
+      "text": "then make it look good."
+    }
+  ]
+}

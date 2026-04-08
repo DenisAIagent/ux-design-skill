@@ -1,0 +1,161 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.440",
+      "text": "Je fais pas uniquement des maquettes sur Figma. En tant qu’UX designer,"
+    },
+    {
+      "start_time": "00:00:02.680",
+      "end_time": "00:00:05.000",
+      "text": "mon travail commence bien avant le design du 1er écran."
+    },
+    {
+      "start_time": "00:00:05.080",
+      "end_time": "00:00:06.920",
+      "text": "Aujourd'hui, j'aimerais remettre les choses dans leur contexte"
+    },
+    {
+      "start_time": "00:00:06.921",
+      "end_time": "00:00:08.280",
+      "text": "parce que mon travail ne consiste pas"
+    },
+    {
+      "start_time": "00:00:08.600",
+      "end_time": "00:00:10.080",
+      "text": "uniquement à faire des maquettes sur Figma."
+    },
+    {
+      "start_time": "00:00:10.120",
+      "end_time": "00:00:12.040",
+      "text": "La 1ère chose que je fais quand j'arrive sur 1 projet,"
+    },
+    {
+      "start_time": "00:00:12.080",
+      "end_time": "00:00:14.680",
+      "text": "c'est de prendre le temps de vraiment comprendre. Le produit,"
+    },
+    {
+      "start_time": "00:00:14.800",
+      "end_time": "00:00:15.480",
+      "text": "la vision,"
+    },
+    {
+      "start_time": "00:00:15.481",
+      "end_time": "00:00:19.520",
+      "text": "les objectifs et surtout les utilisateurs finaux. Qui ils sont, ce qu'ils veulent,"
+    },
+    {
+      "start_time": "00:00:19.560",
+      "end_time": "00:00:20.800",
+      "text": "ce qui les blocs au quotidien."
+    },
+    {
+      "start_time": "00:00:20.840",
+      "end_time": "00:00:21.840",
+      "text": "1 fois que j'ai cette base,"
+    },
+    {
+      "start_time": "00:00:21.880",
+      "end_time": "00:00:24.400",
+      "text": "je construis les parcours utilisateurs et les users flow."
+    },
+    {
+      "start_time": "00:00:24.480",
+      "end_time": "00:00:26.400",
+      "text": "Je trace le chemin que l'utilisateur va prendre"
+    },
+    {
+      "start_time": "00:00:26.520",
+      "end_time": "00:00:29.720",
+      "text": "depuis son arrivée sur le produit jusqu'au moment où il réalise la valeur."
+    },
+    {
+      "start_time": "00:00:29.721",
+      "end_time": "00:00:32.640",
+      "text": "Et j'identifie tout ce qui pourrait le faire décrocher en cours de route."
+    },
+    {
+      "start_time": "00:00:32.760",
+      "end_time": "00:00:34.160",
+      "text": "Je travaille aussi sur la conversion,"
+    },
+    {
+      "start_time": "00:00:34.360",
+      "end_time": "00:00:37.160",
+      "text": "la rétention, comment faire en sorte que les visiteurs s'inscrivent,"
+    },
+    {
+      "start_time": "00:00:37.200",
+      "end_time": "00:00:38.880",
+      "text": "mais surtout comment faire en sorte qu'ils restent."
+    },
+    {
+      "start_time": "00:00:38.960",
+      "end_time": "00:00:41.200",
+      "text": "Parce qu'avoir des utilisateurs c'est bien, mais les garder,"
+    },
+    {
+      "start_time": "00:00:41.240",
+      "end_time": "00:00:42.840",
+      "text": "c'est-ce qui fait vraiment tourner ton SaaS."
+    },
+    {
+      "start_time": "00:00:42.920",
+      "end_time": "00:00:44.720",
+      "text": "Donc je me contente pas juste d'exécuter,"
+    },
+    {
+      "start_time": "00:00:44.760",
+      "end_time": "00:00:48.040",
+      "text": "mais j'apporte mon regard et mon expertise sur l'ensemble du produit."
+    },
+    {
+      "start_time": "00:00:48.080",
+      "end_time": "00:00:49.760",
+      "text": "Si je vois 1 opportunité, je la propose."
+    },
+    {
+      "start_time": "00:00:49.880",
+      "end_time": "00:00:51.960",
+      "text": "Si quelque chose peut être mieux fait, je le dis aussi."
+    },
+    {
+      "start_time": "00:00:52.000",
+      "end_time": "00:00:54.360",
+      "text": "Et bien sûr, je m'occupe aussi de tout l'aspect UI,"
+    },
+    {
+      "start_time": "00:00:54.560",
+      "end_time": "00:00:57.200",
+      "text": "donc le design d'interface. Tout ce qui est maquette, composants,"
+    },
+    {
+      "start_time": "00:00:57.360",
+      "end_time": "00:00:58.120",
+      "text": "interface finale."
+    },
+    {
+      "start_time": "00:00:58.121",
+      "end_time": "00:00:58.520",
+      "text": "Mais le truc,"
+    },
+    {
+      "start_time": "00:00:58.521",
+      "end_time": "00:01:01.200",
+      "text": "c'est que ça arrive toujours en dernier parce qu'une belle interface sans"
+    },
+    {
+      "start_time": "00:01:01.360",
+      "end_time": "00:01:05.080",
+      "text": "réflexion UX derrière, ça reste 1 belle interface mais sans conversion,"
+    },
+    {
+      "start_time": "00:01:05.280",
+      "end_time": "00:01:06.960",
+      "text": "ni activation, ni rétention."
+    }
+  ]
+}

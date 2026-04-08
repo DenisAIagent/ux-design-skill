@@ -1,0 +1,616 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.480",
+      "text": "On est parti pour analyser cette landing page."
+    },
+    {
+      "start_time": "00:00:02.600",
+      "end_time": "00:00:04.280",
+      "text": "Nous voici donc sur la landing page."
+    },
+    {
+      "start_time": "00:00:04.480",
+      "end_time": "00:00:05.000",
+      "text": "Et déjà"
+    },
+    {
+      "start_time": "00:00:05.001",
+      "end_time": "00:00:08.000",
+      "text": "1ère chose que je peux remarquer c'est qu'il y a plutôt 1 bonne hiérarchie."
+    },
+    {
+      "start_time": "00:00:08.320",
+      "end_time": "00:00:10.520",
+      "text": "On a 1 titre en gros 1 sous-titre"
+    },
+    {
+      "start_time": "00:00:11.000",
+      "end_time": "00:00:13.360",
+      "text": "1 CTA avec de la réassurance"
+    },
+    {
+      "start_time": "00:00:13.560",
+      "end_time": "00:00:14.440",
+      "text": "1 petite image"
+    },
+    {
+      "start_time": "00:00:14.680",
+      "end_time": "00:00:16.800",
+      "text": "Pour visualiser 1 peu de quoi on parle"
+    },
+    {
+      "start_time": "00:00:17.160",
+      "end_time": "00:00:21.200",
+      "text": "Niveau hiérarchie il y aurait rien à dire. Si je devais redire quelque chose"
+    },
+    {
+      "start_time": "00:00:21.480",
+      "end_time": "00:00:25.000",
+      "text": "ce serait notamment par rapport à l'image mais aussi par rapport au CTA."
+    },
+    {
+      "start_time": "00:00:25.080",
+      "end_time": "00:00:26.040",
+      "text": "Donc des sites web"
+    },
+    {
+      "start_time": "00:00:26.560",
+      "end_time": "00:00:28.440",
+      "text": "professionnels pour restaurant sans complication"
+    },
+    {
+      "start_time": "00:00:28.520",
+      "end_time": "00:00:32.080",
+      "text": "ok sans complication Par rapport à quoi ? Ça on pourrait se le demander."
+    },
+    {
+      "start_time": "00:00:32.159",
+      "end_time": "00:00:34.920",
+      "text": "nous créons votre site web pour vous. Mise à jour"
+    },
+    {
+      "start_time": "00:00:35.360",
+      "end_time": "00:00:36.760",
+      "text": "aussi simple qu'un SMS"
+    },
+    {
+      "start_time": "00:00:37.280",
+      "end_time": "00:00:38.200",
+      "text": "j'aime bien cette phrase"
+    },
+    {
+      "start_time": "00:00:38.640",
+      "end_time": "00:00:40.680",
+      "text": "Aucune compétence technique requise"
+    },
+    {
+      "start_time": "00:00:40.720",
+      "end_time": "00:00:42.880",
+      "text": "ok Donc en fait tu prônes la simplicité"
+    },
+    {
+      "start_time": "00:00:43.160",
+      "end_time": "00:00:44.280",
+      "text": "ça c'est plutôt chouette"
+    },
+    {
+      "start_time": "00:00:44.640",
+      "end_time": "00:00:46.040",
+      "text": "surtout pour de la restauration."
+    },
+    {
+      "start_time": "00:00:46.160",
+      "end_time": "00:00:48.400",
+      "text": "Si je devais revoir quelque chose sur cette Hero section,"
+    },
+    {
+      "start_time": "00:00:48.560",
+      "end_time": "00:00:52.560",
+      "text": "ce serait de réussir à mettre en avant mon travail parce que là tu proposes"
+    },
+    {
+      "start_time": "00:00:52.920",
+      "end_time": "00:00:53.920",
+      "text": "Des sites web"
+    },
+    {
+      "start_time": "00:00:54.440",
+      "end_time": "00:00:56.280",
+      "text": "donc ça peut être super"
+    },
+    {
+      "start_time": "00:00:56.680",
+      "end_time": "00:00:59.760",
+      "text": "intéressant de mettre directement en avant des sites que tu as déjà fait"
+    },
+    {
+      "start_time": "00:01:00.000",
+      "end_time": "00:01:02.040",
+      "text": "pour montrer ben 1 peu ton expertise."
+    },
+    {
+      "start_time": "00:01:02.080",
+      "end_time": "00:01:02.920",
+      "text": "Donc à ce moment-là"
+    },
+    {
+      "start_time": "00:01:02.960",
+      "end_time": "00:01:03.840",
+      "text": "cette photo-là"
+    },
+    {
+      "start_time": "00:01:03.880",
+      "end_time": "00:01:08.000",
+      "text": "peut-être que je la conserverai mais en arrière-plan 1 peu sombre"
+    },
+    {
+      "start_time": "00:01:08.120",
+      "end_time": "00:01:09.920",
+      "text": "pour montrer qu'on parle de restauration."
+    },
+    {
+      "start_time": "00:01:10.000",
+      "end_time": "00:01:12.360",
+      "text": "Et Je mettrai le titre au milieu"
+    },
+    {
+      "start_time": "00:01:13.000",
+      "end_time": "00:01:17.760",
+      "text": "avec Mon petit sous-titre et mon CTA en 1 peu plus gros 1 peu plus visible"
+    },
+    {
+      "start_time": "00:01:18.000",
+      "end_time": "00:01:19.200",
+      "text": "même avec 1 couleur qui"
+    },
+    {
+      "start_time": "00:01:19.480",
+      "end_time": "00:01:23.080",
+      "text": "contraste 1 petit peu plus que ce qu'il y a déjà là ou là"
+    },
+    {
+      "start_time": "00:01:23.480",
+      "end_time": "00:01:26.320",
+      "text": "pour qu'ils ressortent encore mieux Et autour je mettrai"
+    },
+    {
+      "start_time": "00:01:26.480",
+      "end_time": "00:01:27.280",
+      "text": "des p'tits"
+    },
+    {
+      "start_time": "00:01:27.360",
+      "end_time": "00:01:30.880",
+      "text": "des p'tits exemples de de sites que j'aurais déjà fait dans la restauration."
+    },
+    {
+      "start_time": "00:01:30.920",
+      "end_time": "00:01:32.400",
+      "text": "Ensuite pour ce qui est du wording"
+    },
+    {
+      "start_time": "00:01:32.520",
+      "end_time": "00:01:34.680",
+      "text": "peut-être que je reverrai 1 p'tit peu la promesse"
+    },
+    {
+      "start_time": "00:01:35.240",
+      "end_time": "00:01:39.880",
+      "text": "Pour taper là où ça fait mal en restauration Et en même temps le CTA aussi"
+    },
+    {
+      "start_time": "00:01:40.120",
+      "end_time": "00:01:41.840",
+      "text": "demandez votre site web pourquoi pas."
+    },
+    {
+      "start_time": "00:01:42.120",
+      "end_time": "00:01:44.200",
+      "text": "Il y a 1 truc qui est le biais d'appartenance"
+    },
+    {
+      "start_time": "00:01:44.320",
+      "end_time": "00:01:47.400",
+      "text": "qui peut être qui peut être intéressant ici Et ce serait de dire"
+    },
+    {
+      "start_time": "00:01:47.960",
+      "end_time": "00:01:50.320",
+      "text": "demander mon site web ou je veux mon site web."
+    },
+    {
+      "start_time": "00:01:50.360",
+      "end_time": "00:01:52.240",
+      "text": "C'est quelque chose qui fonctionne aussi pas mal."
+    },
+    {
+      "start_time": "00:01:52.680",
+      "end_time": "00:01:55.440",
+      "text": "Et Aucune carte bancaire requise"
+    },
+    {
+      "start_time": "00:01:56.120",
+      "end_time": "00:01:57.840",
+      "text": "c'est très bien ça fonctionne bien en réassurance."
+    },
+    {
+      "start_time": "00:01:57.960",
+      "end_time": "00:02:00.400",
+      "text": "Ensuite je rajouterai aussi des"
+    },
+    {
+      "start_time": "00:02:01.120",
+      "end_time": "00:02:02.160",
+      "text": "De la preuve sociale"
+    },
+    {
+      "start_time": "00:02:02.480",
+      "end_time": "00:02:04.880",
+      "text": "notamment le Par exemple le nombre de clients que tu as pu aider"
+    },
+    {
+      "start_time": "00:02:05.440",
+      "end_time": "00:02:07.560",
+      "text": "ou des chiffres qui montreraient"
+    },
+    {
+      "start_time": "00:02:07.720",
+      "end_time": "00:02:09.960",
+      "text": "À quel point ça les aide dans hero section"
+    },
+    {
+      "start_time": "00:02:10.040",
+      "end_time": "00:02:12.440",
+      "text": "C'est vraiment pas négligable. On va aller voir la suite"
+    },
+    {
+      "start_time": "00:02:12.800",
+      "end_time": "00:02:14.840",
+      "text": "tout ce dont votre restaurant a besoin en ligne"
+    },
+    {
+      "start_time": "00:02:14.841",
+      "end_time": "00:02:19.240",
+      "text": "Donc là tu déballes directement tous les bénéfices que tu apportes là"
+    },
+    {
+      "start_time": "00:02:19.241",
+      "end_time": "00:02:22.560",
+      "text": "La méthode simple comme un-deux-trois Ok"
+    },
+    {
+      "start_time": "00:02:23.720",
+      "end_time": "00:02:25.040",
+      "text": "la tarification"
+    },
+    {
+      "start_time": "00:02:26.440",
+      "end_time": "00:02:28.720",
+      "text": "la FAQ et 1 dernier CTA."
+    },
+    {
+      "start_time": "00:02:28.760",
+      "end_time": "00:02:31.520",
+      "text": "Bon en soi c'est quelque chose qui peut très bien fonctionner maintenant"
+    },
+    {
+      "start_time": "00:02:31.521",
+      "end_time": "00:02:32.360",
+      "text": "ce que je te propose"
+    },
+    {
+      "start_time": "00:02:32.480",
+      "end_time": "00:02:34.440",
+      "text": "et qui pourrait vraiment faire la différence"
+    },
+    {
+      "start_time": "00:02:34.640",
+      "end_time": "00:02:36.600",
+      "text": "Surtout que là tu Promouvoies ton travail"
+    },
+    {
+      "start_time": "00:02:37.120",
+      "end_time": "00:02:40.800",
+      "text": "ce serait D'appuyer 1 peu plus sur la douleur de ta cible"
+    },
+    {
+      "start_time": "00:02:41.200",
+      "end_time": "00:02:45.360",
+      "text": "et avant de déballer tout ce que tu vas leur proposer pour régler leur problème"
+    },
+    {
+      "start_time": "00:02:45.400",
+      "end_time": "00:02:48.240",
+      "text": "bah c'est de d'aller toucher là où ça fait mal"
+    },
+    {
+      "start_time": "00:02:48.440",
+      "end_time": "00:02:51.560",
+      "text": "et donc d'ajouter 1 section qui s'appelle douleur"
+    },
+    {
+      "start_time": "00:02:51.960",
+      "end_time": "00:02:53.160",
+      "text": "où tu vas"
+    },
+    {
+      "start_time": "00:02:53.960",
+      "end_time": "00:02:57.480",
+      "text": "appuyer sur toutes leurs douleurs justement et toutes leurs problématiques"
+    },
+    {
+      "start_time": "00:02:57.760",
+      "end_time": "00:02:59.640",
+      "text": "pour cibler 1 maximum"
+    },
+    {
+      "start_time": "00:03:00.360",
+      "end_time": "00:03:04.000",
+      "text": "ta cible finalement ha ha ha. Donc j'aurais mis 1 section en plus ici"
+    },
+    {
+      "start_time": "00:03:04.360",
+      "end_time": "00:03:07.480",
+      "text": "qui dit par exemple donc je sais pas exactement"
+    },
+    {
+      "start_time": "00:03:07.520",
+      "end_time": "00:03:10.720",
+      "text": "La douleur des restaurateurs mais qui dit votre site ne fonctionne pas"
+    },
+    {
+      "start_time": "00:03:10.721",
+      "end_time": "00:03:13.280",
+      "text": "ne vous ramène pas assez de réservation etc etc"
+    },
+    {
+      "start_time": "00:03:13.640",
+      "end_time": "00:03:16.400",
+      "text": "Pour vraiment faire 1 système d'entonnoir et cibler 1 maximum."
+    },
+    {
+      "start_time": "00:03:16.480",
+      "end_time": "00:03:19.800",
+      "text": "Et ensuite je déballe mes bénéfices ou ce que je vais leur apporter"
+    },
+    {
+      "start_time": "00:03:19.840",
+      "end_time": "00:03:21.960",
+      "text": "Donc ces 4 points-là. la méthodologie"
+    },
+    {
+      "start_time": "00:03:22.160",
+      "end_time": "00:03:23.200",
+      "text": "c'est bien de la mettre"
+    },
+    {
+      "start_time": "00:03:23.240",
+      "end_time": "00:03:27.640",
+      "text": "Je pense que il manquerait entre ces 2 sections-là 1 section preuve sociale"
+    },
+    {
+      "start_time": "00:03:27.960",
+      "end_time": "00:03:31.280",
+      "text": "avec les avis et témoignages des clients que t'as déjà pu avoir"
+    },
+    {
+      "start_time": "00:03:31.281",
+      "end_time": "00:03:32.560",
+      "text": "Ça peut être vraiment intéressant"
+    },
+    {
+      "start_time": "00:03:32.600",
+      "end_time": "00:03:35.000",
+      "text": "Et pourquoi pas ajouter aussi 1 section"
+    },
+    {
+      "start_time": "00:03:35.480",
+      "end_time": "00:03:38.080",
+      "text": "où tu montres ton travail 1 peu style portfolio"
+    },
+    {
+      "start_time": "00:03:38.240",
+      "end_time": "00:03:41.800",
+      "text": "ou alors quelques images d'exemple de site que tu as déjà pu réaliser."
+    },
+    {
+      "start_time": "00:03:41.840",
+      "end_time": "00:03:45.240",
+      "text": "Et donc cette section portfolio je la mettrai peut-être en dessous de"
+    },
+    {
+      "start_time": "00:03:45.920",
+      "end_time": "00:03:49.720",
+      "text": "de la méthodologie juste avant le la tarification"
+    },
+    {
+      "start_time": "00:03:50.000",
+      "end_time": "00:03:52.560",
+      "text": "Et comme ça 1 fois que t'as déballé tout ton travail"
+    },
+    {
+      "start_time": "00:03:52.760",
+      "end_time": "00:03:57.160",
+      "text": "que t'as réassuré que t'as donné envie de travailler avec toi à Ce moment-là"
+    },
+    {
+      "start_time": "00:03:57.400",
+      "end_time": "00:04:00.880",
+      "text": "Tu donnes le prix. Là pour la section avec la tarification"
+    },
+    {
+      "start_time": "00:04:01.240",
+      "end_time": "00:04:04.040",
+      "text": "Je pense que il faudrait peut-être revoir le wording"
+    },
+    {
+      "start_time": "00:04:04.520",
+      "end_time": "00:04:08.800",
+      "text": "pour étoffer 1 p'tit peu plus ce que tu proposes Et au lieu de mettre commencer"
+    },
+    {
+      "start_time": "00:04:09.200",
+      "end_time": "00:04:11.440",
+      "text": "remettre exactement le même CTA qui est là"
+    },
+    {
+      "start_time": "00:04:11.800",
+      "end_time": "00:04:15.240",
+      "text": "Donc demandez votre site web ou mon site web ou je veux mon site web."
+    },
+    {
+      "start_time": "00:04:15.280",
+      "end_time": "00:04:18.320",
+      "text": "Et en parlant de CTA ça me fait penser qu'il y en a pas assez sur ta"
+    },
+    {
+      "start_time": "00:04:18.520",
+      "end_time": "00:04:20.320",
+      "text": "sur ta landing page. Alors il faut pas"
+    },
+    {
+      "start_time": "00:04:20.440",
+      "end_time": "00:04:22.640",
+      "text": "Bien sûr il faut faut faut doser hein"
+    },
+    {
+      "start_time": "00:04:23.240",
+      "end_time": "00:04:24.680",
+      "text": "Faut pas qu'il y en ait à chaque section"
+    },
+    {
+      "start_time": "00:04:24.920",
+      "end_time": "00:04:26.760",
+      "text": "mais par exemple à des endroits stratégiques."
+    },
+    {
+      "start_time": "00:04:27.120",
+      "end_time": "00:04:30.240",
+      "text": "Si là tu après la hero section tu fais 1 section de douleur"
+    },
+    {
+      "start_time": "00:04:30.680",
+      "end_time": "00:04:33.360",
+      "text": "et qu'ensuite tu montres tout ce que tu vas leur apporter"
+    },
+    {
+      "start_time": "00:04:33.920",
+      "end_time": "00:04:38.200",
+      "text": "alors ici ça peut être vraiment opportun de mettre 1 CTA qui"
+    },
+    {
+      "start_time": "00:04:38.240",
+      "end_time": "00:04:39.560",
+      "text": "Qui redescendrait vers le"
+    },
+    {
+      "start_time": "00:04:39.720",
+      "end_time": "00:04:42.600",
+      "text": "vers le prix ou vers Je ne sais pas vers quoi ça vous dirige"
+    },
+    {
+      "start_time": "00:04:42.760",
+      "end_time": "00:04:46.680",
+      "text": "ok vers le formulaire. Et ensuite 1 section FAQ juste après le prix"
+    },
+    {
+      "start_time": "00:04:46.720",
+      "end_time": "00:04:49.800",
+      "text": "c'est 1 très très bonne chose parce que c'est c'est de la réassurance"
+    },
+    {
+      "start_time": "00:04:49.840",
+      "end_time": "00:04:50.760",
+      "text": "Donc franchement bravo"
+    },
+    {
+      "start_time": "00:04:50.761",
+      "end_time": "00:04:54.520",
+      "text": "c'est c'est c'est très bien d'avoir mis la FAQ ici et 1 dernier CTA."
+    },
+    {
+      "start_time": "00:04:54.800",
+      "end_time": "00:04:56.040",
+      "text": "Je le dirai jamais assez"
+    },
+    {
+      "start_time": "00:04:56.560",
+      "end_time": "00:04:58.080",
+      "text": "les CTA c'est bien d'en mettre"
+    },
+    {
+      "start_time": "00:04:58.440",
+      "end_time": "00:05:00.960",
+      "text": "1 tout en haut au-dessus de la ligne de flottaison"
+    },
+    {
+      "start_time": "00:05:01.080",
+      "end_time": "00:05:02.400",
+      "text": "Donc c'est-à-dire la ligne"
+    },
+    {
+      "start_time": "00:05:02.760",
+      "end_time": "00:05:05.160",
+      "text": "Qui sépare la 1ère section"
+    },
+    {
+      "start_time": "00:05:05.720",
+      "end_time": "00:05:09.000",
+      "text": "ou plutôt le 1er écran avec le 1er scroll"
+    },
+    {
+      "start_time": "00:05:10.040",
+      "end_time": "00:05:13.240",
+      "text": "ensuite d'en mettre 1 dans les sections qui sont"
+    },
+    {
+      "start_time": "00:05:14.080",
+      "end_time": "00:05:14.880",
+      "text": "Opportunes ?"
+    },
+    {
+      "start_time": "00:05:15.000",
+      "end_time": "00:05:19.360",
+      "text": "J'sais pas si on dit comme ça Ha ha mais Comme je le disais par exemple ici"
+    },
+    {
+      "start_time": "00:05:20.160",
+      "end_time": "00:05:24.000",
+      "text": "ici et du coup mettre 1 dernier CTA tout en bas"
+    },
+    {
+      "start_time": "00:05:24.080",
+      "end_time": "00:05:26.600",
+      "text": "pour les plus courageux qui ont lu toute la landing page."
+    },
+    {
+      "start_time": "00:05:26.680",
+      "end_time": "00:05:28.240",
+      "text": "Voilà, il y aurait pas grand-chose à revoir"
+    },
+    {
+      "start_time": "00:05:28.280",
+      "end_time": "00:05:31.680",
+      "text": "En tout cas ta landing page est déjà vraiment bien donc bravo"
+    },
+    {
+      "start_time": "00:05:32.000",
+      "end_time": "00:05:35.000",
+      "text": "et j'espère que toutes ces petites recommandations ont pu t'aider,"
+    },
+    {
+      "start_time": "00:05:35.280",
+      "end_time": "00:05:36.520",
+      "text": "te donner quelques pistes."
+    },
+    {
+      "start_time": "00:05:36.800",
+      "end_time": "00:05:38.999",
+      "text": "et en tout cas Je te souhaite que de la réussite"
+    }
+  ]
+}

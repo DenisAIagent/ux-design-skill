@@ -1,0 +1,96 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.080",
+      "end_time": "00:00:01.560",
+      "text": "It's not because I'm a UX designer"
+    },
+    {
+      "start_time": "00:00:01.920",
+      "end_time": "00:00:03.920",
+      "text": "that I get everything right from the start. In UX design,"
+    },
+    {
+      "start_time": "00:00:04.040",
+      "end_time": "00:00:04.840",
+      "text": "what really matters"
+    },
+    {
+      "start_time": "00:00:04.841",
+      "end_time": "00:00:07.480",
+      "text": "isn't getting it right the first time, but iterating."
+    },
+    {
+      "start_time": "00:00:07.520",
+      "end_time": "00:00:08.320",
+      "text": "UX is not a"
+    },
+    {
+      "start_time": "00:00:08.600",
+      "end_time": "00:00:11.480",
+      "text": "discipline where we think hard enough to find the right answer,"
+    },
+    {
+      "start_time": "00:00:11.640",
+      "end_time": "00:00:14.680",
+      "text": "it's a discipline where we test hypotheses in the real world."
+    },
+    {
+      "start_time": "00:00:14.720",
+      "end_time": "00:00:16.200",
+      "text": "A user journey might seem logical,"
+    },
+    {
+      "start_time": "00:00:16.280",
+      "end_time": "00:00:18.280",
+      "text": "an interface might seem really clear,"
+    },
+    {
+      "start_time": "00:00:18.640",
+      "end_time": "00:00:21.000",
+      "text": "but until it's confronted with real usage,"
+    },
+    {
+      "start_time": "00:00:21.120",
+      "end_time": "00:00:24.600",
+      "text": "these are just assumptions. And that's why iteration is central to UX."
+    },
+    {
+      "start_time": "00:00:24.720",
+      "end_time": "00:00:26.800",
+      "text": "We observe, we adjust, we simplify"
+    },
+    {
+      "start_time": "00:00:27.080",
+      "end_time": "00:00:29.240",
+      "text": "again and again, and again and again."
+    },
+    {
+      "start_time": "00:00:29.320",
+      "end_time": "00:00:31.440",
+      "text": "And seeking perfection too early"
+    },
+    {
+      "start_time": "00:00:31.441",
+      "end_time": "00:00:32.640",
+      "text": "is not rigor,"
+    },
+    {
+      "start_time": "00:00:32.680",
+      "end_time": "00:00:35.720",
+      "text": "but is often a hindrance. In UX, what makes a product quality"
+    },
+    {
+      "start_time": "00:00:35.800",
+      "end_time": "00:00:37.240",
+      "text": "isn't initial correctness,"
+    },
+    {
+      "start_time": "00:00:37.280",
+      "end_time": "00:00:39.920",
+      "text": "it's the ability to evolve based on what we learn."
+    }
+  ]
+}

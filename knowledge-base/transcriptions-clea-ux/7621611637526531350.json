@@ -1,0 +1,206 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:00.880",
+      "text": "En UX il y a des moments"
+    },
+    {
+      "start_time": "00:00:01.120",
+      "end_time": "00:00:03.920",
+      "text": "précis où ton utilisateur est beaucoup plus réceptif que d'habitude."
+    },
+    {
+      "start_time": "00:00:03.960",
+      "end_time": "00:00:05.280",
+      "text": "Et si tu sais les identifier,"
+    },
+    {
+      "start_time": "00:00:05.400",
+      "end_time": "00:00:06.520",
+      "text": "tu peux agir au bon moment."
+    },
+    {
+      "start_time": "00:00:06.600",
+      "end_time": "00:00:09.800",
+      "text": "Voici 5 moments où l'intention de ton utilisateur est la plus forte."
+    },
+    {
+      "start_time": "00:00:09.960",
+      "end_time": "00:00:11.760",
+      "text": "Le 1er, c'est juste après l'inscription."
+    },
+    {
+      "start_time": "00:00:11.840",
+      "end_time": "00:00:14.960",
+      "text": "Ton utilisateur vient de créer son compte, il est motivé, il est là, il est prêt."
+    },
+    {
+      "start_time": "00:00:15.240",
+      "end_time": "00:00:16.040",
+      "text": "C'est ici que sa"
+    },
+    {
+      "start_time": "00:00:16.400",
+      "end_time": "00:00:17.440",
+      "text": "motivation est à son maximum."
+    },
+    {
+      "start_time": "00:00:17.480",
+      "end_time": "00:00:20.040",
+      "text": "Donc c'est le moment de lancer ton onboarding et de l'emmener vers son"
+    },
+    {
+      "start_time": "00:00:20.240",
+      "end_time": "00:00:21.200",
+      "text": "aha moment le plus"
+    },
+    {
+      "start_time": "00:00:21.560",
+      "end_time": "00:00:22.080",
+      "text": "rapidement possible."
+    },
+    {
+      "start_time": "00:00:22.081",
+      "end_time": "00:00:24.280",
+      "text": "Le 2e, c'est juste après le aha moment."
+    },
+    {
+      "start_time": "00:00:24.600",
+      "end_time": "00:00:26.400",
+      "text": "C'est là qu'il réalise pour la 1ère fois que ton"
+    },
+    {
+      "start_time": "00:00:26.600",
+      "end_time": "00:00:28.200",
+      "text": "produit a vraiment de la valeur pour lui."
+    },
+    {
+      "start_time": "00:00:28.240",
+      "end_time": "00:00:29.840",
+      "text": "Il vient de vivre sa toute 1ère victoire"
+    },
+    {
+      "start_time": "00:00:29.880",
+      "end_time": "00:00:31.960",
+      "text": "et c'est maintenant que tu peux lui proposer plusieurs choses."
+    },
+    {
+      "start_time": "00:00:32.120",
+      "end_time": "00:00:32.920",
+      "text": "Passer au plan payant,"
+    },
+    {
+      "start_time": "00:00:32.960",
+      "end_time": "00:00:34.760",
+      "text": "inviter son équipe ou même aller plus loin."
+    },
+    {
+      "start_time": "00:00:34.800",
+      "end_time": "00:00:36.640",
+      "text": "Le 3e, c'est quand il fait 1 erreur."
+    },
+    {
+      "start_time": "00:00:36.680",
+      "end_time": "00:00:39.080",
+      "text": "C'est contre-intuitif mais redoutablement efficace."
+    },
+    {
+      "start_time": "00:00:39.160",
+      "end_time": "00:00:41.720",
+      "text": "Quand ton utilisateur bloque sur quelque chose, il est frustré,"
+    },
+    {
+      "start_time": "00:00:41.760",
+      "end_time": "00:00:43.720",
+      "text": "il cherche 1 solution, donc il est attentif."
+    },
+    {
+      "start_time": "00:00:43.840",
+      "end_time": "00:00:45.800",
+      "text": "Ne te contente pas d'afficher 1 message d'erreur,"
+    },
+    {
+      "start_time": "00:00:45.840",
+      "end_time": "00:00:48.640",
+      "text": "mais c'est le moment de le guider vers la solution en 1 action."
+    },
+    {
+      "start_time": "00:00:48.720",
+      "end_time": "00:00:51.320",
+      "text": "Le 4e, c'est quand il l'abandonne en cours de route."
+    },
+    {
+      "start_time": "00:00:51.400",
+      "end_time": "00:00:52.960",
+      "text": "Il a commencé quelque chose sans le finir,"
+    },
+    {
+      "start_time": "00:00:52.961",
+      "end_time": "00:00:54.800",
+      "text": "mais le cerveau n'aime pas ce qui est inachevé,"
+    },
+    {
+      "start_time": "00:00:54.840",
+      "end_time": "00:00:57.880",
+      "text": "il y pense encore. Donc envoie-lui 1 micro feedback à ce moment-là"
+    },
+    {
+      "start_time": "00:00:57.960",
+      "end_time": "00:00:59.240",
+      "text": "« tu avais commencé telle chose,"
+    },
+    {
+      "start_time": "00:00:59.320",
+      "end_time": "00:01:02.880",
+      "text": "qu'est-ce qui t'a arrêté ? » Et le 5e, c'est quand il revient après 1 longue absence,"
+    },
+    {
+      "start_time": "00:01:03.040",
+      "end_time": "00:01:04.920",
+      "text": "il a décidé de redonner 1 chance à ton produit,"
+    },
+    {
+      "start_time": "00:01:04.960",
+      "end_time": "00:01:06.680",
+      "text": "et ça, c'est 1 signal fort mais fragile."
+    },
+    {
+      "start_time": "00:01:06.880",
+      "end_time": "00:01:09.680",
+      "text": "Donc accueille son retour avec 1 résumé de là où il en était et"
+    },
+    {
+      "start_time": "00:01:09.840",
+      "end_time": "00:01:12.080",
+      "text": "propose-lui 1 action claire pour reprendre. Ces 5 moments,"
+    },
+    {
+      "start_time": "00:01:12.081",
+      "end_time": "00:01:12.840",
+      "text": "ils ne s'inventent pas,"
+    },
+    {
+      "start_time": "00:01:12.841",
+      "end_time": "00:01:14.240",
+      "text": "ils s'observent, ils se mesurent,"
+    },
+    {
+      "start_time": "00:01:14.360",
+      "end_time": "00:01:15.000",
+      "text": "ils s'anticipent."
+    },
+    {
+      "start_time": "00:01:15.001",
+      "end_time": "00:01:17.360",
+      "text": "Et quand tu les connais-tu ne parles plus à tes utilisateurs au hasard,"
+    },
+    {
+      "start_time": "00:01:17.440",
+      "end_time": "00:01:19.720",
+      "text": "tu lui parles exactement quand il est prêt à t'écouter."
+    }
+  ]
+}

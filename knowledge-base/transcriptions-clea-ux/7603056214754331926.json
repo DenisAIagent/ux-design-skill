@@ -1,0 +1,216 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.201",
+      "end_time": "00:00:03.280",
+      "text": "I’ll give you a UX shortcut you never see anywhere, but it’ll make your SaaS"
+    },
+    {
+      "start_time": "00:00:03.600",
+      "end_time": "00:00:07.360",
+      "text": "addictive. Turn every completed step into a power-up."
+    },
+    {
+      "start_time": "00:00:07.400",
+      "end_time": "00:00:07.960",
+      "text": "Let me explain."
+    },
+    {
+      "start_time": "00:00:07.961",
+      "end_time": "00:00:10.360",
+      "text": "Most SaaS give access to everything from day one"
+    },
+    {
+      "start_time": "00:00:10.440",
+      "end_time": "00:00:11.760",
+      "text": "and for some, that’s necessary."
+    },
+    {
+      "start_time": "00:00:11.761",
+      "end_time": "00:00:12.320",
+      "text": "But for others,"
+    },
+    {
+      "start_time": "00:00:12.321",
+      "end_time": "00:00:14.880",
+      "text": "you can create a onboarding path when they first enter the SaaS"
+    },
+    {
+      "start_time": "00:00:14.881",
+      "end_time": "00:00:16.280",
+      "text": "to guide users"
+    },
+    {
+      "start_time": "00:00:16.440",
+      "end_time": "00:00:17.040",
+      "text": "however you want."
+    },
+    {
+      "start_time": "00:00:17.041",
+      "end_time": "00:00:19.640",
+      "text": "Imagine your user has just added their first client."
+    },
+    {
+      "start_time": "00:00:19.720",
+      "end_time": "00:00:21.880",
+      "text": "The classic scenario is: they click on “add,”"
+    },
+    {
+      "start_time": "00:00:22.000",
+      "end_time": "00:00:22.880",
+      "text": "they enter the name,"
+    },
+    {
+      "start_time": "00:00:22.960",
+      "end_time": "00:00:24.320",
+      "text": "the info, and they confirm."
+    },
+    {
+      "start_time": "00:00:24.360",
+      "end_time": "00:00:27.120",
+      "text": "The client appears in the list and then nothing else happens."
+    },
+    {
+      "start_time": "00:00:27.121",
+      "end_time": "00:00:29.720",
+      "text": "It’s up to the user to figure out what they can do with that client."
+    },
+    {
+      "start_time": "00:00:29.760",
+      "end_time": "00:00:32.360",
+      "text": "Now imagine the same scenario, but when they add the client,"
+    },
+    {
+      "start_time": "00:00:32.440",
+      "end_time": "00:00:34.440",
+      "text": "there’s an animation that says: “You just unlocked:"
+    },
+    {
+      "start_time": "00:00:34.880",
+      "end_time": "00:00:35.680",
+      "text": "quote creation.”"
+    },
+    {
+      "start_time": "00:00:35.681",
+      "end_time": "00:00:38.760",
+      "text": "There’s a preview of the feature that animates, plus a CTA"
+    },
+    {
+      "start_time": "00:00:39.120",
+      "end_time": "00:00:41.280",
+      "text": "personalized: “Create your first quote for…”"
+    },
+    {
+      "start_time": "00:00:41.480",
+      "end_time": "00:00:42.280",
+      "text": "and the client’s name."
+    },
+    {
+      "start_time": "00:00:42.360",
+      "end_time": "00:00:44.400",
+      "text": "This second scenario completely changes the game."
+    },
+    {
+      "start_time": "00:00:44.480",
+      "end_time": "00:00:47.680",
+      "text": "First, because you create a sense of progress, like in a video game."
+    },
+    {
+      "start_time": "00:00:47.920",
+      "end_time": "00:00:50.080",
+      "text": "In the end, the brain loves unlocking abilities."
+    },
+    {
+      "start_time": "00:00:50.120",
+      "end_time": "00:00:53.640",
+      "text": "Then because you naturally guide them to the next logical step."
+    },
+    {
+      "start_time": "00:00:53.760",
+      "end_time": "00:00:55.560",
+      "text": "You never leave your user hanging."
+    },
+    {
+      "start_time": "00:00:55.640",
+      "end_time": "00:00:57.560",
+      "text": "And finally, because you personalize the journey."
+    },
+    {
+      "start_time": "00:00:57.640",
+      "end_time": "00:01:00.160",
+      "text": "The CTA includes the name of the client they just added."
+    },
+    {
+      "start_time": "00:01:00.240",
+      "end_time": "00:01:01.400",
+      "text": "So to apply this little hack,"
+    },
+    {
+      "start_time": "00:01:01.560",
+      "end_time": "00:01:02.360",
+      "text": "it’s super simple:"
+    },
+    {
+      "start_time": "00:01:02.440",
+      "end_time": "00:01:05.000",
+      "text": "identify your ideal user journey. For example,"
+    },
+    {
+      "start_time": "00:01:05.160",
+      "end_time": "00:01:06.800",
+      "text": "add a client, create a quote,"
+    },
+    {
+      "start_time": "00:01:06.960",
+      "end_time": "00:01:10.440",
+      "text": "send an invoice. And turn each step into unlocking the next."
+    },
+    {
+      "start_time": "00:01:10.480",
+      "end_time": "00:01:11.280",
+      "text": "Client added,"
+    },
+    {
+      "start_time": "00:01:11.520",
+      "end_time": "00:01:13.080",
+      "text": "unlock quote creation. Quote created,"
+    },
+    {
+      "start_time": "00:01:13.280",
+      "end_time": "00:01:15.240",
+      "text": "unlock invoice creation. Invoice sent,"
+    },
+    {
+      "start_time": "00:01:15.320",
+      "end_time": "00:01:18.120",
+      "text": "unlock payment follow-up. And each time, add an animation,"
+    },
+    {
+      "start_time": "00:01:18.280",
+      "end_time": "00:01:20.200",
+      "text": "a preview, and a personalized CTA."
+    },
+    {
+      "start_time": "00:01:20.440",
+      "end_time": "00:01:20.960",
+      "text": "Result:"
+    },
+    {
+      "start_time": "00:01:20.961",
+      "end_time": "00:01:24.800",
+      "text": "when your user first uses your product, they never stop,"
+    },
+    {
+      "start_time": "00:01:24.840",
+      "end_time": "00:01:27.240",
+      "text": "they’re always guided to the next logical action."
+    },
+    {
+      "start_time": "00:01:27.320",
+      "end_time": "00:01:30.800",
+      "text": "And that’s how a passive user becomes an engaged user."
+    }
+  ]
+}

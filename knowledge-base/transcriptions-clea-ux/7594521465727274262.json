@@ -1,0 +1,96 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.080",
+      "text": "Tu sais pourquoi certains utilisateurs scrollent sur ta"
+    },
+    {
+      "start_time": "00:00:02.240",
+      "end_time": "00:00:03.600",
+      "text": "landing page sans jamais cliquer ?"
+    },
+    {
+      "start_time": "00:00:03.680",
+      "end_time": "00:00:04.800",
+      "text": "C'est pas 1 manque d'intérêt,"
+    },
+    {
+      "start_time": "00:00:04.840",
+      "end_time": "00:00:06.720",
+      "text": "c'est souvent qu'on lui demande trop de choses en même temps."
+    },
+    {
+      "start_time": "00:00:06.760",
+      "end_time": "00:00:09.640",
+      "text": "Quand 1 utilisateur arrive sur 1 page et qu'il voit plusieurs boutons,"
+    },
+    {
+      "start_time": "00:00:09.760",
+      "end_time": "00:00:10.640",
+      "text": "plusieurs promesses,"
+    },
+    {
+      "start_time": "00:00:10.760",
+      "end_time": "00:00:13.560",
+      "text": "plusieurs chemins possibles… son cerveau fait 1 chose très simple,"
+    },
+    {
+      "start_time": "00:00:13.640",
+      "end_time": "00:00:15.040",
+      "text": "il reporte la décision."
+    },
+    {
+      "start_time": "00:00:15.120",
+      "end_time": "00:00:16.720",
+      "text": "C'est-ce qu'on appelle la loi de Hick."
+    },
+    {
+      "start_time": "00:00:17.000",
+      "end_time": "00:00:17.760",
+      "text": "plus y a de choix,"
+    },
+    {
+      "start_time": "00:00:17.761",
+      "end_time": "00:00:20.320",
+      "text": "plus la prise de décision est lente. Et quand elle est trop lente,"
+    },
+    {
+      "start_time": "00:00:20.560",
+      "end_time": "00:00:22.600",
+      "text": "l'utilisateur ne choisit pas. il scroll,"
+    },
+    {
+      "start_time": "00:00:22.800",
+      "end_time": "00:00:24.640",
+      "text": "il lit encore 1 peu, il hésite"
+    },
+    {
+      "start_time": "00:00:24.960",
+      "end_time": "00:00:27.400",
+      "text": "et très souvent il quitte la page avant d'avoir cliqué."
+    },
+    {
+      "start_time": "00:00:27.480",
+      "end_time": "00:00:31.320",
+      "text": "Donc pour remédier à ça le mieux est de choisir 1 action principale et de s'y tenir."
+    },
+    {
+      "start_time": "00:00:31.360",
+      "end_time": "00:00:34.160",
+      "text": "Parce qu'une bonne interface ne demande pas « qu'est-ce que tu veux faire ? »"
+    },
+    {
+      "start_time": "00:00:34.200",
+      "end_time": "00:00:37.480",
+      "text": "Elle dit « commence par ça ». Et tant que cette 1ère décision n'est pas évidente,"
+    },
+    {
+      "start_time": "00:00:37.560",
+      "end_time": "00:00:39.560",
+      "text": "l'utilisateur préfère ne pas décider du tout."
+    }
+  ]
+}

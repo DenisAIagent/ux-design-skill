@@ -1,0 +1,241 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:03.400",
+      "text": "Aujourd'hui je te montre en 5 étapes comment créer 1 onboarding en partant de 0."
+    },
+    {
+      "start_time": "00:00:03.440",
+      "end_time": "00:00:05.520",
+      "text": "Et pour ça, on va prendre l'exemple d'un SaaS RH."
+    },
+    {
+      "start_time": "00:00:05.800",
+      "end_time": "00:00:08.840",
+      "text": "Étape 1, définir l'action-clé. Avant de toucher à quoi que ce soit,"
+    },
+    {
+      "start_time": "00:00:08.880",
+      "end_time": "00:00:10.080",
+      "text": "pose-toi 1 question simple :"
+    },
+    {
+      "start_time": "00:00:10.081",
+      "end_time": "00:00:10.880",
+      "text": "quel est le moment"
+    },
+    {
+      "start_time": "00:00:10.960",
+      "end_time": "00:00:14.640",
+      "text": "précis où ton utilisateur réalise la valeur de ton produit ? Sur 1 sas RH"
+    },
+    {
+      "start_time": "00:00:14.800",
+      "end_time": "00:00:17.040",
+      "text": "ce moment c'est quand il publie sa 1ère offre d'emploi."
+    },
+    {
+      "start_time": "00:00:17.080",
+      "end_time": "00:00:20.440",
+      "text": "Donc tout l’onboarding doit mener à ce moment-là le plus vite possible."
+    },
+    {
+      "start_time": "00:00:20.600",
+      "end_time": "00:00:23.000",
+      "text": "Étape 2, construire le parcours à rebours."
+    },
+    {
+      "start_time": "00:00:23.080",
+      "end_time": "00:00:26.360",
+      "text": "Je pars de l'action-clé et je remonte. Pour publier 1 offre d'emploi,"
+    },
+    {
+      "start_time": "00:00:26.361",
+      "end_time": "00:00:27.320",
+      "text": "il a besoin de quoi ?"
+    },
+    {
+      "start_time": "00:00:27.440",
+      "end_time": "00:00:28.160",
+      "text": "De l'avoir créé."
+    },
+    {
+      "start_time": "00:00:28.161",
+      "end_time": "00:00:28.960",
+      "text": "Pour créer son offre,"
+    },
+    {
+      "start_time": "00:00:28.961",
+      "end_time": "00:00:31.680",
+      "text": "il a besoin de quoi ? D'avoir enseigné les infos de son entreprise."
+    },
+    {
+      "start_time": "00:00:31.760",
+      "end_time": "00:00:34.014",
+      "text": "Parce que ces infos apparaissent directement sur l'offre publique,"
+    },
+    {
+      "start_time": "00:00:34.160",
+      "end_time": "00:00:35.160",
+      "text": "le nom, le logo,"
+    },
+    {
+      "start_time": "00:00:35.240",
+      "end_time": "00:00:38.600",
+      "text": "la localisation, le secteur d'activité. Et pour faire ça, il a besoin de quoi ?"
+    },
+    {
+      "start_time": "00:00:38.800",
+      "end_time": "00:00:41.040",
+      "text": "De s'inscrire. Donc voilà ton onboarding : inscription,"
+    },
+    {
+      "start_time": "00:00:41.440",
+      "end_time": "00:00:42.240",
+      "text": "info d'entreprise,"
+    },
+    {
+      "start_time": "00:00:42.360",
+      "end_time": "00:00:45.400",
+      "text": "création de l'offre et publication. 4 étapes et pas 1 de plus."
+    },
+    {
+      "start_time": "00:00:45.560",
+      "end_time": "00:00:47.640",
+      "text": "Étape 3, réduire au strict minimum."
+    },
+    {
+      "start_time": "00:00:47.760",
+      "end_time": "00:00:50.000",
+      "text": "Maintenant je regarde chaque étape et je me pose 1 question :"
+    },
+    {
+      "start_time": "00:00:50.040",
+      "end_time": "00:00:53.400",
+      "text": "est-ce que cet élément est vraiment indispensable pour publier la 1ère offre ?"
+    },
+    {
+      "start_time": "00:00:53.520",
+      "end_time": "00:00:55.720",
+      "text": "Inviter les membres de l'équipe RH, ça peut attendre."
+    },
+    {
+      "start_time": "00:00:55.840",
+      "end_time": "00:00:58.480",
+      "text": "Configurer les étapes du process de recrutement, ça peut attendre."
+    },
+    {
+      "start_time": "00:00:58.640",
+      "end_time": "00:00:59.440",
+      "text": "Connecter son ats,"
+    },
+    {
+      "start_time": "00:00:59.840",
+      "end_time": "00:01:02.800",
+      "text": "ça peut atteindre aussi. Tout ce qui n'est pas indispensable à ce moment-là,"
+    },
+    {
+      "start_time": "00:01:02.880",
+      "end_time": "00:01:04.320",
+      "text": "tu le mets après l’onboarding."
+    },
+    {
+      "start_time": "00:01:04.520",
+      "end_time": "00:01:08.800",
+      "text": "Étape 4, écrire le copy de chaque écran. Parce que chaque écran a 1 seul job,"
+    },
+    {
+      "start_time": "00:01:08.880",
+      "end_time": "00:01:12.640",
+      "text": "dire à l'utilisateur quoi faire et pour pourquoi ça l'emmène vers son objectif."
+    },
+    {
+      "start_time": "00:01:12.680",
+      "end_time": "00:01:15.000",
+      "text": "On met pas « renseigner les informations de votre entreprise »,"
+    },
+    {
+      "start_time": "00:01:15.120",
+      "end_time": "00:01:17.320",
+      "text": "mais « ces infos apparaîtront sur votre offre »."
+    },
+    {
+      "start_time": "00:01:17.321",
+      "end_time": "00:01:20.360",
+      "text": "On met pas « créer votre offre d'emploi », mais « décrivez le poste,"
+    },
+    {
+      "start_time": "00:01:20.440",
+      "end_time": "00:01:22.320",
+      "text": "vis premiers candidats arrivent dans quelques minutes »."
+    },
+    {
+      "start_time": "00:01:22.360",
+      "end_time": "00:01:23.560",
+      "text": "Le copy est là pour guider,"
+    },
+    {
+      "start_time": "00:01:23.680",
+      "end_time": "00:01:24.880",
+      "text": "motiver et rassurer."
+    },
+    {
+      "start_time": "00:01:25.040",
+      "end_time": "00:01:27.480",
+      "text": "Étape 5, ajouter les éléments de réassurance."
+    },
+    {
+      "start_time": "00:01:27.680",
+      "end_time": "00:01:29.680",
+      "text": "Ton utilisateur doit toujours savoir où il en est."
+    },
+    {
+      "start_time": "00:01:29.720",
+      "end_time": "00:01:30.920",
+      "text": "1 barre de progression en haut,"
+    },
+    {
+      "start_time": "00:01:31.000",
+      "end_time": "00:01:33.680",
+      "text": "le N° de l'étape clairement indiqué et à chaque transition"
+    },
+    {
+      "start_time": "00:01:33.720",
+      "end_time": "00:01:35.240",
+      "text": "1 message qui confirme qu'il avance."
+    },
+    {
+      "start_time": "00:01:35.400",
+      "end_time": "00:01:38.320",
+      "text": "Parce que l'abandon dans 1 onboarding, c'est rarement parce que c'est trop long,"
+    },
+    {
+      "start_time": "00:01:38.360",
+      "end_time": "00:01:41.160",
+      "text": "c'est souvent parce que l'utilisateur ne voit pas combien d'étapes il lui reste."
+    },
+    {
+      "start_time": "00:01:41.200",
+      "end_time": "00:01:42.480",
+      "text": "Et quand on en voit pas la fin,"
+    },
+    {
+      "start_time": "00:01:42.760",
+      "end_time": "00:01:45.360",
+      "text": "on arrête. En fait, 1 bon onboarding c'est pas 1 tutoriel,"
+    },
+    {
+      "start_time": "00:01:45.400",
+      "end_time": "00:01:48.400",
+      "text": "c'est 1 chemin balisé vers le moment où ton utilisateur comprend"
+    },
+    {
+      "start_time": "00:01:48.560",
+      "end_time": "00:01:49.246",
+      "text": "pourquoi il est là."
+    }
+  ]
+}

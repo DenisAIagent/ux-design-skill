@@ -1,0 +1,186 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.560",
+      "text": "I document absolutely everything I do in product design."
+    },
+    {
+      "start_time": "00:00:02.760",
+      "end_time": "00:00:03.880",
+      "text": "And here’s how I do it."
+    },
+    {
+      "start_time": "00:00:03.920",
+      "end_time": "00:00:06.360",
+      "text": "Step 1, I take notes while it’s happening."
+    },
+    {
+      "start_time": "00:00:06.440",
+      "end_time": "00:00:07.240",
+      "text": "One client meeting,"
+    },
+    {
+      "start_time": "00:00:07.320",
+      "end_time": "00:00:08.760",
+      "text": "I take notes. One design decision,"
+    },
+    {
+      "start_time": "00:00:09.040",
+      "end_time": "00:00:10.720",
+      "text": "I take notes. One user feedback,"
+    },
+    {
+      "start_time": "00:00:10.880",
+      "end_time": "00:00:14.080",
+      "text": "I take notes. No “I’ll write it down later” — I write it down now"
+    },
+    {
+      "start_time": "00:00:14.120",
+      "end_time": "00:00:15.840",
+      "text": "in real time. Because the problem is that in two hours,"
+    },
+    {
+      "start_time": "00:00:15.920",
+      "end_time": "00:00:17.960",
+      "text": "you’ll already have forgotten half the context."
+    },
+    {
+      "start_time": "00:00:18.080",
+      "end_time": "00:00:20.960",
+      "text": "Step 2, I document every action in Figma"
+    },
+    {
+      "start_time": "00:00:21.160",
+      "end_time": "00:00:24.720",
+      "text": "and OneNote. In Figma, all my design iterations: version 1,"
+    },
+    {
+      "start_time": "00:00:24.840",
+      "end_time": "00:00:26.240",
+      "text": "version 2, version 3."
+    },
+    {
+      "start_time": "00:00:26.400",
+      "end_time": "00:00:29.120",
+      "text": "With annotations explaining why I made that choice."
+    },
+    {
+      "start_time": "00:00:29.160",
+      "end_time": "00:00:31.080",
+      "text": "And in OneNote, all my decisions and notes:"
+    },
+    {
+      "start_time": "00:00:31.240",
+      "end_time": "00:00:32.040",
+      "text": "what was done,"
+    },
+    {
+      "start_time": "00:00:32.200",
+      "end_time": "00:00:33.040",
+      "text": "why I did it,"
+    },
+    {
+      "start_time": "00:00:33.080",
+      "end_time": "00:00:36.880",
+      "text": "what I want to get or fix, and what the repercussions are. And step 3,"
+    },
+    {
+      "start_time": "00:00:36.960",
+      "end_time": "00:00:39.080",
+      "text": "I structure it so it’s searchable."
+    },
+    {
+      "start_time": "00:00:39.120",
+      "end_time": "00:00:41.880",
+      "text": "I don’t do a file called draft_final_V2.1"
+    },
+    {
+      "start_time": "00:00:41.920",
+      "end_time": "00:00:43.600",
+      "text": "but everything is organized by project,"
+    },
+    {
+      "start_time": "00:00:43.680",
+      "end_time": "00:00:45.400",
+      "text": "by date, and by type of decision."
+    },
+    {
+      "start_time": "00:00:45.440",
+      "end_time": "00:00:47.160",
+      "text": "The goal of documentation is simple."
+    },
+    {
+      "start_time": "00:00:47.161",
+      "end_time": "00:00:50.080",
+      "text": "First, I never waste time digging back through the past. In 6 months"
+    },
+    {
+      "start_time": "00:00:50.081",
+      "end_time": "00:00:52.280",
+      "text": "I know exactly why I made that decision."
+    },
+    {
+      "start_time": "00:00:52.320",
+      "end_time": "00:00:55.480",
+      "text": "Next, I can easily pass my work on to a client,"
+    },
+    {
+      "start_time": "00:00:55.600",
+      "end_time": "00:00:57.040",
+      "text": "a team, or a future designer."
+    },
+    {
+      "start_time": "00:00:57.320",
+      "end_time": "00:00:57.880",
+      "text": "Everything is there,"
+    },
+    {
+      "start_time": "00:00:57.881",
+      "end_time": "00:01:01.360",
+      "text": "clear and understandable. And finally, because I have a record of my growth,"
+    },
+    {
+      "start_time": "00:01:01.440",
+      "end_time": "00:01:02.480",
+      "text": "I can see my mistakes,"
+    },
+    {
+      "start_time": "00:01:02.760",
+      "end_time": "00:01:03.560",
+      "text": "understand what worked"
+    },
+    {
+      "start_time": "00:01:03.920",
+      "end_time": "00:01:04.480",
+      "text": "and get better."
+    },
+    {
+      "start_time": "00:01:04.481",
+      "end_time": "00:01:05.640",
+      "text": "If you don’t document anything,"
+    },
+    {
+      "start_time": "00:01:05.720",
+      "end_time": "00:01:07.640",
+      "text": "you could lose dozens of hours that you could"
+    },
+    {
+      "start_time": "00:01:07.800",
+      "end_time": "00:01:09.120",
+      "text": "spend moving your product forward."
+    },
+    {
+      "start_time": "00:01:09.160",
+      "end_time": "00:01:10.040",
+      "text": "And those lost hours,"
+    },
+    {
+      "start_time": "00:01:10.160",
+      "end_time": "00:01:11.000",
+      "text": "that’s money lost."
+    }
+  ]
+}

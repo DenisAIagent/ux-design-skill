@@ -1,0 +1,176 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:01.560",
+      "text": "Tu savais qu'il y a plusieurs types de CTA."
+    },
+    {
+      "start_time": "00:00:01.640",
+      "end_time": "00:00:03.840",
+      "text": "Aujourd'hui, je t'en donne 5 et je te montre pourquoi ils fonctionnent."
+    },
+    {
+      "start_time": "00:00:03.841",
+      "end_time": "00:00:05.720",
+      "text": "Le Call to action est 1 des éléments les plus"
+    },
+    {
+      "start_time": "00:00:05.880",
+      "end_time": "00:00:07.440",
+      "text": "importants dans ton parcours utilisateur,"
+    },
+    {
+      "start_time": "00:00:07.480",
+      "end_time": "00:00:09.960",
+      "text": "donc je te conseille vraiment d'y prêter 1 attention particulière."
+    },
+    {
+      "start_time": "00:00:10.000",
+      "end_time": "00:00:14.520",
+      "text": "Le 1er, c'est le CTA direct et actionnable. « Créer mon compte », « lancer mon essai »."
+    },
+    {
+      "start_time": "00:00:14.720",
+      "end_time": "00:00:18.280",
+      "text": "Simple et universel, il fonctionne quand l'utilisateur est déjà convaincu."
+    },
+    {
+      "start_time": "00:00:18.400",
+      "end_time": "00:00:19.760",
+      "text": "Il n'a plus besoin d'être persuadé."
+    },
+    {
+      "start_time": "00:00:19.800",
+      "end_time": "00:00:22.440",
+      "text": "Il veut juste passer à l'action et toi tu lui facilites le chemin."
+    },
+    {
+      "start_time": "00:00:22.480",
+      "end_time": "00:00:25.000",
+      "text": "Le 2e, c'est le CTA basé sur l'émotion."
+    },
+    {
+      "start_time": "00:00:25.040",
+      "end_time": "00:00:27.600",
+      "text": "Il parle directement à la frustration de ton utilisateur."
+    },
+    {
+      "start_time": "00:00:27.640",
+      "end_time": "00:00:29.720",
+      "text": "Par exemple, « je veux arrêter de perdre des deals »"
+    },
+    {
+      "start_time": "00:00:29.760",
+      "end_time": "00:00:31.000",
+      "text": "ce n'est plus 1 instruction"
+    },
+    {
+      "start_time": "00:00:31.080",
+      "end_time": "00:00:33.800",
+      "text": "mais c'est 1 phrase que ton utilisateur aurait pu écrire lui-même."
+    },
+    {
+      "start_time": "00:00:33.801",
+      "end_time": "00:00:35.200",
+      "text": "Et c'est exactement pour ça qu'il clique."
+    },
+    {
+      "start_time": "00:00:35.360",
+      "end_time": "00:00:38.760",
+      "text": "Le 3e, c'est le CTA orienté résultat ou plutôt ctv."
+    },
+    {
+      "start_time": "00:00:38.840",
+      "end_time": "00:00:41.240",
+      "text": "Tu ne décris plus 1 action mais tu mets le bénéfice"
+    },
+    {
+      "start_time": "00:00:41.520",
+      "end_time": "00:00:43.520",
+      "text": "directement dans le bouton « obtenir mon 1ère rapport »,"
+    },
+    {
+      "start_time": "00:00:43.640",
+      "end_time": "00:00:44.720",
+      "text": "« voir où je perds mes leads »."
+    },
+    {
+      "start_time": "00:00:44.760",
+      "end_time": "00:00:46.680",
+      "text": "L'utilisateur ne veut pas cliquer sur 1 bouton,"
+    },
+    {
+      "start_time": "00:00:46.681",
+      "end_time": "00:00:49.880",
+      "text": "il veut ce qui se passe après, donc tu lui vends l'après et pas le clic."
+    },
+    {
+      "start_time": "00:00:50.040",
+      "end_time": "00:00:52.480",
+      "text": "Le 4e, c'est le CTA de réassurance."
+    },
+    {
+      "start_time": "00:00:52.640",
+      "end_time": "00:00:53.680",
+      "text": "Il enlève la friction"
+    },
+    {
+      "start_time": "00:00:54.200",
+      "end_time": "00:00:56.040",
+      "text": "directement dans le copie du bouton. Par exemple,"
+    },
+    {
+      "start_time": "00:00:56.240",
+      "end_time": "00:00:59.560",
+      "text": "« essayer gratuitement sans carte bancaire » ou alors « commencer sans engagement »."
+    },
+    {
+      "start_time": "00:00:59.600",
+      "end_time": "00:01:02.200",
+      "text": "La décision devient beaucoup plus facile à prendre quand le risque"
+    },
+    {
+      "start_time": "00:01:02.600",
+      "end_time": "00:01:03.560",
+      "text": "disparaît dans la même phrase."
+    },
+    {
+      "start_time": "00:01:03.640",
+      "end_time": "00:01:06.040",
+      "text": "Et le 5e, c'est le CTA avec preuve"
+    },
+    {
+      "start_time": "00:01:06.200",
+      "end_time": "00:01:09.680",
+      "text": "sociale. La preuve sociale intégrée directement dans le bouton. Par exemple,"
+    },
+    {
+      "start_time": "00:01:09.960",
+      "end_time": "00:01:13.640",
+      "text": "« rejoindre plus de 4000 recruteurs », ou alors « démarrer comme 10.000 freelance »."
+    },
+    {
+      "start_time": "00:01:13.800",
+      "end_time": "00:01:16.920",
+      "text": "Tu n'as plus besoin de convaincre, les chiffres font le travail à ta place."
+    },
+    {
+      "start_time": "00:01:17.000",
+      "end_time": "00:01:19.400",
+      "text": "En fait, le bon CTA c'est pas celui que tu aimes le plus,"
+    },
+    {
+      "start_time": "00:01:19.440",
+      "end_time": "00:01:22.920",
+      "text": "c'est celui qui correspond à l'état d'esprit de ton utilisateur au moment"
+    },
+    {
+      "start_time": "00:01:23.280",
+      "end_time": "00:01:24.080",
+      "text": "précis où il le voit."
+    }
+  ]
+}

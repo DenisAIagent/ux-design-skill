@@ -1,0 +1,211 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.000",
+      "text": "J'ai fait plus d'une dizaine d'audits en février"
+    },
+    {
+      "start_time": "00:00:02.160",
+      "end_time": "00:00:03.560",
+      "text": "et il y avait la moitié qui avait"
+    },
+    {
+      "start_time": "00:00:04.000",
+      "end_time": "00:00:05.120",
+      "text": "exactement le même problème."
+    },
+    {
+      "start_time": "00:00:05.200",
+      "end_time": "00:00:07.160",
+      "text": "Aucune séparation entre l'environnement de la"
+    },
+    {
+      "start_time": "00:00:07.240",
+      "end_time": "00:00:08.920",
+      "text": "landing page et l'environnement de la web app."
+    },
+    {
+      "start_time": "00:00:08.921",
+      "end_time": "00:00:12.360",
+      "text": "En fait il y avait le même en tête partout. Donc fonctionnalité, tarif, blog"
+    },
+    {
+      "start_time": "00:00:12.680",
+      "end_time": "00:00:13.720",
+      "text": "sur la landing page"
+    },
+    {
+      "start_time": "00:00:14.160",
+      "end_time": "00:00:15.920",
+      "text": "mais aussi dans la webapp. Etmême le logo,"
+    },
+    {
+      "start_time": "00:00:16.000",
+      "end_time": "00:00:17.480",
+      "text": "au lieu de ramener sur le dashboard,"
+    },
+    {
+      "start_time": "00:00:17.560",
+      "end_time": "00:00:19.200",
+      "text": "il ramenait sur la landing page."
+    },
+    {
+      "start_time": "00:00:19.240",
+      "end_time": "00:00:21.440",
+      "text": "Donc l'utilisateur est en train de bosser dans le produit"
+    },
+    {
+      "start_time": "00:00:21.640",
+      "end_time": "00:00:24.880",
+      "text": "et clique sur le logo ou sur tarif sans faire exprès. Et boom,"
+    },
+    {
+      "start_time": "00:00:25.000",
+      "end_time": "00:00:25.600",
+      "text": "il sort de l’app."
+    },
+    {
+      "start_time": "00:00:25.601",
+      "end_time": "00:00:28.600",
+      "text": "Il se retrouve sur la landing page sans comprendre vraiment ce qui s'est passé."
+    },
+    {
+      "start_time": "00:00:28.640",
+      "end_time": "00:00:30.320",
+      "text": "Et c'est 1 gros problème pour 3 raisons."
+    },
+    {
+      "start_time": "00:00:30.400",
+      "end_time": "00:00:31.880",
+      "text": "D'abord, ça crée de la charge cognitive."
+    },
+    {
+      "start_time": "00:00:32.000",
+      "end_time": "00:00:34.120",
+      "text": "L'utilisateur doit se resituer en permanence,"
+    },
+    {
+      "start_time": "00:00:34.240",
+      "end_time": "00:00:36.640",
+      "text": "est-ce que je suis sur la landing page ou est-ce que je suis"
+    },
+    {
+      "start_time": "00:00:36.680",
+      "end_time": "00:00:37.400",
+      "text": "dans la web app ?"
+    },
+    {
+      "start_time": "00:00:37.401",
+      "end_time": "00:00:39.000",
+      "text": "Ensuite, ça crée des fuites de parcours."
+    },
+    {
+      "start_time": "00:00:39.040",
+      "end_time": "00:00:41.640",
+      "text": "Il était en plein travail et là il clique quelque part et il"
+    },
+    {
+      "start_time": "00:00:41.760",
+      "end_time": "00:00:43.840",
+      "text": "atterrit sur le blog ou sur la landing page."
+    },
+    {
+      "start_time": "00:00:43.880",
+      "end_time": "00:00:47.080",
+      "text": "Il a quitté son flux et souvent il galère même à revenir où il en était."
+    },
+    {
+      "start_time": "00:00:47.120",
+      "end_time": "00:00:49.880",
+      "text": "Et en plus tes analytics deviennent inutilisables."
+    },
+    {
+      "start_time": "00:00:49.960",
+      "end_time": "00:00:52.320",
+      "text": "Tu mélanges le trafic marketing et l'usage produit,"
+    },
+    {
+      "start_time": "00:00:52.440",
+      "end_time": "00:00:54.880",
+      "text": "tu sais plus qui découvre et qui utilise vraiment."
+    },
+    {
+      "start_time": "00:00:54.920",
+      "end_time": "00:00:57.800",
+      "text": "Donc je te conseille vivement de séparer clairement tes environnements."
+    },
+    {
+      "start_time": "00:00:57.840",
+      "end_time": "00:00:58.520",
+      "text": "Premièrement,"
+    },
+    {
+      "start_time": "00:00:58.521",
+      "end_time": "00:01:02.440",
+      "text": "la navigation. Sur la landing page, tu peux mettre fonctionnalité, tarif, blog."
+    },
+    {
+      "start_time": "00:01:02.600",
+      "end_time": "00:01:05.720",
+      "text": "Mais dans la webapp juste les actions pour utiliser le produit,"
+    },
+    {
+      "start_time": "00:01:06.040",
+      "end_time": "00:01:10.080",
+      "text": "aucun lien marketing. Deuxièmement, l'URL. Ta landing page c'est :"
+    },
+    {
+      "start_time": "00:01:10.440",
+      "end_time": "00:01:14.720",
+      "text": "www.monsite.fr et par exemple ton saas app.monsite.fr."
+    },
+    {
+      "start_time": "00:01:14.800",
+      "end_time": "00:01:15.480",
+      "text": "Comme ça c'est clair,"
+    },
+    {
+      "start_time": "00:01:15.481",
+      "end_time": "00:01:19.560",
+      "text": "il y a 2 espaces pour 2 usages différents. Et si 1 utilisateur connecté visite"
+    },
+    {
+      "start_time": "00:01:19.640",
+      "end_time": "00:01:20.440",
+      "text": "ta landing page,"
+    },
+    {
+      "start_time": "00:01:20.680",
+      "end_time": "00:01:23.080",
+      "text": "affiche 1 bandeau « reprendre là où vous en étiez »,"
+    },
+    {
+      "start_time": "00:01:23.200",
+      "end_time": "00:01:25.160",
+      "text": "avec 1 CTA qui lui permet de retourner dans le saas."
+    },
+    {
+      "start_time": "00:01:25.161",
+      "end_time": "00:01:27.840",
+      "text": "Donc ta landing page est là pour convaincre et convertir,"
+    },
+    {
+      "start_time": "00:01:27.920",
+      "end_time": "00:01:29.360",
+      "text": "tandis que ta webapp est là pour"
+    },
+    {
+      "start_time": "00:01:29.800",
+      "end_time": "00:01:33.440",
+      "text": "utiliser le produit. Et si ton utilisateur confond ta landing page et ta webapp,"
+    },
+    {
+      "start_time": "00:01:33.480",
+      "end_time": "00:01:36.400",
+      "text": "il passera son temps à se repérer au lieu d'utiliser ton produit."
+    }
+  ]
+}

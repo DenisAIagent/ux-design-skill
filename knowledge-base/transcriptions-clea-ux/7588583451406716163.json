@@ -1,0 +1,156 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:03.800",
+      "text": "Comment garder l'engagement de tes utilisateurs quand ton onboarding est long ?"
+    },
+    {
+      "start_time": "00:00:03.880",
+      "end_time": "00:00:05.360",
+      "text": "Je te dis souvent qu'il faut absolument"
+    },
+    {
+      "start_time": "00:00:05.520",
+      "end_time": "00:00:08.360",
+      "text": "diminuer le time to value de ton SaaS pour créer de l'engagement."
+    },
+    {
+      "start_time": "00:00:08.440",
+      "end_time": "00:00:10.240",
+      "text": "mais certains ont besoin de beaucoup d'étapes."
+    },
+    {
+      "start_time": "00:00:10.520",
+      "end_time": "00:00:13.240",
+      "text": "Donc le vrai enjeu n'est pas de raccourcir l’onboarding"
+    },
+    {
+      "start_time": "00:00:13.520",
+      "end_time": "00:00:16.080",
+      "text": "mais de garder l'utilisateur engagé jusqu'au bout."
+    },
+    {
+      "start_time": "00:00:16.120",
+      "end_time": "00:00:17.680",
+      "text": "On va prendre pour exemple Me+,"
+    },
+    {
+      "start_time": "00:00:17.880",
+      "end_time": "00:00:20.880",
+      "text": "1 application de développement personnel avec 1 onboarding"
+    },
+    {
+      "start_time": "00:00:21.200",
+      "end_time": "00:00:23.400",
+      "text": "volontairement long et pourtant tu vas souvent jusqu'au bout."
+    },
+    {
+      "start_time": "00:00:23.720",
+      "end_time": "00:00:26.120",
+      "text": "La question intéressante, ce n'est pas pourquoi c'est long ?"
+    },
+    {
+      "start_time": "00:00:26.280",
+      "end_time": "00:00:27.760",
+      "text": "mais pourquoi on ne décroche pas ?"
+    },
+    {
+      "start_time": "00:00:27.840",
+      "end_time": "00:00:31.640",
+      "text": "La 1ère raison, c'est la variation du rythme. Me+ alterne tout le temps."
+    },
+    {
+      "start_time": "00:00:31.720",
+      "end_time": "00:00:32.760",
+      "text": "question à choix multiple,"
+    },
+    {
+      "start_time": "00:00:32.960",
+      "end_time": "00:00:35.720",
+      "text": "choix a, b très rapide, écran explicatif court."
+    },
+    {
+      "start_time": "00:00:36.080",
+      "end_time": "00:00:38.640",
+      "text": "Résultat, tu n'as jamais l'impression de remplir 1 formulaire,"
+    },
+    {
+      "start_time": "00:00:38.880",
+      "end_time": "00:00:40.160",
+      "text": "donc ton cerveau reste actif."
+    },
+    {
+      "start_time": "00:00:40.320",
+      "end_time": "00:00:42.320",
+      "text": "La 2e raison est la micro-victoire,"
+    },
+    {
+      "start_time": "00:00:42.520",
+      "end_time": "00:00:44.240",
+      "text": "chaque réponse donne 1 mini feedback,"
+    },
+    {
+      "start_time": "00:00:44.600",
+      "end_time": "00:00:46.560",
+      "text": "animation, validation, progression."
+    },
+    {
+      "start_time": "00:00:46.760",
+      "end_time": "00:00:48.440",
+      "text": "Tu sens que ça avance même si c'est long."
+    },
+    {
+      "start_time": "00:00:48.480",
+      "end_time": "00:00:51.240",
+      "text": "La 3e raison est de donner du sens à l'effort."
+    },
+    {
+      "start_time": "00:00:51.320",
+      "end_time": "00:00:53.880",
+      "text": "Ils ajoutent des écrans d'explication courts au bon moment,"
+    },
+    {
+      "start_time": "00:00:54.000",
+      "end_time": "00:00:56.480",
+      "text": "pas forcément pour enseigner, mais pour que tu te dises :"
+    },
+    {
+      "start_time": "00:00:56.600",
+      "end_time": "00:01:00.760",
+      "text": "« ok c'est bon, je comprends pourquoi je réponds » et enfin, il y a 1 clôture avec"
+    },
+    {
+      "start_time": "00:01:01.200",
+      "end_time": "00:01:04.160",
+      "text": "engagement. à la fin, ils te font signer et ça devient 1 choix,"
+    },
+    {
+      "start_time": "00:01:04.520",
+      "end_time": "00:01:07.280",
+      "text": "1 promesse, 1 objectif. et ce n'est pas 1 détail."
+    },
+    {
+      "start_time": "00:01:07.480",
+      "end_time": "00:01:10.160",
+      "text": "Ça transforme tout 1 onboarding en engagement."
+    },
+    {
+      "start_time": "00:01:10.240",
+      "end_time": "00:01:12.160",
+      "text": "Donc si je devais résumer en 1 phrase,"
+    },
+    {
+      "start_time": "00:01:12.280",
+      "end_time": "00:01:15.360",
+      "text": "je dirais qu'un 1 boarding long fonctionne quand chaque étape a"
+    },
+    {
+      "start_time": "00:01:15.361",
+      "end_time": "00:01:17.680",
+      "text": "1 raison d'exister aux yeux de l'utilisateur."
+    }
+  ]
+}

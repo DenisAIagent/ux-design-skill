@@ -1,0 +1,151 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.720",
+      "text": "Tu savais que tu peux perdre des utilisateurs à cause de ta barre de recherche ?"
+    },
+    {
+      "start_time": "00:00:02.880",
+      "end_time": "00:00:05.320",
+      "text": "Chaque fois qu'un utilisateur ouvre la barre de recherche,"
+    },
+    {
+      "start_time": "00:00:05.480",
+      "end_time": "00:00:07.000",
+      "text": "c'est 1 moment d'intention forte."
+    },
+    {
+      "start_time": "00:00:07.040",
+      "end_time": "00:00:10.600",
+      "text": "Il cherche quelque chose de précis et si tu ne lui montres rien, 0 résultat,"
+    },
+    {
+      "start_time": "00:00:10.760",
+      "end_time": "00:00:13.120",
+      "text": "tu gaspilles ce moment et tu crées de la frustration."
+    },
+    {
+      "start_time": "00:00:13.160",
+      "end_time": "00:00:13.640",
+      "text": "Donc aujourd'hui,"
+    },
+    {
+      "start_time": "00:00:13.641",
+      "end_time": "00:00:16.399",
+      "text": "je te donne 3 astuces pour remédier à la recherche sans résultat."
+    },
+    {
+      "start_time": "00:00:16.480",
+      "end_time": "00:00:19.200",
+      "text": "1 le best-seller. si tu n'as pas le résultat exact,"
+    },
+    {
+      "start_time": "00:00:19.680",
+      "end_time": "00:00:23.040",
+      "text": "affiche les 3 features qui sont les plus utilisées et qui ont quand-même 1"
+    },
+    {
+      "start_time": "00:00:23.200",
+      "end_time": "00:00:24.600",
+      "text": "rapport avec la recherche initiale."
+    },
+    {
+      "start_time": "00:00:24.601",
+      "end_time": "00:00:25.680",
+      "text": "Par exemple tu peux dire"
+    },
+    {
+      "start_time": "00:00:25.920",
+      "end_time": "00:00:29.800",
+      "text": "« aucun résultat pour rapport fiscal, mais voici nos rapports les plus populaires. »"
+    },
+    {
+      "start_time": "00:00:29.880",
+      "end_time": "00:00:31.360",
+      "text": "Tu gardes l'utilisateur dans le flux,"
+    },
+    {
+      "start_time": "00:00:31.480",
+      "end_time": "00:00:32.600",
+      "text": "tu ne le laisses pas face au vide"
+    },
+    {
+      "start_time": "00:00:32.720",
+      "end_time": "00:00:34.280",
+      "text": "et tu lui montres ce qui marche pour les autres."
+    },
+    {
+      "start_time": "00:00:34.360",
+      "end_time": "00:00:36.040",
+      "text": "2 La roadmap inversée."
+    },
+    {
+      "start_time": "00:00:36.200",
+      "end_time": "00:00:37.000",
+      "text": "ajoute 1 bouton"
+    },
+    {
+      "start_time": "00:00:37.001",
+      "end_time": "00:00:40.080",
+      "text": "« On n'a pas encore ça, mais vote ici si tu veux qu'on le développe. »"
+    },
+    {
+      "start_time": "00:00:40.160",
+      "end_time": "00:00:43.480",
+      "text": "Là, tu viens de transformer 1 échec en étude de marché ultra précise."
+    },
+    {
+      "start_time": "00:00:43.560",
+      "end_time": "00:00:45.880",
+      "text": "Tu sais exactement ce que tes utilisateurs cherchent."
+    },
+    {
+      "start_time": "00:00:46.120",
+      "end_time": "00:00:48.560",
+      "text": "Tu priorises ta road map avec des vraies données et le bonus,"
+    },
+    {
+      "start_time": "00:00:48.640",
+      "end_time": "00:00:50.080",
+      "text": "c'est que l'utilisateur se sent écouté."
+    },
+    {
+      "start_time": "00:00:50.160",
+      "end_time": "00:00:54.400",
+      "text": "3 Le correcteur d'intention. si l'utilisateur tape « facture » au lieu de « billing »,"
+    },
+    {
+      "start_time": "00:00:54.600",
+      "end_time": "00:00:57.720",
+      "text": "ton SaaS doit comprendre et lui montrer la bonne réponse immédiatement."
+    },
+    {
+      "start_time": "00:00:57.760",
+      "end_time": "00:00:58.400",
+      "text": "L'objectif"
+    },
+    {
+      "start_time": "00:00:58.401",
+      "end_time": "00:01:01.320",
+      "text": "c'est que ton utilisateur ne se sente jamais bloqué par ton interface."
+    },
+    {
+      "start_time": "00:01:01.360",
+      "end_time": "00:01:02.400",
+      "text": "Et dans 1 prochaine vidéo"
+    },
+    {
+      "start_time": "00:01:02.401",
+      "end_time": "00:01:05.080",
+      "text": "je te montrerai comment hacker ta barre de recherche pour augmenter"
+    },
+    {
+      "start_time": "00:01:05.120",
+      "end_time": "00:01:05.900",
+      "text": "Ton engagement."
+    }
+  ]
+}

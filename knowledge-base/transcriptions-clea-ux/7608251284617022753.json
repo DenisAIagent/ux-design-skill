@@ -1,0 +1,211 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.960",
+      "text": "Today I’m showing you the process I use in UX design."
+    },
+    {
+      "start_time": "00:00:03.080",
+      "end_time": "00:00:04.640",
+      "text": "It’s called design thinking."
+    },
+    {
+      "start_time": "00:00:04.760",
+      "end_time": "00:00:07.400",
+      "text": "It’s an iterative process with 5 precise steps."
+    },
+    {
+      "start_time": "00:00:07.440",
+      "end_time": "00:00:10.560",
+      "text": "And the advantage is you can adapt it however you like, to each situation."
+    },
+    {
+      "start_time": "00:00:10.680",
+      "end_time": "00:00:12.000",
+      "text": "Step 1: empathy."
+    },
+    {
+      "start_time": "00:00:12.160",
+      "end_time": "00:00:14.480",
+      "text": "Understand the user. Before touching anything,"
+    },
+    {
+      "start_time": "00:00:14.481",
+      "end_time": "00:00:18.240",
+      "text": "I spend time observing and interviewing the real users of the product."
+    },
+    {
+      "start_time": "00:00:18.400",
+      "end_time": "00:00:21.480",
+      "text": "Basically I test the SaaS myself, I note every moment where I get stuck,"
+    },
+    {
+      "start_time": "00:00:21.640",
+      "end_time": "00:00:23.720",
+      "text": "I ask myself where I doubt and where I hesitate."
+    },
+    {
+      "start_time": "00:00:23.760",
+      "end_time": "00:00:26.920",
+      "text": "And if I can, I interview real users."
+    },
+    {
+      "start_time": "00:00:26.960",
+      "end_time": "00:00:28.280",
+      "text": "The goal is to understand what they"
+    },
+    {
+      "start_time": "00:00:28.480",
+      "end_time": "00:00:30.600",
+      "text": "really feel, not what the founder thinks."
+    },
+    {
+      "start_time": "00:00:30.760",
+      "end_time": "00:00:32.400",
+      "text": "Step 2: definition."
+    },
+    {
+      "start_time": "00:00:32.560",
+      "end_time": "00:00:33.640",
+      "text": "Define the real problem."
+    },
+    {
+      "start_time": "00:00:33.680",
+      "end_time": "00:00:36.000",
+      "text": "What I’m told at the start is rarely the real problem."
+    },
+    {
+      "start_time": "00:00:36.001",
+      "end_time": "00:00:38.520",
+      "text": "For example, a founder tells me, “my conversion rate is bad.”"
+    },
+    {
+      "start_time": "00:00:38.560",
+      "end_time": "00:00:39.360",
+      "text": "Okay, sure,"
+    },
+    {
+      "start_time": "00:00:39.361",
+      "end_time": "00:00:40.040",
+      "text": "but why?"
+    },
+    {
+      "start_time": "00:00:40.041",
+      "end_time": "00:00:41.240",
+      "text": "And often after step 1,"
+    },
+    {
+      "start_time": "00:00:41.280",
+      "end_time": "00:00:42.720",
+      "text": "I realize that the real problem"
+    },
+    {
+      "start_time": "00:00:42.721",
+      "end_time": "00:00:45.400",
+      "text": "is that users don’t understand the product’s value"
+    },
+    {
+      "start_time": "00:00:45.520",
+      "end_time": "00:00:46.680",
+      "text": "in under 30 seconds."
+    },
+    {
+      "start_time": "00:00:46.681",
+      "end_time": "00:00:49.120",
+      "text": "and the low conversion rate is the result."
+    },
+    {
+      "start_time": "00:00:49.280",
+      "end_time": "00:00:51.680",
+      "text": "Step 3: ideation. Generate solutions."
+    },
+    {
+      "start_time": "00:00:52.000",
+      "end_time": "00:00:54.240",
+      "text": "I usually suggest several ways to solve the"
+    },
+    {
+      "start_time": "00:00:54.360",
+      "end_time": "00:00:55.920",
+      "text": "defined problem. A new onboarding,"
+    },
+    {
+      "start_time": "00:00:55.960",
+      "end_time": "00:00:57.920",
+      "text": "a new positioning on the landing page,"
+    },
+    {
+      "start_time": "00:00:57.960",
+      "end_time": "00:00:59.880",
+      "text": "example data to visualize the value."
+    },
+    {
+      "start_time": "00:00:59.960",
+      "end_time": "00:01:02.080",
+      "text": "The idea is to explore before choosing."
+    },
+    {
+      "start_time": "00:01:02.200",
+      "end_time": "00:01:04.040",
+      "text": "Step 4: prototyping."
+    },
+    {
+      "start_time": "00:01:04.080",
+      "end_time": "00:01:07.600",
+      "text": "Here I move on to wireframes and prototyping in Figma of what we’ve defined."
+    },
+    {
+      "start_time": "00:01:07.640",
+      "end_time": "00:01:09.560",
+      "text": "The goal is to test the idea quickly."
+    },
+    {
+      "start_time": "00:01:09.720",
+      "end_time": "00:01:12.520",
+      "text": "Step 5: test with real users."
+    },
+    {
+      "start_time": "00:01:12.600",
+      "end_time": "00:01:15.920",
+      "text": "That’s where everything either gets validated or collapses. We watch the users,"
+    },
+    {
+      "start_time": "00:01:16.000",
+      "end_time": "00:01:18.440",
+      "text": "we explain nothing and we see where they get stuck,"
+    },
+    {
+      "start_time": "00:01:18.560",
+      "end_time": "00:01:21.560",
+      "text": "where they hesitate and who don’t understand. Then we adjust accordingly."
+    },
+    {
+      "start_time": "00:01:21.600",
+      "end_time": "00:01:23.080",
+      "text": "This process isn’t linear,"
+    },
+    {
+      "start_time": "00:01:23.081",
+      "end_time": "00:01:24.040",
+      "text": "it’s iterative,"
+    },
+    {
+      "start_time": "00:01:24.120",
+      "end_time": "00:01:25.960",
+      "text": "so at each step you can go back."
+    },
+    {
+      "start_time": "00:01:26.000",
+      "end_time": "00:01:28.320",
+      "text": "Because in UX, we’re not looking for perfection on the first try,"
+    },
+    {
+      "start_time": "00:01:28.400",
+      "end_time": "00:01:30.760",
+      "text": "we’re looking for the right direction as fast as possible."
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.200",
+      "text": "Ok on est parti sur 1 autre raccourci ux,"
+    },
+    {
+      "start_time": "00:00:02.280",
+      "end_time": "00:00:04.240",
+      "text": "et celui-là on le voit pratiquement jamais."
+    },
+    {
+      "start_time": "00:00:04.280",
+      "end_time": "00:00:06.720",
+      "text": "Pourtant, il enlève énormément de frustration dans 1 SaaS."
+    },
+    {
+      "start_time": "00:00:06.760",
+      "end_time": "00:00:08.320",
+      "text": "Je l'appelle l'erreur qui guide."
+    },
+    {
+      "start_time": "00:00:08.440",
+      "end_time": "00:00:10.120",
+      "text": "Dans beaucoup de SaaS quand 1 erreur apparaît,"
+    },
+    {
+      "start_time": "00:00:10.160",
+      "end_time": "00:00:11.880",
+      "text": "on se contente souvent de dire « ça marche pas »"
+    },
+    {
+      "start_time": "00:00:12.000",
+      "end_time": "00:00:12.800",
+      "text": "action impossible,"
+    },
+    {
+      "start_time": "00:00:13.000",
+      "end_time": "00:00:14.840",
+      "text": "accès refusé, données manquantes,"
+    },
+    {
+      "start_time": "00:00:15.040",
+      "end_time": "00:00:15.840",
+      "text": "Limite atteinte."
+    },
+    {
+      "start_time": "00:00:15.841",
+      "end_time": "00:00:17.560",
+      "text": "À ce moment-là le SaaS fait bien son job,"
+    },
+    {
+      "start_time": "00:00:17.600",
+      "end_time": "00:00:20.760",
+      "text": "il signale qu'il y a 1 problème. mais il oublie 1 truc super important,"
+    },
+    {
+      "start_time": "00:00:21.200",
+      "end_time": "00:00:23.160",
+      "text": "aider l'utilisateur à s'en sortir."
+    },
+    {
+      "start_time": "00:00:23.280",
+      "end_time": "00:00:26.280",
+      "text": "Imagine, 1 utilisateur essaie de lancer 1 automatisation."
+    },
+    {
+      "start_time": "00:00:26.720",
+      "end_time": "00:00:28.320",
+      "text": "il clique, et là, il y a 1 erreur"
+    },
+    {
+      "start_time": "00:00:28.560",
+      "end_time": "00:00:29.840",
+      "text": "« automatisation impossible »"
+    },
+    {
+      "start_time": "00:00:30.040",
+      "end_time": "00:00:31.160",
+      "text": "il sait pas vraiment ce qui bloque,"
+    },
+    {
+      "start_time": "00:00:31.360",
+      "end_time": "00:00:32.240",
+      "text": "il ferme la modal"
+    },
+    {
+      "start_time": "00:00:32.480",
+      "end_time": "00:00:34.720",
+      "text": "et il passe à autre chose. Maintenant la même situation,"
+    },
+    {
+      "start_time": "00:00:34.800",
+      "end_time": "00:00:36.080",
+      "text": "mais cette fois le message dit"
+    },
+    {
+      "start_time": "00:00:36.160",
+      "end_time": "00:00:39.240",
+      "text": "« cette automatisation nécessite au moins 1 déclencheur actif »"
+    },
+    {
+      "start_time": "00:00:39.320",
+      "end_time": "00:00:40.320",
+      "text": "Et là, il y a 1 CTA"
+    },
+    {
+      "start_time": "00:00:40.680",
+      "end_time": "00:00:43.120",
+      "text": "« ajouter 1 déclencheur » l'erreur ne coupe plus le parcours,"
+    },
+    {
+      "start_time": "00:00:43.240",
+      "end_time": "00:00:44.160",
+      "text": "elle le réoriente."
+    },
+    {
+      "start_time": "00:00:44.161",
+      "end_time": "00:00:47.240",
+      "text": "Et ce principe, tu peux l'appliquer à toutes les erreurs clés d’un SaaS."
+    },
+    {
+      "start_time": "00:00:47.320",
+      "end_time": "00:00:48.120",
+      "text": "1 autre exemple,"
+    },
+    {
+      "start_time": "00:00:48.121",
+      "end_time": "00:00:51.720",
+      "text": "1 utilisateur essaie d'accéder à 1 fonctionnalité qu’il n'a pas encore configuré."
+    },
+    {
+      "start_time": "00:00:51.840",
+      "end_time": "00:00:53.200",
+      "text": "Au lieu de « Action impossible »"
+    },
+    {
+      "start_time": "00:00:53.600",
+      "end_time": "00:00:57.320",
+      "text": "tu peux dire « cette fonctionnalité nécessite 1 projet actif » avec 1 CTA"
+    },
+    {
+      "start_time": "00:00:57.480",
+      "end_time": "00:01:01.160",
+      "text": "« Créer mon 1ère projet » car même si dans l'erreur le SaaS dit ce qui ne va pas,"
+    },
+    {
+      "start_time": "00:01:01.200",
+      "end_time": "00:01:02.480",
+      "text": "le fait de mettre 1 CTA"
+    },
+    {
+      "start_time": "00:01:03.040",
+      "end_time": "00:01:06.440",
+      "text": "permet à l'utilisateur de régler cette erreur sans chercher le chemin."
+    },
+    {
+      "start_time": "00:01:06.520",
+      "end_time": "00:01:08.800",
+      "text": "Le principe est donc d'expliquer pourquoi ça bloque,"
+    },
+    {
+      "start_time": "00:01:09.040",
+      "end_time": "00:01:12.040",
+      "text": "de contextualiser l'erreur et de proposer 1 action Immédiate."
+    },
+    {
+      "start_time": "00:01:12.080",
+      "end_time": "00:01:14.400",
+      "text": "parce qu'une erreur sans suite crée de la frustration."
+    },
+    {
+      "start_time": "00:01:14.560",
+      "end_time": "00:01:17.760",
+      "text": "alors qu'une erreur qui guide crée de la progression. Et dans 1 SaaS"
+    },
+    {
+      "start_time": "00:01:18.000",
+      "end_time": "00:01:19.040",
+      "text": "chaque progression compte."
+    },
+    {
+      "start_time": "00:01:19.080",
+      "end_time": "00:01:20.520",
+      "text": "Parce qu'un utilisateur qui comprend"
+    },
+    {
+      "start_time": "00:01:20.680",
+      "end_time": "00:01:23.760",
+      "text": "pourquoi ça bloque et comment y remédier est beaucoup plus"
+    },
+    {
+      "start_time": "00:01:23.920",
+      "end_time": "00:01:25.720",
+      "text": "patient qu'un utilisateur qui ne comprend rien."
+    }
+  ]
+}

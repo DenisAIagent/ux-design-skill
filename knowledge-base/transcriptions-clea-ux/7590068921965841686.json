@@ -1,0 +1,91 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:01.120",
+      "text": "Okay, starting tomorrow,"
+    },
+    {
+      "start_time": "00:00:01.200",
+      "end_time": "00:00:02.320",
+      "text": "here's what I no longer want to see:"
+    },
+    {
+      "start_time": "00:00:02.321",
+      "end_time": "00:00:06.200",
+      "text": "empty dashboards displaying \"no data yet\" with no call-to-action."
+    },
+    {
+      "start_time": "00:00:06.240",
+      "end_time": "00:00:09.800",
+      "text": "It doesn’t guide—it abandons the user from the very first second."
+    },
+    {
+      "start_time": "00:00:09.880",
+      "end_time": "00:00:13.040",
+      "text": "\"Create\" buttons without specifying what. Create a project,"
+    },
+    {
+      "start_time": "00:00:13.200",
+      "end_time": "00:00:14.480",
+      "text": "a space, a report."
+    },
+    {
+      "start_time": "00:00:14.560",
+      "end_time": "00:00:17.480",
+      "text": "If the action isn’t clear, neither is the intent."
+    },
+    {
+      "start_time": "00:00:17.680",
+      "end_time": "00:00:20.960",
+      "text": "onboarding with 10 to 12 form fields all at once."
+    },
+    {
+      "start_time": "00:00:21.040",
+      "end_time": "00:00:23.680",
+      "text": "Until the value is perceived, every field becomes a friction point."
+    },
+    {
+      "start_time": "00:00:23.840",
+      "end_time": "00:00:27.280",
+      "text": "interfaces where everything is at the same level. If everything is important,"
+    },
+    {
+      "start_time": "00:00:27.440",
+      "end_time": "00:00:28.040",
+      "text": "nothing is,"
+    },
+    {
+      "start_time": "00:00:28.041",
+      "end_time": "00:00:30.600",
+      "text": "the user has absolutely no idea where to start."
+    },
+    {
+      "start_time": "00:00:30.680",
+      "end_time": "00:00:34.480",
+      "text": "And finally, journeys designed to be exhaustive instead of progressive."
+    },
+    {
+      "start_time": "00:00:34.680",
+      "end_time": "00:00:37.400",
+      "text": "A good product doesn’t show everything—it reveals at the right moment."
+    },
+    {
+      "start_time": "00:00:37.480",
+      "end_time": "00:00:39.560",
+      "text": "In 2026, I want to see fewer explanations,"
+    },
+    {
+      "start_time": "00:00:39.720",
+      "end_time": "00:00:41.000",
+      "text": "but more obvious paths."
+    },
+    {
+      "start_time": "00:00:41.080",
+      "end_time": "00:00:43.880",
+      "text": "And of course, I wish you a wonderful year in 2026!"
+    }
+  ]
+}

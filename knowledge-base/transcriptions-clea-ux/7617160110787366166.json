@@ -1,0 +1,1151 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:03.000",
+      "text": "Aujourd'hui, je te propose l'analyse UX de l'onboarding de ce SaaS."
+    },
+    {
+      "start_time": "00:00:03.080",
+      "end_time": "00:00:06.640",
+      "text": "Allez c'est parti on est sur la landing page. Déjà la 1ère remarque que j'aurais,"
+    },
+    {
+      "start_time": "00:00:06.760",
+      "end_time": "00:00:08.240",
+      "text": "c'est qu'il y a trop d'espace blanc."
+    },
+    {
+      "start_time": "00:00:08.400",
+      "end_time": "00:00:12.080",
+      "text": "D'un point de vue design, on arrive, et là, on voit trop d'espace blanc,"
+    },
+    {
+      "start_time": "00:00:12.280",
+      "end_time": "00:00:14.360",
+      "text": "trop de d'endroit où il y a rien."
+    },
+    {
+      "start_time": "00:00:14.480",
+      "end_time": "00:00:17.200",
+      "text": "Alors l'espace blanc en design c'est génial hein il faut l'utiliser."
+    },
+    {
+      "start_time": "00:00:17.320",
+      "end_time": "00:00:18.000",
+      "text": "Laisser respirer"
+    },
+    {
+      "start_time": "00:00:18.001",
+      "end_time": "00:00:19.760",
+      "text": "le design, c'est quelque chose qui est super important"
+    },
+    {
+      "start_time": "00:00:19.840",
+      "end_time": "00:00:21.720",
+      "text": "aussi pour la hiérarchisation des éléments."
+    },
+    {
+      "start_time": "00:00:21.760",
+      "end_time": "00:00:23.560",
+      "text": "Mais là, pour le coup, il y en a beaucoup trop."
+    },
+    {
+      "start_time": "00:00:23.600",
+      "end_time": "00:00:27.120",
+      "text": "Faudrait peut-être mettre 1 petit peu plus de marge ici pour"
+    },
+    {
+      "start_time": "00:00:27.440",
+      "end_time": "00:00:32.160",
+      "text": "que tous ces éléments-là soient 1 petit peu plus sur la droite."
+    },
+    {
+      "start_time": "00:00:32.400",
+      "end_time": "00:00:34.280",
+      "text": "Et ici, ça, je l’agrandirai"
+    },
+    {
+      "start_time": "00:00:34.680",
+      "end_time": "00:00:37.480",
+      "text": "pour que ça prenne tout l'espace sans en faire trop non plus,"
+    },
+    {
+      "start_time": "00:00:37.600",
+      "end_time": "00:00:39.400",
+      "text": "mais qui est moins d'espace blanc. Ensuite,"
+    },
+    {
+      "start_time": "00:00:39.560",
+      "end_time": "00:00:40.720",
+      "text": "votre coffre-fort numérique"
+    },
+    {
+      "start_time": "00:00:41.200",
+      "end_time": "00:00:43.000",
+      "text": "intelligent pour tous vos documents administratifs."
+    },
+    {
+      "start_time": "00:00:43.080",
+      "end_time": "00:00:46.960",
+      "text": "Bon, là, on comprend directement la promesse avec 1 sous-titre,"
+    },
+    {
+      "start_time": "00:00:47.200",
+      "end_time": "00:00:50.560",
+      "text": "retrouvez n'importe quel type de document en moins de 15secondes, ça c'est génial."
+    },
+    {
+      "start_time": "00:00:50.640",
+      "end_time": "00:00:51.360",
+      "text": "Peut-être que ça,"
+    },
+    {
+      "start_time": "00:00:51.361",
+      "end_time": "00:00:52.880",
+      "text": "ça aurait même pu être la promesse,"
+    },
+    {
+      "start_time": "00:00:52.920",
+      "end_time": "00:00:56.080",
+      "text": "parce qu'ici, on a 1 notion de temps et de gain de temps. En fait,"
+    },
+    {
+      "start_time": "00:00:56.400",
+      "end_time": "00:00:59.920",
+      "text": "le fait de retrouver les documents en moins de 15secondes,"
+    },
+    {
+      "start_time": "00:01:00.200",
+      "end_time": "00:01:02.160",
+      "text": "ça, je le verrai plus dans la promesse,"
+    },
+    {
+      "start_time": "00:01:02.161",
+      "end_time": "00:01:03.840",
+      "text": "donc dans le titre. Et le sous-titre,"
+    },
+    {
+      "start_time": "00:01:03.841",
+      "end_time": "00:01:05.840",
+      "text": "il sert plus à expliquer comment on y arrive."
+    },
+    {
+      "start_time": "00:01:05.841",
+      "end_time": "00:01:07.920",
+      "text": "Ensuite, on a 1 CT à s'inscrire maintenant,"
+    },
+    {
+      "start_time": "00:01:08.000",
+      "end_time": "00:01:10.840",
+      "text": "pourquoi pas. Après on peut toujours améliorer le copy,"
+    },
+    {
+      "start_time": "00:01:11.200",
+      "end_time": "00:01:13.960",
+      "text": "pour donner encore plus envie, là par exemple, on aurait pu mettre,"
+    },
+    {
+      "start_time": "00:01:14.240",
+      "end_time": "00:01:17.880",
+      "text": "je centralise tous mes documents, ou alors je crée mon coffre-fort numérique,"
+    },
+    {
+      "start_time": "00:01:18.040",
+      "end_time": "00:01:19.640",
+      "text": "mais en l'état, ça fonctionne très bien quand-même."
+    },
+    {
+      "start_time": "00:01:19.641",
+      "end_time": "00:01:21.240",
+      "text": "Ici, on a directement la notion de prix."
+    },
+    {
+      "start_time": "00:01:21.480",
+      "end_time": "00:01:24.040",
+      "text": "Alors c'est bien de mettre les prix sur 1 landing page. Par contre,"
+    },
+    {
+      "start_time": "00:01:24.200",
+      "end_time": "00:01:25.400",
+      "text": "au niveau de la Hero section,"
+    },
+    {
+      "start_time": "00:01:25.560",
+      "end_time": "00:01:27.240",
+      "text": "surtout quand on a 1 plan gratuit,"
+    },
+    {
+      "start_time": "00:01:27.320",
+      "end_time": "00:01:29.440",
+      "text": "ça peut plus faire fuir qu'autre chose."
+    },
+    {
+      "start_time": "00:01:29.480",
+      "end_time": "00:01:33.160",
+      "text": "Donc ici, je préconiserai d'enlever cette notion de tarification,"
+    },
+    {
+      "start_time": "00:01:33.600",
+      "end_time": "00:01:35.520",
+      "text": "de plutôt mettre des bullet points"
+    },
+    {
+      "start_time": "00:01:35.680",
+      "end_time": "00:01:38.000",
+      "text": "qui donnent les fonctionnalités principales par exemple,"
+    },
+    {
+      "start_time": "00:01:38.001",
+      "end_time": "00:01:39.520",
+      "text": "ou alors les bénéfices qu’apporte"
+    },
+    {
+      "start_time": "00:01:39.521",
+      "end_time": "00:01:40.320",
+      "text": "ce SaaS"
+    },
+    {
+      "start_time": "00:01:40.480",
+      "end_time": "00:01:42.880",
+      "text": "finalement. Ensuite, y a des éléments de réassurance ici,"
+    },
+    {
+      "start_time": "00:01:42.920",
+      "end_time": "00:01:44.400",
+      "text": "plus de 12.000 utilisateurs."
+    },
+    {
+      "start_time": "00:01:44.720",
+      "end_time": "00:01:47.600",
+      "text": "Franchement, bravo, ça c'est très bien"
+    },
+    {
+      "start_time": "00:01:47.601",
+      "end_time": "00:01:51.200",
+      "text": "juste sous le CTA, ce serait même bien de le rapprocher 1 petit peu plus du CTA."
+    },
+    {
+      "start_time": "00:01:51.320",
+      "end_time": "00:01:54.240",
+      "text": "Et d'ailleurs, le CTA, je l'aurais fait 1 petit peu plus prédominant."
+    },
+    {
+      "start_time": "00:01:54.280",
+      "end_time": "00:01:55.760",
+      "text": "Donc on est parti pour l'inscription."
+    },
+    {
+      "start_time": "00:01:55.840",
+      "end_time": "00:01:56.640",
+      "text": "on arrive ici."
+    },
+    {
+      "start_time": "00:01:56.720",
+      "end_time": "00:01:59.120",
+      "text": "Alors là, on a on a 1 écran qui a assez danse,"
+    },
+    {
+      "start_time": "00:01:59.320",
+      "end_time": "00:02:00.360",
+      "text": "assez surchargé,"
+    },
+    {
+      "start_time": "00:02:00.640",
+      "end_time": "00:02:02.320",
+      "text": "avec l'image derrière."
+    },
+    {
+      "start_time": "00:02:02.400",
+      "end_time": "00:02:05.480",
+      "text": "Ici l'inscription qui se fait quand-même un-deux-trois-quatre,"
+    },
+    {
+      "start_time": "00:02:05.760",
+      "end_time": "00:02:09.840",
+      "text": "5 input, et en plus on a le SSO ici. Ok. Alors en terme de hiérarchisation,"
+    },
+    {
+      "start_time": "00:02:10.000",
+      "end_time": "00:02:14.400",
+      "text": "ce qui est bien, ce serait de remonter le s'inscrire avec Google tout en haut."
+    },
+    {
+      "start_time": "00:02:14.440",
+      "end_time": "00:02:17.800",
+      "text": "Pourquoi ? Parce que 1 inscription doit être ultra rapide."
+    },
+    {
+      "start_time": "00:02:17.801",
+      "end_time": "00:02:19.320",
+      "text": "Le but, c'est juste de récupérer le mail"
+    },
+    {
+      "start_time": "00:02:19.400",
+      "end_time": "00:02:22.560",
+      "text": "et le mot de passe pour que l'utilisateur puisse se reconnecter"
+    },
+    {
+      "start_time": "00:02:22.880",
+      "end_time": "00:02:23.480",
+      "text": "1 prochaine fois."
+    },
+    {
+      "start_time": "00:02:23.481",
+      "end_time": "00:02:26.600",
+      "text": "Ici je pense pas que le nom et prénom soit obligatoire ou même nécessaire,"
+    },
+    {
+      "start_time": "00:02:26.640",
+      "end_time": "00:02:28.880",
+      "text": "mais si ce sont des éléments qu'il faut récupérer,"
+    },
+    {
+      "start_time": "00:02:29.200",
+      "end_time": "00:02:32.080",
+      "text": "dans ce cas les récupérer après l'inscription,"
+    },
+    {
+      "start_time": "00:02:32.240",
+      "end_time": "00:02:35.360",
+      "text": "au moment de l'onboarding. Et pourquoi remonter le SSO ? Ben c'est simple,"
+    },
+    {
+      "start_time": "00:02:35.480",
+      "end_time": "00:02:38.360",
+      "text": "c'est parce que c'est la la méthode d'inscription qui est la"
+    },
+    {
+      "start_time": "00:02:38.440",
+      "end_time": "00:02:40.120",
+      "text": "plus rapide par rapport à"
+    },
+    {
+      "start_time": "00:02:40.440",
+      "end_time": "00:02:41.960",
+      "text": "au remplissage des inputs."
+    },
+    {
+      "start_time": "00:02:42.040",
+      "end_time": "00:02:45.840",
+      "text": "Donc là ce que je ferai c'est que je remonterai le SSO juste en haut et"
+    },
+    {
+      "start_time": "00:02:45.841",
+      "end_time": "00:02:46.680",
+      "text": "Je mettrai juste"
+    },
+    {
+      "start_time": "00:02:46.920",
+      "end_time": "00:02:47.800",
+      "text": "email et mot de passe."
+    },
+    {
+      "start_time": "00:02:47.840",
+      "end_time": "00:02:49.080",
+      "text": "La confirmation de mot de passe"
+    },
+    {
+      "start_time": "00:02:49.520",
+      "end_time": "00:02:50.920",
+      "text": "à l'heure actuelle ça sert plus à rien."
+    },
+    {
+      "start_time": "00:02:50.960",
+      "end_time": "00:02:51.360",
+      "text": "Dans ce cas,"
+    },
+    {
+      "start_time": "00:02:51.361",
+      "end_time": "00:02:54.520",
+      "text": "mettre 1 petit œil pour que les utilisateurs puissent voir ce qu'ils écrivent,"
+    },
+    {
+      "start_time": "00:02:54.521",
+      "end_time": "00:02:56.120",
+      "text": "mais sinon juste l'email,"
+    },
+    {
+      "start_time": "00:02:56.121",
+      "end_time": "00:02:57.480",
+      "text": "le mot de passe et c'est tout,"
+    },
+    {
+      "start_time": "00:02:57.640",
+      "end_time": "00:03:00.400",
+      "text": "pas besoin de plus. Donc je vais m'inscrire et créer 1 compte."
+    },
+    {
+      "start_time": "00:03:00.520",
+      "end_time": "00:03:01.880",
+      "text": "Ok. Ce qui est bien après l'inscription"
+    },
+    {
+      "start_time": "00:03:01.960",
+      "end_time": "00:03:04.920",
+      "text": "c'est que on ne force pas à aller vérifier la"
+    },
+    {
+      "start_time": "00:03:05.280",
+      "end_time": "00:03:07.520",
+      "text": "l'adresse mail et ça c'est 1 très bonne chose."
+    },
+    {
+      "start_time": "00:03:07.560",
+      "end_time": "00:03:11.480",
+      "text": "Par contre on arrive directement sur 1 petit onboarding j'imagine."
+    },
+    {
+      "start_time": "00:03:11.600",
+      "end_time": "00:03:13.600",
+      "text": "On voit qu'il y a 4 étapes à remplir"
+    },
+    {
+      "start_time": "00:03:13.680",
+      "end_time": "00:03:18.000",
+      "text": "mais on nous demande directement comment est-ce qu'on a découvert Pepperclass."
+    },
+    {
+      "start_time": "00:03:18.080",
+      "end_time": "00:03:18.920",
+      "text": "Alors c'est très bien de"
+    },
+    {
+      "start_time": "00:03:19.160",
+      "end_time": "00:03:20.480",
+      "text": "demander ça parce que ça nous permet de"
+    },
+    {
+      "start_time": "00:03:20.680",
+      "end_time": "00:03:22.840",
+      "text": "comprendre ce qui fonctionne ou ce qui fonctionne pas dans notre"
+    },
+    {
+      "start_time": "00:03:23.400",
+      "end_time": "00:03:24.040",
+      "text": "communication"
+    },
+    {
+      "start_time": "00:03:24.041",
+      "end_time": "00:03:26.640",
+      "text": "et d’où viennent"
+    },
+    {
+      "start_time": "00:03:26.800",
+      "end_time": "00:03:28.440",
+      "text": "les utilisateurs majoritairement."
+    },
+    {
+      "start_time": "00:03:28.480",
+      "end_time": "00:03:31.640",
+      "text": "Mais c'est pas 1 étape qu'il faut retrouver de suite après l'inscription."
+    },
+    {
+      "start_time": "00:03:31.760",
+      "end_time": "00:03:32.560",
+      "text": "Pourquoi ?"
+    },
+    {
+      "start_time": "00:03:32.640",
+      "end_time": "00:03:36.480",
+      "text": "Parce que on n'a Pas encore montré la valeur du SaaS à l'utilisateur qu'on lui"
+    },
+    {
+      "start_time": "00:03:36.680",
+      "end_time": "00:03:39.280",
+      "text": "demande quelque chose qui à lui ne va pas lui servir."
+    },
+    {
+      "start_time": "00:03:39.320",
+      "end_time": "00:03:42.000",
+      "text": "Donc cette étape-là, il faudrait la mettre après l'onboarding."
+    },
+    {
+      "start_time": "00:03:42.080",
+      "end_time": "00:03:45.320",
+      "text": "D'abord créer 1 onboarding qui va l'emmener vers 1 aha moment"
+    },
+    {
+      "start_time": "00:03:45.560",
+      "end_time": "00:03:48.400",
+      "text": "ultra rapidement, et ensuite lui demander"
+    },
+    {
+      "start_time": "00:03:48.401",
+      "end_time": "00:03:49.080",
+      "text": "comment"
+    },
+    {
+      "start_time": "00:03:49.560",
+      "end_time": "00:03:52.640",
+      "text": "ils ont découvert Paperclass, donc on va mettre réseaux sociaux."
+    },
+    {
+      "start_time": "00:03:52.800",
+      "end_time": "00:03:57.200",
+      "text": "Alors là, on nous récapitule les fonctionnalités à ce moment-là"
+    },
+    {
+      "start_time": "00:03:57.720",
+      "end_time": "00:04:00.600",
+      "text": "c'est pas du tout nécessaire parce que généralement"
+    },
+    {
+      "start_time": "00:04:00.920",
+      "end_time": "00:04:01.960",
+      "text": "quand on s'inscrit"
+    },
+    {
+      "start_time": "00:04:02.200",
+      "end_time": "00:04:05.240",
+      "text": "dans 1 SaaS, on sait déjà les fonctionnalités qu'il y a dedans,"
+    },
+    {
+      "start_time": "00:04:05.360",
+      "end_time": "00:04:06.600",
+      "text": "surtout que il y a"
+    },
+    {
+      "start_time": "00:04:06.880",
+      "end_time": "00:04:09.680",
+      "text": "j'imagine que c'est écrit dans la landing page,"
+    },
+    {
+      "start_time": "00:04:09.800",
+      "end_time": "00:04:10.440",
+      "text": "cette étape-là,"
+    },
+    {
+      "start_time": "00:04:10.441",
+      "end_time": "00:04:13.360",
+      "text": "moi je la supprimerai parce que là on emmène toujours pas le"
+    },
+    {
+      "start_time": "00:04:13.760",
+      "end_time": "00:04:15.240",
+      "text": "l'utilisateur vers la valeur"
+    },
+    {
+      "start_time": "00:04:15.520",
+      "end_time": "00:04:16.280",
+      "text": "finalement. Ah,"
+    },
+    {
+      "start_time": "00:04:16.281",
+      "end_time": "00:04:16.840",
+      "text": "étape 3,"
+    },
+    {
+      "start_time": "00:04:16.841",
+      "end_time": "00:04:20.920",
+      "text": "là, on arrive enfin vers 1 action qui va nous montrer la valeur du produit,"
+    },
+    {
+      "start_time": "00:04:21.000",
+      "end_time": "00:04:23.240",
+      "text": "donc testez la magie de Paperclass."
+    },
+    {
+      "start_time": "00:04:23.320",
+      "end_time": "00:04:25.000",
+      "text": "Ok, je choisis 1 fichier."
+    },
+    {
+      "start_time": "00:04:25.160",
+      "end_time": "00:04:27.640",
+      "text": "Alors je vais essayer de trouver 1 fichier non compromettant."
+    },
+    {
+      "start_time": "00:04:28.080",
+      "end_time": "00:04:29.120",
+      "text": "Allez, j'ai mis 1 fichier."
+    },
+    {
+      "start_time": "00:04:29.240",
+      "end_time": "00:04:31.800",
+      "text": "On a 1 petit loader qui nous dit que ça fonctionne,"
+    },
+    {
+      "start_time": "00:04:31.801",
+      "end_time": "00:04:33.400",
+      "text": "que ça avance, ça c'est 1 très bonne chose,"
+    },
+    {
+      "start_time": "00:04:36.160",
+      "end_time": "00:04:37.080",
+      "text": "ok. Alors là,"
+    },
+    {
+      "start_time": "00:04:38.120",
+      "end_time": "00:04:40.280",
+      "text": "on a notre notre valeur"
+    },
+    {
+      "start_time": "00:04:40.760",
+      "end_time": "00:04:44.680",
+      "text": "mais on l'a pas vraiment vu. C'est-à-dire que le le loader a terminé,"
+    },
+    {
+      "start_time": "00:04:44.760",
+      "end_time": "00:04:46.320",
+      "text": "on nous dit, ok, c'est terminé de suite"
+    },
+    {
+      "start_time": "00:04:46.400",
+      "end_time": "00:04:50.400",
+      "text": "après bam, on a 1 pop-up qui nous dit, prends les l’essai, enfin prends le"
+    },
+    {
+      "start_time": "00:04:50.880",
+      "end_time": "00:04:53.720",
+      "text": "l’essai 14 jours gratuits. Donc le plan Payant."
+    },
+    {
+      "start_time": "00:04:53.840",
+      "end_time": "00:04:55.360",
+      "text": "Ça c'est vraiment pas 1 bonne chose à faire."
+    },
+    {
+      "start_time": "00:04:55.361",
+      "end_time": "00:04:58.480",
+      "text": "Il faut d'abord laisser l'utilisateur découvrir la valeur,"
+    },
+    {
+      "start_time": "00:04:58.560",
+      "end_time": "00:05:00.800",
+      "text": "se dire, ah ben ça y est, ça c'est bon, c'est fait."
+    },
+    {
+      "start_time": "00:05:01.040",
+      "end_time": "00:05:03.400",
+      "text": "Là, on n'a pas eu le temps, on n'a vraiment pas eu le temps, donc"
+    },
+    {
+      "start_time": "00:05:03.800",
+      "end_time": "00:05:07.120",
+      "text": "en plus, on nous force à le prendre ou d'aller voir directement les autres plans."
+    },
+    {
+      "start_time": "00:05:07.480",
+      "end_time": "00:05:08.920",
+      "text": "Alors je vais aller voir directement les autres plans."
+    },
+    {
+      "start_time": "00:05:09.000",
+      "end_time": "00:05:10.280",
+      "text": "Comment souhaitez-vous continuer ?"
+    },
+    {
+      "start_time": "00:05:10.320",
+      "end_time": "00:05:12.120",
+      "text": "Choisissez votre méthode de sélection d'abonnement,"
+    },
+    {
+      "start_time": "00:05:12.280",
+      "end_time": "00:05:14.720",
+      "text": "je choisis, je connais mes besoins. Ou guidez-moi."
+    },
+    {
+      "start_time": "00:05:14.880",
+      "end_time": "00:05:15.680",
+      "text": "Ah, 1 petit quiz."
+    },
+    {
+      "start_time": "00:05:15.800",
+      "end_time": "00:05:18.080",
+      "text": "Alors je comprends la notion de vouloir personnaliser la chose,"
+    },
+    {
+      "start_time": "00:05:18.081",
+      "end_time": "00:05:21.040",
+      "text": "mais j'imagine que les plans sont quoi qu'il arrive toujours les mêmes,"
+    },
+    {
+      "start_time": "00:05:21.080",
+      "end_time": "00:05:22.920",
+      "text": "et en tout cas à ce moment-là"
+    },
+    {
+      "start_time": "00:05:23.320",
+      "end_time": "00:05:26.200",
+      "text": "de l'onboarding, parce que en vrai, c'est pas vraiment 1 onboarding"
+    },
+    {
+      "start_time": "00:05:26.320",
+      "end_time": "00:05:29.080",
+      "text": "ce que j'ai vu, ça rallonge encore le le"
+    },
+    {
+      "start_time": "00:05:29.480",
+      "end_time": "00:05:31.600",
+      "text": "la chose, et on est toujours pas dans le SaaS. Là,"
+    },
+    {
+      "start_time": "00:05:31.601",
+      "end_time": "00:05:34.600",
+      "text": "ça fait déjà 5minutes et j'suis toujours pas dans le SaaS"
+    },
+    {
+      "start_time": "00:05:35.040",
+      "end_time": "00:05:38.240",
+      "text": "et ça commence à être très long pour l'utilisateur et je pense qu'à ce moment-là,"
+    },
+    {
+      "start_time": "00:05:38.241",
+      "end_time": "00:05:39.160",
+      "text": "il a déjà décroché."
+    },
+    {
+      "start_time": "00:05:39.200",
+      "end_time": "00:05:40.720",
+      "text": "On a le petit quiz où choisir."
+    },
+    {
+      "start_time": "00:05:40.760",
+      "end_time": "00:05:42.160",
+      "text": "Je vais quand-même aller voir le petit quiz,"
+    },
+    {
+      "start_time": "00:05:42.320",
+      "end_time": "00:05:46.000",
+      "text": "on a encore 3 étapes à faire, et 3 étapes qui nous apportent aucune valeur,"
+    },
+    {
+      "start_time": "00:05:46.160",
+      "end_time": "00:05:48.920",
+      "text": "juste pour aller choisir 1 plan payant. Êtes-vous actuellement en activité ?"
+    },
+    {
+      "start_time": "00:05:49.080",
+      "end_time": "00:05:52.080",
+      "text": "Oui, je travaille. Combien de temps pour gérer votre administratif ?"
+    },
+    {
+      "start_time": "00:05:52.320",
+      "end_time": "00:05:53.520",
+      "text": "1 peu de temps ?"
+    },
+    {
+      "start_time": "00:05:54.000",
+      "end_time": "00:05:56.640",
+      "text": "Ouais. Souhaitez-vous partager avec votre famille ? Non, juste pour moi."
+    },
+    {
+      "start_time": "00:05:57.321",
+      "end_time": "00:06:00.600",
+      "text": "on arrive sur les 3 plans qui nous étaient déjà annoncés sur la landing page."
+    },
+    {
+      "start_time": "00:06:00.601",
+      "end_time": "00:06:02.400",
+      "text": "Donc cette notion de personnalisation, c'est sympa,"
+    },
+    {
+      "start_time": "00:06:02.401",
+      "end_time": "00:06:04.800",
+      "text": "on peut le laisser, en tout cas pour plus tard dans le SaaS,"
+    },
+    {
+      "start_time": "00:06:04.840",
+      "end_time": "00:06:08.400",
+      "text": "mais à ce moment-là, ça rallonge plus qu'autre chose et l'utilisateur pourrait se dire,"
+    },
+    {
+      "start_time": "00:06:08.401",
+      "end_time": "00:06:09.880",
+      "text": "bon c'est long,"
+    },
+    {
+      "start_time": "00:06:09.920",
+      "end_time": "00:06:12.640",
+      "text": "j'suis toujours pas dans le SaaS et j'ai rien vu,"
+    },
+    {
+      "start_time": "00:06:12.641",
+      "end_time": "00:06:13.680",
+      "text": "j'ai juste déposé 1 document,"
+    },
+    {
+      "start_time": "00:06:13.840",
+      "end_time": "00:06:15.360",
+      "text": "mais je sais même pas ce que ça a fait là."
+    },
+    {
+      "start_time": "00:06:15.361",
+      "end_time": "00:06:16.600",
+      "text": "Je pense qu'il doit y avoir beaucoup de friction."
+    },
+    {
+      "start_time": "00:06:16.720",
+      "end_time": "00:06:18.760",
+      "text": "Je vais continuer avec"
+    },
+    {
+      "start_time": "00:06:19.000",
+      "end_time": "00:06:19.920",
+      "text": "le plan gratuit."
+    },
+    {
+      "start_time": "00:06:20.640",
+      "end_time": "00:06:24.240",
+      "text": "Et là, bam, on nous redemande de prendre le plan payant. Non, c'est vraiment pas,"
+    },
+    {
+      "start_time": "00:06:24.440",
+      "end_time": "00:06:28.160",
+      "text": "c'est vraiment pas 1 bonne pratique à ce moment-là de"
+    },
+    {
+      "start_time": "00:06:28.360",
+      "end_time": "00:06:29.160",
+      "text": "l'inscription,"
+    },
+    {
+      "start_time": "00:06:29.680",
+      "end_time": "00:06:32.400",
+      "text": "parce que j'ai toujours pas vu le SaaS. Proposer les 7 jours gratuits"
+    },
+    {
+      "start_time": "00:06:32.440",
+      "end_time": "00:06:35.720",
+      "text": "en plus on me l'a déjà proposé avant et c'était même 14 jours gratuits."
+    },
+    {
+      "start_time": "00:06:35.760",
+      "end_time": "00:06:37.560",
+      "text": "Donc déjà là, y a on a 1 p'tit conflit."
+    },
+    {
+      "start_time": "00:06:37.640",
+      "end_time": "00:06:40.960",
+      "text": "C'est-à-dire qu'avant on m'a proposé 14 jours, et là on me propose 7 jours."
+    },
+    {
+      "start_time": "00:06:42.440",
+      "end_time": "00:06:43.800",
+      "text": "Je ferai pas ça comme ça,"
+    },
+    {
+      "start_time": "00:06:43.801",
+      "end_time": "00:06:46.080",
+      "text": "je vais continuer et après je t'explique ce que je ferai."
+    },
+    {
+      "start_time": "00:06:46.360",
+      "end_time": "00:06:49.200",
+      "text": "Ça c'est cool, les confettis. Et donc là, j'arrive sur mon dashboard."
+    },
+    {
+      "start_time": "00:06:49.480",
+      "end_time": "00:06:52.400",
+      "text": "Ok, parfait, j'ai un deuxième onboarding, donc bienvenue."
+    },
+    {
+      "start_time": "00:06:52.520",
+      "end_time": "00:06:54.800",
+      "text": "J'imagine que c'est 1 petit tutoriel. Oui, ça c'est bien,"
+    },
+    {
+      "start_time": "00:06:55.040",
+      "end_time": "00:06:56.520",
+      "text": "c'est vraiment bien parce que ça nous dit"
+    },
+    {
+      "start_time": "00:06:56.680",
+      "end_time": "00:06:59.280",
+      "text": "où est-ce que je trouve chaque chose et à quoi ça sert."
+    },
+    {
+      "start_time": "00:06:59.281",
+      "end_time": "00:07:00.120",
+      "text": "Donc c'est vraiment bien ça."
+    },
+    {
+      "start_time": "00:07:00.240",
+      "end_time": "00:07:02.480",
+      "text": "Organiser par catégorie. Ok, suivant, suivant."
+    },
+    {
+      "start_time": "00:07:02.600",
+      "end_time": "00:07:03.400",
+      "text": "Suivant, terminé."
+    },
+    {
+      "start_time": "00:07:03.520",
+      "end_time": "00:07:03.960",
+      "text": "Ah et là,"
+    },
+    {
+      "start_time": "00:07:03.961",
+      "end_time": "00:07:05.080",
+      "text": "on nous enlève du dashboard"
+    },
+    {
+      "start_time": "00:07:05.160",
+      "end_time": "00:07:07.600",
+      "text": "pour aller remettre 1 fichier que je viens de mettre."
+    },
+    {
+      "start_time": "00:07:07.640",
+      "end_time": "00:07:11.400",
+      "text": "Ok, je vais aller voir le dashboard, j'ai mon fichier."
+    },
+    {
+      "start_time": "00:07:11.920",
+      "end_time": "00:07:13.560",
+      "text": "Ah, ça me relance le tutoriel."
+    },
+    {
+      "start_time": "00:07:13.760",
+      "end_time": "00:07:15.960",
+      "text": "Je pense que c'est 1 petit bug ça. Il faudrait"
+    },
+    {
+      "start_time": "00:07:16.200",
+      "end_time": "00:07:19.080",
+      "text": "voir pour le régler. Et c'est tout. Ok, comment je ferai ? Déjà"
+    },
+    {
+      "start_time": "00:07:19.360",
+      "end_time": "00:07:21.680",
+      "text": "ce que j'ai vu là, c'est pas vraiment 1 onboarding,"
+    },
+    {
+      "start_time": "00:07:21.760",
+      "end_time": "00:07:25.760",
+      "text": "c'est 1 série de questions qui vont te servir à toi, mais pas à l'utilisateur."
+    },
+    {
+      "start_time": "00:07:25.920",
+      "end_time": "00:07:26.640",
+      "text": "Alors certes,"
+    },
+    {
+      "start_time": "00:07:26.641",
+      "end_time": "00:07:31.160",
+      "text": "tu lui as demandé de mettre le 1er document pour qu'il fasse"
+    },
+    {
+      "start_time": "00:07:31.520",
+      "end_time": "00:07:34.000",
+      "text": "la 1ère action on va dire, mais après,"
+    },
+    {
+      "start_time": "00:07:34.080",
+      "end_time": "00:07:36.000",
+      "text": "il sait pas exactement ce que ça a fait,"
+    },
+    {
+      "start_time": "00:07:36.200",
+      "end_time": "00:07:37.200",
+      "text": "il sait qu'il a son document,"
+    },
+    {
+      "start_time": "00:07:37.400",
+      "end_time": "00:07:39.880",
+      "text": "mais après, il se passe quoi ? Quelle est la vraie valeur du truc ?"
+    },
+    {
+      "start_time": "00:07:39.920",
+      "end_time": "00:07:41.760",
+      "text": "Donc ce que j'aurais fait, c'est qu'après l'inscription,"
+    },
+    {
+      "start_time": "00:07:41.920",
+      "end_time": "00:07:43.480",
+      "text": "j'aurais directement"
+    },
+    {
+      "start_time": "00:07:43.640",
+      "end_time": "00:07:46.000",
+      "text": "demandé à l'utilisateur de choisir son 1er document"
+    },
+    {
+      "start_time": "00:07:46.440",
+      "end_time": "00:07:49.240",
+      "text": "et ensuite de l'emmener à la valeur que ça va lui apporter."
+    },
+    {
+      "start_time": "00:07:49.560",
+      "end_time": "00:07:52.480",
+      "text": "Qu'est-ce que ton SaaS est censé faire avec ce document ?"
+    },
+    {
+      "start_time": "00:07:52.680",
+      "end_time": "00:07:55.280",
+      "text": "Est-ce que c'est juste 1 question de centralisation et de gestion ?"
+    },
+    {
+      "start_time": "00:07:55.320",
+      "end_time": "00:07:56.120",
+      "text": "Et dans ce cas, bah,"
+    },
+    {
+      "start_time": "00:07:56.200",
+      "end_time": "00:08:00.520",
+      "text": "lui faire importer 1 1er document et par exemple le faire catégoriser,"
+    },
+    {
+      "start_time": "00:08:00.640",
+      "end_time": "00:08:01.440",
+      "text": "pourquoi pas ?"
+    },
+    {
+      "start_time": "00:08:01.520",
+      "end_time": "00:08:05.320",
+      "text": "Ou lui dire, ben c'est bon, votre 1er document est importé, et à ce moment-là"
+    },
+    {
+      "start_time": "00:08:05.680",
+      "end_time": "00:08:07.080",
+      "text": "lui demander"
+    },
+    {
+      "start_time": "00:08:07.560",
+      "end_time": "00:08:09.800",
+      "text": "toutes les questions qu'on a vues, donc par quel moyen"
+    },
+    {
+      "start_time": "00:08:10.160",
+      "end_time": "00:08:11.360",
+      "text": "vous nous avez connu,"
+    },
+    {
+      "start_time": "00:08:11.480",
+      "end_time": "00:08:14.280",
+      "text": "et ensuite. Est-ce que vous voulez le plan payant ? Mais là, à l'heure actuelle,"
+    },
+    {
+      "start_time": "00:08:14.640",
+      "end_time": "00:08:17.200",
+      "text": "l'utilisateur n'a pas encore vu l'utilité du SaaS"
+    },
+    {
+      "start_time": "00:08:17.201",
+      "end_time": "00:08:20.040",
+      "text": "et la valeur pour qu'il choisisse le plan payant avant."
+    },
+    {
+      "start_time": "00:08:20.080",
+      "end_time": "00:08:21.320",
+      "text": "Surtout que de ce que je vois,"
+    },
+    {
+      "start_time": "00:08:21.321",
+      "end_time": "00:08:26.160",
+      "text": "c'est qu'ici on a des étapes à réaliser pour terminer l'installation."
+    },
+    {
+      "start_time": "00:08:26.200",
+      "end_time": "00:08:27.440",
+      "text": "Donc peut-être que ça aurait été"
+    },
+    {
+      "start_time": "00:08:27.880",
+      "end_time": "00:08:29.400",
+      "text": "intéressant de le faire au moment de l’onboarding."
+    },
+    {
+      "start_time": "00:08:29.680",
+      "end_time": "00:08:31.760",
+      "text": "Alors pas la validation d'email. Comme j'ai dit ça,"
+    },
+    {
+      "start_time": "00:08:31.761",
+      "end_time": "00:08:35.000",
+      "text": "la validation d'email, c'est bien que ça arrive dans le SaaS et pas avant."
+    },
+    {
+      "start_time": "00:08:35.160",
+      "end_time": "00:08:37.520",
+      "text": "Activer ça aussi on n'a pas besoin dans l’onboarding,"
+    },
+    {
+      "start_time": "00:08:37.521",
+      "end_time": "00:08:40.560",
+      "text": "mais par exemple, créer 1 catégorie pour organiser les documents."
+    },
+    {
+      "start_time": "00:08:40.800",
+      "end_time": "00:08:42.240",
+      "text": "1 fois qu'on a fait"
+    },
+    {
+      "start_time": "00:08:42.440",
+      "end_time": "00:08:43.480",
+      "text": "importer le 1er document,"
+    },
+    {
+      "start_time": "00:08:43.600",
+      "end_time": "00:08:46.280",
+      "text": "on peut leur faire créer directement la catégorie pour"
+    },
+    {
+      "start_time": "00:08:46.680",
+      "end_time": "00:08:48.360",
+      "text": "ce document-là pendant l'onboarding."
+    },
+    {
+      "start_time": "00:08:48.480",
+      "end_time": "00:08:51.080",
+      "text": "Et là, on commence à découvrir la vraie valeur du produit."
+    },
+    {
+      "start_time": "00:08:51.160",
+      "end_time": "00:08:53.960",
+      "text": "Téléverser 5 documents, donc ça non pas besoin dans l'onboarding."
+    },
+    {
+      "start_time": "00:08:54.120",
+      "end_time": "00:08:55.320",
+      "text": "Parrainer 1 ami non plus."
+    },
+    {
+      "start_time": "00:08:55.640",
+      "end_time": "00:08:56.520",
+      "text": "Télécharger 1 document,"
+    },
+    {
+      "start_time": "00:08:56.800",
+      "end_time": "00:08:59.120",
+      "text": "on l'a déjà fait. Donc voilà, ce que j'aurais fait réellement,"
+    },
+    {
+      "start_time": "00:08:59.160",
+      "end_time": "00:09:02.360",
+      "text": "ça aurait été de faire importer le 1er document et le faire catégoriser."
+    },
+    {
+      "start_time": "00:09:02.680",
+      "end_time": "00:09:05.200",
+      "text": "Et puis 1 fois que le que l'onboarding est terminé,"
+    },
+    {
+      "start_time": "00:09:05.201",
+      "end_time": "00:09:05.800",
+      "text": "à ce moment-là"
+    },
+    {
+      "start_time": "00:09:05.801",
+      "end_time": "00:09:08.840",
+      "text": "on pose les questions qui sont utiles pour nous en tant que fondateur."
+    },
+    {
+      "start_time": "00:09:08.880",
+      "end_time": "00:09:11.520",
+      "text": "Voilà. En tout cas, j'espère que cette petite analyse t'aura aidé."
+    },
+    {
+      "start_time": "00:09:11.680",
+      "end_time": "00:09:15.400",
+      "text": "Et puis si jamais tu as des questions ou que tu as besoin d'aller plus loin,"
+    },
+    {
+      "start_time": "00:09:15.401",
+      "end_time": "00:09:18.280",
+      "text": "je propose toujours des audits et tu trouveras le lien dans la bio."
+    }
+  ]
+}

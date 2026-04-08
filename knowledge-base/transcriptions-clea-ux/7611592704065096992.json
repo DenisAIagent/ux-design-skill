@@ -1,0 +1,186 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.800",
+      "text": "Comment réduire ton time to value sans raccourcir ton onboarding ?"
+    },
+    {
+      "start_time": "00:00:02.840",
+      "end_time": "00:00:04.560",
+      "text": "Je te donne 4 tips actionnables."
+    },
+    {
+      "start_time": "00:00:04.600",
+      "end_time": "00:00:06.840",
+      "text": "Beaucoup de fondateurs pensent que réduire le time to value,"
+    },
+    {
+      "start_time": "00:00:06.920",
+      "end_time": "00:00:08.520",
+      "text": "ça veut dire raccourcir l'onboarding."
+    },
+    {
+      "start_time": "00:00:08.600",
+      "end_time": "00:00:10.640",
+      "text": "Moins d'étapes = plus rapide = mieux."
+    },
+    {
+      "start_time": "00:00:10.680",
+      "end_time": "00:00:14.440",
+      "text": "Et résultat, il passe de 7 à 2 étapes et le time to value n'a pas bougé"
+    },
+    {
+      "start_time": "00:00:14.441",
+      "end_time": "00:00:15.800",
+      "text": "et parfois il a même empiré."
+    },
+    {
+      "start_time": "00:00:15.801",
+      "end_time": "00:00:17.960",
+      "text": "Parce que le problème c'est pas la longueur de l'onboarding,"
+    },
+    {
+      "start_time": "00:00:18.080",
+      "end_time": "00:00:20.360",
+      "text": "c'est si chaque étape apporte de la valeur ou pas."
+    },
+    {
+      "start_time": "00:00:20.400",
+      "end_time": "00:00:23.400",
+      "text": "Tu peux avoir 1 on onboarding de 2 étapes qui ne montre aucune valeur,"
+    },
+    {
+      "start_time": "00:00:23.480",
+      "end_time": "00:00:25.120",
+      "text": "juste l'inscription et c'est parti !"
+    },
+    {
+      "start_time": "00:00:25.200",
+      "end_time": "00:00:26.880",
+      "text": "L'utilisateur arrive sur 1 dashboard vide,"
+    },
+    {
+      "start_time": "00:00:26.920",
+      "end_time": "00:00:28.655",
+      "text": "il ne sait pas quoi faire et il a rien obtenu,"
+    },
+    {
+      "start_time": "00:00:28.760",
+      "end_time": "00:00:31.040",
+      "text": "donc le time to value devient infini. Et à l'inverse,"
+    },
+    {
+      "start_time": "00:00:31.160",
+      "end_time": "00:00:34.280",
+      "text": "tu peux avoir 1 onboarding avec plus de 5 étapes mais qui montre 1 valeur"
+    },
+    {
+      "start_time": "00:00:34.520",
+      "end_time": "00:00:36.640",
+      "text": "immédiate. Comme je te l'ai montré par exemple avec monday."
+    },
+    {
+      "start_time": "00:00:36.680",
+      "end_time": "00:00:37.680",
+      "text": "Leur onboarding est long,"
+    },
+    {
+      "start_time": "00:00:37.760",
+      "end_time": "00:00:40.400",
+      "text": "plusieurs étapes, mais leur time to value est ultra court."
+    },
+    {
+      "start_time": "00:00:40.440",
+      "end_time": "00:00:44.240",
+      "text": "Donc voici 4 tips pour créer ton 1 boarding en réduisant ton time to value."
+    },
+    {
+      "start_time": "00:00:44.320",
+      "end_time": "00:00:47.120",
+      "text": "Le 1er, c'est que chaque étape doit créer 1 micro-victoire."
+    },
+    {
+      "start_time": "00:00:47.200",
+      "end_time": "00:00:49.600",
+      "text": "Pas juste collecter des infos, mais créer quelque chose,"
+    },
+    {
+      "start_time": "00:00:49.840",
+      "end_time": "00:00:53.360",
+      "text": "obtenir quelque chose. Le 2e, c'est qu'il faut que tu te poses 3 questions :"
+    },
+    {
+      "start_time": "00:00:53.400",
+      "end_time": "00:00:55.600",
+      "text": "quel est le 1er résultat que mon utilisateur veut ?"
+    },
+    {
+      "start_time": "00:00:55.640",
+      "end_time": "00:00:58.920",
+      "text": "Quelles sont les 3 actions minimums pour y arriver ? Et comment rendre chacune"
+    },
+    {
+      "start_time": "00:00:59.360",
+      "end_time": "00:01:00.160",
+      "text": "visible immédiatement ?"
+    },
+    {
+      "start_time": "00:01:00.200",
+      "end_time": "00:01:03.200",
+      "text": "Le 3e tips, c'est de commencer par le résultat final."
+    },
+    {
+      "start_time": "00:01:03.240",
+      "end_time": "00:01:06.440",
+      "text": "Montre-lui son tableau déjà rempli avec des données d'exemples et demande-lui"
+    },
+    {
+      "start_time": "00:01:06.600",
+      "end_time": "00:01:08.000",
+      "text": "« on remplace par tes vraies données ? »"
+    },
+    {
+      "start_time": "00:01:08.080",
+      "end_time": "00:01:08.880",
+      "text": "Valeur d'abord,"
+    },
+    {
+      "start_time": "00:01:09.160",
+      "end_time": "00:01:11.040",
+      "text": "configuration après. Et le 4e tips,"
+    },
+    {
+      "start_time": "00:01:11.320",
+      "end_time": "00:01:12.520",
+      "text": "c’est la règle des 2minutes."
+    },
+    {
+      "start_time": "00:01:12.640",
+      "end_time": "00:01:16.160",
+      "text": "Ton utilisateur doit obtenir son 1er résultat en moins de 2minutes."
+    },
+    {
+      "start_time": "00:01:16.240",
+      "end_time": "00:01:19.400",
+      "text": "Pas forcément finir l’onboarding, mais obtenir 1 résultat concret."
+    },
+    {
+      "start_time": "00:01:19.440",
+      "end_time": "00:01:21.400",
+      "text": "Et si tu veux que je jette 1 coup d'œil à ton onboarding,"
+    },
+    {
+      "start_time": "00:01:21.440",
+      "end_time": "00:01:23.360",
+      "text": "je te propose des audits ultra complets,"
+    },
+    {
+      "start_time": "00:01:23.400",
+      "end_time": "00:01:24.320",
+      "text": "le lien est dans la bio."
+    }
+  ]
+}

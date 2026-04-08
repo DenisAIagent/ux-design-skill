@@ -1,0 +1,106 @@
+{
+  "ok": true,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:03.140",
+      "text": "ça ce n'est pas simple. Toi tu penses qu'il est simple parce que tu le connais par cœur, mais la"
+    },
+    {
+      "start_time": "00:00:03.140",
+      "end_time": "00:00:06.900",
+      "text": "vérité c'est qu'il y a trois pièges de fausse simplicité. Le premier c'est de confondre peu de"
+    },
+    {
+      "start_time": "00:00:06.900",
+      "end_time": "00:00:11.140",
+      "text": "clics avec simple. Si tu réduis les étapes en condensant trois actions sur une seule page, tu"
+    },
+    {
+      "start_time": "00:00:11.140",
+      "end_time": "00:00:15.660",
+      "text": "exploses la charge cognitive. L'utilisateur préfère trois clics qui ne demandent aucune réflexion"
+    },
+    {
+      "start_time": "00:00:15.660",
+      "end_time": "00:00:19.920",
+      "text": "plutôt qu'un seul clic qui lui demande d'analyser une interface dense. Le deuxième est de confondre"
+    },
+    {
+      "start_time": "00:00:19.920",
+      "end_time": "00:00:24.780",
+      "text": "minimaliste avec simple. Le minimalisme c'est visuel alors que la simplicité c'est contextuel."
+    },
+    {
+      "start_time": "00:00:24.839",
+      "end_time": "00:00:26.579",
+      "text": "Un dashboard ultra épuré sans être"
+    },
+    {
+      "start_time": "00:00:26.899",
+      "end_time": "00:00:32.560",
+      "text": "explicatif ça perd plus que de choses. La vraie simplicité c'est pas d'enlever des éléments sur l'écran, c'est d'apporter la bonne information"
+    },
+    {
+      "start_time": "00:00:32.899",
+      "end_time": "00:00:36.240",
+      "text": "au bon moment. Et le troisième c'est de confondre évident pour moi avec"
+    },
+    {
+      "start_time": "00:00:36.719",
+      "end_time": "00:00:42.100",
+      "text": "évident pour tout le monde. Pour toi une icône flèche ça veut dire exporter. Pour l'utilisateur ça veut pouvoir dire envoyer,"
+    },
+    {
+      "start_time": "00:00:42.259",
+      "end_time": "00:00:46.740",
+      "text": "partager ou suivant. Tu as construit ton SaaS avec une logique de développeur ou de fondateur,"
+    },
+    {
+      "start_time": "00:00:46.840",
+      "end_time": "00:00:50.619",
+      "text": "mais ton utilisateur, lui, arrive avec une logique de résolution problème."
+    },
+    {
+      "start_time": "00:00:50.780",
+      "end_time": "00:00:52.020",
+      "text": "Alors guide-le un maximum."
+    },
+    {
+      "start_time": "00:00:52.240",
+      "end_time": "00:00:55.039",
+      "text": "Avant de dire que ton SaaS est simple, pose-toi ces trois questions."
+    },
+    {
+      "start_time": "00:00:55.159",
+      "end_time": "00:00:57.240",
+      "text": "Est-ce que tes utilisateurs hésitent à chaque étape?"
+    },
+    {
+      "start_time": "00:00:57.240",
+      "end_time": "00:01:00.179",
+      "text": "Est-ce qu'ils comprennent ce que fait chaque élément sans que tu expliques?"
+    },
+    {
+      "start_time": "00:01:00.179",
+      "end_time": "00:01:03.060",
+      "text": "Et est-ce que quelqu'un qui découvre peut utiliser ton produit seul?"
+    },
+    {
+      "start_time": "00:01:03.060",
+      "end_time": "00:01:06.920",
+      "text": "La simplicité, c'est pas qu'une question de design, c'est une question de prédictibilité."
+    },
+    {
+      "start_time": "00:01:07.000",
+      "end_time": "00:01:09.680",
+      "text": "Ton utilisateur doit savoir ce qui va se passer avant de cliquer."
+    },
+    {
+      "start_time": "00:01:09.939",
+      "end_time": "00:01:11.640",
+      "text": "Et si tu le surprends, tu l'as perdu."
+    }
+  ],
+  "taskCredits": 2
+}

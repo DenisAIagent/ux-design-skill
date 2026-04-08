@@ -1,0 +1,166 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:05.760",
+      "end_time": "00:00:08.720",
+      "text": "Parce que tout va dépendre du contexte et du stade d'avancement de ton SaaS."
+    },
+    {
+      "start_time": "00:00:08.840",
+      "end_time": "00:00:10.480",
+      "text": "Avec la carte bleue, la friction est élevée."
+    },
+    {
+      "start_time": "00:00:10.520",
+      "end_time": "00:00:13.520",
+      "text": "T'auras beaucoup moins d'inscription, mais ceux qui entrent sont ultra qualifiés."
+    },
+    {
+      "start_time": "00:00:13.560",
+      "end_time": "00:00:14.480",
+      "text": "Ils ont sorti leur carte,"
+    },
+    {
+      "start_time": "00:00:14.760",
+      "end_time": "00:00:16.400",
+      "text": "sont sérieux, tu évites les touristes,"
+    },
+    {
+      "start_time": "00:00:16.440",
+      "end_time": "00:00:18.880",
+      "text": "ceux qui testent par curiosité et qui ne reviennent jamais."
+    },
+    {
+      "start_time": "00:00:18.920",
+      "end_time": "00:00:20.800",
+      "text": "Le problème c'est que si ton produit est encore jeune,"
+    },
+    {
+      "start_time": "00:00:20.880",
+      "end_time": "00:00:22.760",
+      "text": "tu te coupes d'un flux de feedback précieux."
+    },
+    {
+      "start_time": "00:00:22.800",
+      "end_time": "00:00:24.760",
+      "text": "Moins d'utilisateurs donc moins de data"
+    },
+    {
+      "start_time": "00:00:24.880",
+      "end_time": "00:00:26.720",
+      "text": "et donc moins de chance de comprendre ce qui bloque."
+    },
+    {
+      "start_time": "00:00:26.880",
+      "end_time": "00:00:28.440",
+      "text": "Sans la carte bleue, la friction est basse."
+    },
+    {
+      "start_time": "00:00:28.600",
+      "end_time": "00:00:30.120",
+      "text": "Donc tu maximises les inscriptions"
+    },
+    {
+      "start_time": "00:00:30.160",
+      "end_time": "00:00:33.720",
+      "text": "et surtout tu maximises les chances que tes utilisateurs testent ton aha moment."
+    },
+    {
+      "start_time": "00:00:33.920",
+      "end_time": "00:00:36.840",
+      "text": "C'est l'idéal au début pour comprendre où tes utilisateurs bloquent dans ton"
+    },
+    {
+      "start_time": "00:00:37.000",
+      "end_time": "00:00:39.000",
+      "text": "produit, donc ce qui fonctionne et ce qui ne fonctionne pas."
+    },
+    {
+      "start_time": "00:00:39.001",
+      "end_time": "00:00:41.080",
+      "text": "Donc voici le conseil UX que je veux vraiment te donner :"
+    },
+    {
+      "start_time": "00:00:41.160",
+      "end_time": "00:00:42.200",
+      "text": "Si tu demandes la carte bleue,"
+    },
+    {
+      "start_time": "00:00:42.280",
+      "end_time": "00:00:43.960",
+      "text": "ton onboarding doit être irréprochable."
+    },
+    {
+      "start_time": "00:00:44.000",
+      "end_time": "00:00:46.720",
+      "text": "Parce que si ton utilisateur fait l'effort de sortir sa carte et qu'il"
+    },
+    {
+      "start_time": "00:00:46.800",
+      "end_time": "00:00:47.920",
+      "text": "arrive sur 1 dashboard vide"
+    },
+    {
+      "start_time": "00:00:48.120",
+      "end_time": "00:00:49.080",
+      "text": "sans savoir quoi faire,"
+    },
+    {
+      "start_time": "00:00:49.280",
+      "end_time": "00:00:50.320",
+      "text": "il annule. La carte bleue,"
+    },
+    {
+      "start_time": "00:00:50.321",
+      "end_time": "00:00:53.000",
+      "text": "crée 1 attente de valeur immédiate et si tu ne la tiens pas,"
+    },
+    {
+      "start_time": "00:00:53.040",
+      "end_time": "00:00:54.600",
+      "text": "tu perds la confiance de ton utilisateur."
+    },
+    {
+      "start_time": "00:00:54.640",
+      "end_time": "00:00:57.520",
+      "text": "Donc personnellement je teste souvent le sans carte bancaire au début"
+    },
+    {
+      "start_time": "00:00:57.600",
+      "end_time": "00:00:59.520",
+      "text": "pour scaler les usages et collecter des feedbacks."
+    },
+    {
+      "start_time": "00:00:59.600",
+      "end_time": "00:01:02.200",
+      "text": "Et quand le produit est assez solide pour que la valeur soit évidente"
+    },
+    {
+      "start_time": "00:01:02.320",
+      "end_time": "00:01:03.240",
+      "text": "dès les premières minutes"
+    },
+    {
+      "start_time": "00:01:03.280",
+      "end_time": "00:01:04.600",
+      "text": "et qu'il commence à se faire connaître,"
+    },
+    {
+      "start_time": "00:01:04.640",
+      "end_time": "00:01:05.840",
+      "text": "là j'ajoute la carte bancaire."
+    },
+    {
+      "start_time": "00:01:05.841",
+      "end_time": "00:01:07.720",
+      "text": "Parce qu'à ce stade, j'ai plus besoin de convaincre,"
+    },
+    {
+      "start_time": "00:01:07.760",
+      "end_time": "00:01:09.080",
+      "text": "c'est le produit qui le fait à ma place."
+    }
+  ]
+}

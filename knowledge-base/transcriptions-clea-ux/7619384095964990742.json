@@ -1,0 +1,231 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:01.720",
+      "text": "Alright, I'll give you 1 underrated UX shortcut,"
+    },
+    {
+      "start_time": "00:00:01.721",
+      "end_time": "00:00:04.360",
+      "text": "but one that turns a frustrating moment into an engaging one."
+    },
+    {
+      "start_time": "00:00:04.400",
+      "end_time": "00:00:06.360",
+      "text": "The loading screen that adds value."
+    },
+    {
+      "start_time": "00:00:06.361",
+      "end_time": "00:00:07.920",
+      "text": "I wasn't too inspired for the name of this shortcut."
+    },
+    {
+      "start_time": "00:00:08.000",
+      "end_time": "00:00:09.640",
+      "text": "Most SaaS that have a loading screen"
+    },
+    {
+      "start_time": "00:00:09.880",
+      "end_time": "00:00:10.840",
+      "text": "always offer the same thing:"
+    },
+    {
+      "start_time": "00:00:10.880",
+      "end_time": "00:00:12.560",
+      "text": "a spinner, a progress bar,"
+    },
+    {
+      "start_time": "00:00:12.760",
+      "end_time": "00:00:14.200",
+      "text": "and sometimes even nothing at all."
+    },
+    {
+      "start_time": "00:00:14.240",
+      "end_time": "00:00:16.120",
+      "text": "Except during this time your user is waiting,"
+    },
+    {
+      "start_time": "00:00:16.121",
+      "end_time": "00:00:16.880",
+      "text": "they're staring into space,"
+    },
+    {
+      "start_time": "00:00:16.881",
+      "end_time": "00:00:19.680",
+      "text": "they wonder if it's bugged, they might even refresh the page,"
+    },
+    {
+      "start_time": "00:00:19.720",
+      "end_time": "00:00:22.120",
+      "text": "they open a new tab and sometimes they don't even come back."
+    },
+    {
+      "start_time": "00:00:22.200",
+      "end_time": "00:00:25.720",
+      "text": "Imagine an HR SaaS, the recruiter just imported 15 resumes at once."
+    },
+    {
+      "start_time": "00:00:25.760",
+      "end_time": "00:00:27.360",
+      "text": "The tool analyzes them, scores them,"
+    },
+    {
+      "start_time": "00:00:27.600",
+      "end_time": "00:00:30.440",
+      "text": "ranks them, it's loading, 5 seconds, 10 seconds."
+    },
+    {
+      "start_time": "00:00:30.520",
+      "end_time": "00:00:32.840",
+      "text": "In the classic scenario there's often a spinner spinning,"
+    },
+    {
+      "start_time": "00:00:32.841",
+      "end_time": "00:00:35.760",
+      "text": "the user waits, then gets impatient and doubts. Now"
+    },
+    {
+      "start_time": "00:00:35.840",
+      "end_time": "00:00:37.680",
+      "text": "imagine the same scenario, but during the loading"
+    },
+    {
+      "start_time": "00:00:37.720",
+      "end_time": "00:00:38.920",
+      "text": "they can see different things."
+    },
+    {
+      "start_time": "00:00:39.000",
+      "end_time": "00:00:41.320",
+      "text": "First, we tell them very clearly that it's loading."
+    },
+    {
+      "start_time": "00:00:41.360",
+      "end_time": "00:00:43.200",
+      "text": "Then we can offer them a product tip:"
+    },
+    {
+      "start_time": "00:00:43.240",
+      "end_time": "00:00:46.520",
+      "text": "\"you can filter your candidates by match score with one click"
+    },
+    {
+      "start_time": "00:00:46.840",
+      "end_time": "00:00:48.040",
+      "text": "from the main dashboard\""
+    },
+    {
+      "start_time": "00:00:48.120",
+      "end_time": "00:00:50.160",
+      "text": "It's simple, it's useful and immediate."
+    },
+    {
+      "start_time": "00:00:50.200",
+      "end_time": "00:00:51.200",
+      "text": "We can also very well"
+    },
+    {
+      "start_time": "00:00:51.320",
+      "end_time": "00:00:53.920",
+      "text": "suggest discovering a feature they've never used,"
+    },
+    {
+      "start_time": "00:00:54.040",
+      "end_time": "00:00:55.760",
+      "text": "with a preview image"
+    },
+    {
+      "start_time": "00:00:55.880",
+      "end_time": "00:00:57.880",
+      "text": "and just below: \"create customized evaluation grids"
+    },
+    {
+      "start_time": "00:00:58.200",
+      "end_time": "00:01:01.200",
+      "text": "to score your candidates based on your own criteria\""
+    },
+    {
+      "start_time": "00:01:01.240",
+      "end_time": "00:01:03.520",
+      "text": "Here, the user sees what the feature looks like,"
+    },
+    {
+      "start_time": "00:01:03.521",
+      "end_time": "00:01:05.840",
+      "text": "they understand its value and without any interruption."
+    },
+    {
+      "start_time": "00:01:05.960",
+      "end_time": "00:01:07.960",
+      "text": "This 2nd scenario completely changes the game."
+    },
+    {
+      "start_time": "00:01:07.961",
+      "end_time": "00:01:11.400",
+      "text": "Because you turn a moment of passive waiting into a moment of discovery."
+    },
+    {
+      "start_time": "00:01:11.440",
+      "end_time": "00:01:12.200",
+      "text": "Your user"
+    },
+    {
+      "start_time": "00:01:12.201",
+      "end_time": "00:01:15.360",
+      "text": "sees that it's coming and they learn something they didn't know how to do yet."
+    },
+    {
+      "start_time": "00:01:15.361",
+      "end_time": "00:01:17.880",
+      "text": "Then, because you reduce the perception of waiting time,"
+    },
+    {
+      "start_time": "00:01:17.960",
+      "end_time": "00:01:21.240",
+      "text": "a loading screen with content always seems shorter than an empty one."
+    },
+    {
+      "start_time": "00:01:21.320",
+      "end_time": "00:01:23.160",
+      "text": "And finally, because you suggest feature discovery"
+    },
+    {
+      "start_time": "00:01:23.400",
+      "end_time": "00:01:26.000",
+      "text": "without interrupting your user's journey."
+    },
+    {
+      "start_time": "00:01:26.040",
+      "end_time": "00:01:26.720",
+      "text": "No modal,"
+    },
+    {
+      "start_time": "00:01:26.721",
+      "end_time": "00:01:28.000",
+      "text": "no intrusive tooltip,"
+    },
+    {
+      "start_time": "00:01:28.080",
+      "end_time": "00:01:30.360",
+      "text": "but just at the right time, when they have nothing else to do."
+    },
+    {
+      "start_time": "00:01:30.560",
+      "end_time": "00:01:32.960",
+      "text": "Result, your user no longer suffers through the loading,"
+    },
+    {
+      "start_time": "00:01:33.000",
+      "end_time": "00:01:35.000",
+      "text": "they discover your product while they wait"
+    },
+    {
+      "start_time": "00:01:35.040",
+      "end_time": "00:01:37.680",
+      "text": "and they arrive at their dashboard already knowing what to do."
+    }
+  ]
+}

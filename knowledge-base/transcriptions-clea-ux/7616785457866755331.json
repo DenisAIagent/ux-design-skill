@@ -1,0 +1,166 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.120",
+      "text": "Allez je te donne 1 raccourci UX qu'on voit très rarement"
+    },
+    {
+      "start_time": "00:00:02.121",
+      "end_time": "00:00:03.680",
+      "text": "mais qui peut transformer ta façon de"
+    },
+    {
+      "start_time": "00:00:03.880",
+      "end_time": "00:00:04.960",
+      "text": "comprendre tes utilisateurs."
+    },
+    {
+      "start_time": "00:00:05.040",
+      "end_time": "00:00:06.920",
+      "text": "Le micro feedback contextuel."
+    },
+    {
+      "start_time": "00:00:07.000",
+      "end_time": "00:00:08.640",
+      "text": "La plupart des SaaS font 2 choses :"
+    },
+    {
+      "start_time": "00:00:08.680",
+      "end_time": "00:00:10.840",
+      "text": "soit ils ne demandent jamais l'avis de leurs utilisateurs,"
+    },
+    {
+      "start_time": "00:00:10.920",
+      "end_time": "00:00:12.920",
+      "text": "soit ils leur envoient 1 sondage de 15 questions"
+    },
+    {
+      "start_time": "00:00:13.040",
+      "end_time": "00:00:14.400",
+      "text": "que personne ne remplit jusqu'au bout."
+    },
+    {
+      "start_time": "00:00:14.480",
+      "end_time": "00:00:16.000",
+      "text": "Et entre les 2, il se passe rien."
+    },
+    {
+      "start_time": "00:00:16.001",
+      "end_time": "00:00:17.560",
+      "text": "Le micro feedback contextuel,"
+    },
+    {
+      "start_time": "00:00:17.640",
+      "end_time": "00:00:18.320",
+      "text": "c'est l'inverse,"
+    },
+    {
+      "start_time": "00:00:18.321",
+      "end_time": "00:00:20.480",
+      "text": "1 seule question au bon moment dans le produit."
+    },
+    {
+      "start_time": "00:00:20.640",
+      "end_time": "00:00:23.200",
+      "text": "Imagine que ton utilisateur crée 1 nouveau projet dans ton SaaS."
+    },
+    {
+      "start_time": "00:00:23.240",
+      "end_time": "00:00:25.760",
+      "text": "Il a commencé à remplir et puis finalement il s'est arrêté,"
+    },
+    {
+      "start_time": "00:00:25.761",
+      "end_time": "00:00:28.240",
+      "text": "il est pas allé jusqu'au bout et il est retourné sur le dashboard."
+    },
+    {
+      "start_time": "00:00:28.320",
+      "end_time": "00:00:30.040",
+      "text": "La plupart des SaaS ne font rien à ce moment-là,"
+    },
+    {
+      "start_time": "00:00:30.080",
+      "end_time": "00:00:32.640",
+      "text": "ils voient le drop dans leurs Analytics, mais ils savent pas pourquoi."
+    },
+    {
+      "start_time": "00:00:32.680",
+      "end_time": "00:00:33.200",
+      "text": "Mais maintenant,"
+    },
+    {
+      "start_time": "00:00:33.201",
+      "end_time": "00:00:36.600",
+      "text": "imagine que toi, tu leur envoies 1 seule question discrète dans le produit"
+    },
+    {
+      "start_time": "00:00:36.680",
+      "end_time": "00:00:37.880",
+      "text": "« tu n'as pas terminé ton projet,"
+    },
+    {
+      "start_time": "00:00:38.000",
+      "end_time": "00:00:38.760",
+      "text": "qu'est-ce qui t'a bloqué ? »"
+    },
+    {
+      "start_time": "00:00:38.761",
+      "end_time": "00:00:41.680",
+      "text": "Et ce timing change absolument tout parce que l'abandon est frais,"
+    },
+    {
+      "start_time": "00:00:41.681",
+      "end_time": "00:00:44.000",
+      "text": "donc il se souvient exactement pourquoi il s'est arrêté."
+    },
+    {
+      "start_time": "00:00:44.040",
+      "end_time": "00:00:45.480",
+      "text": "Et parce que la réponse que tu récupères,"
+    },
+    {
+      "start_time": "00:00:45.520",
+      "end_time": "00:00:47.680",
+      "text": "c'est ce que tes Analytics ne te donnent jamais."
+    },
+    {
+      "start_time": "00:00:47.720",
+      "end_time": "00:00:50.600",
+      "text": "C'est pas 1 taux de drop ni 1 chiffre, mais c'est 1 raison humaine."
+    },
+    {
+      "start_time": "00:00:50.640",
+      "end_time": "00:00:51.840",
+      "text": "« Je comprenais pas ce qu'on me demandait »,"
+    },
+    {
+      "start_time": "00:00:51.920",
+      "end_time": "00:00:53.920",
+      "text": "« il me manquait 1 information que j'avais pas sous la main »,"
+    },
+    {
+      "start_time": "00:00:53.960",
+      "end_time": "00:00:54.640",
+      "text": "« c'était trop long »."
+    },
+    {
+      "start_time": "00:00:54.641",
+      "end_time": "00:00:57.920",
+      "text": "Et ces réponses-là, elles valent facilement 3 semaines de Dev économisées."
+    },
+    {
+      "start_time": "00:00:57.960",
+      "end_time": "00:01:00.040",
+      "text": "Et en plus, ton utilisateur se sent écouté."
+    },
+    {
+      "start_time": "00:01:00.280",
+      "end_time": "00:01:03.200",
+      "text": "Résultat, tu arrêtes de deviner pourquoi tes utilisateurs partent."
+    }
+  ]
+}

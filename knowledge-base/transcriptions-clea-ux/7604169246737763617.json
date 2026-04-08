@@ -1,0 +1,196 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:03.040",
+      "text": "We started with an underutilized UX shortcut, but one that significantly"
+    },
+    {
+      "start_time": "00:00:03.400",
+      "end_time": "00:00:05.040",
+      "text": "increases your retention rate."
+    },
+    {
+      "start_time": "00:00:05.120",
+      "end_time": "00:00:07.840",
+      "text": "Asymmetric celebration. Or in other words,"
+    },
+    {
+      "start_time": "00:00:07.920",
+      "end_time": "00:00:10.560",
+      "text": "celebrate differently based on the importance of the action."
+    },
+    {
+      "start_time": "00:00:10.600",
+      "end_time": "00:00:13.600",
+      "text": "Most SaaS platforms celebrate all actions in the same way,"
+    },
+    {
+      "start_time": "00:00:13.840",
+      "end_time": "00:00:14.640",
+      "text": "a small toast"
+    },
+    {
+      "start_time": "00:00:14.760",
+      "end_time": "00:00:19.080",
+      "text": "\"Action saved.\" It's flat, it creates no emotion and no attachment. Imagine,"
+    },
+    {
+      "start_time": "00:00:19.240",
+      "end_time": "00:00:22.240",
+      "text": "your user has just finalized their first complete project."
+    },
+    {
+      "start_time": "00:00:22.280",
+      "end_time": "00:00:25.520",
+      "text": "The classic scenario is a discreet little toast in the top right corner"
+    },
+    {
+      "start_time": "00:00:25.880",
+      "end_time": "00:00:27.560",
+      "text": "\"project saved.\" They return to the dashboard,"
+    },
+    {
+      "start_time": "00:00:27.680",
+      "end_time": "00:00:29.640",
+      "text": "they move on to something else, there's no emotion."
+    },
+    {
+      "start_time": "00:00:29.720",
+      "end_time": "00:00:30.120",
+      "text": "Now,"
+    },
+    {
+      "start_time": "00:00:30.121",
+      "end_time": "00:00:33.480",
+      "text": "imagine the same scenario but this time with a full-screen animation,"
+    },
+    {
+      "start_time": "00:00:33.600",
+      "end_time": "00:00:34.880",
+      "text": "like confetti for example."
+    },
+    {
+      "start_time": "00:00:34.920",
+      "end_time": "00:00:35.720",
+      "text": "And there it says"
+    },
+    {
+      "start_time": "00:00:35.760",
+      "end_time": "00:00:38.200",
+      "text": "\"Congratulations, you just finished your first project,"
+    },
+    {
+      "start_time": "00:00:38.280",
+      "end_time": "00:00:41.160",
+      "text": "you just saved 3 hours of work\" with a CTA"
+    },
+    {
+      "start_time": "00:00:41.320",
+      "end_time": "00:00:43.680",
+      "text": "\"Create your next project in 2 clicks\""
+    },
+    {
+      "start_time": "00:00:43.800",
+      "end_time": "00:00:44.600",
+      "text": "This second scenario,"
+    },
+    {
+      "start_time": "00:00:44.680",
+      "end_time": "00:00:46.360",
+      "text": "believe me, it changes quite a few things."
+    },
+    {
+      "start_time": "00:00:46.400",
+      "end_time": "00:00:48.720",
+      "text": "First, because you create emotional recognition,"
+    },
+    {
+      "start_time": "00:00:48.800",
+      "end_time": "00:00:50.560",
+      "text": "your user feels valued,"
+    },
+    {
+      "start_time": "00:00:50.720",
+      "end_time": "00:00:51.680",
+      "text": "they become attached to the product."
+    },
+    {
+      "start_time": "00:00:51.800",
+      "end_time": "00:00:53.400",
+      "text": "Second, because you quantify the impact."
+    },
+    {
+      "start_time": "00:00:53.520",
+      "end_time": "00:00:56.760",
+      "text": "3 hours saved provides concrete proof of value. And third, because you"
+    },
+    {
+      "start_time": "00:00:57.120",
+      "end_time": "00:00:57.960",
+      "text": "capitalize on the"
+    },
+    {
+      "start_time": "00:00:58.360",
+      "end_time": "00:00:59.760",
+      "text": "current motivation, they just succeeded,"
+    },
+    {
+      "start_time": "00:00:59.800",
+      "end_time": "00:01:02.720",
+      "text": "they are motivated and you suggest they start again immediately."
+    },
+    {
+      "start_time": "00:01:02.800",
+      "end_time": "00:01:05.320",
+      "text": "This little UX shortcut you can use with a simple formula:"
+    },
+    {
+      "start_time": "00:01:05.440",
+      "end_time": "00:01:06.240",
+      "text": "Minor action,"
+    },
+    {
+      "start_time": "00:01:06.280",
+      "end_time": "00:01:07.760",
+      "text": "discreet toast. Medium action,"
+    },
+    {
+      "start_time": "00:01:08.040",
+      "end_time": "00:01:09.040",
+      "text": "confirmation +"
+    },
+    {
+      "start_time": "00:01:09.520",
+      "end_time": "00:01:11.320",
+      "text": "suggestion for next step. And major action,"
+    },
+    {
+      "start_time": "00:01:11.480",
+      "end_time": "00:01:15.560",
+      "text": "visual celebration + quantified impact + CTA. Result,"
+    },
+    {
+      "start_time": "00:01:15.720",
+      "end_time": "00:01:17.720",
+      "text": "your user no longer sees your SaaS as a tool,"
+    },
+    {
+      "start_time": "00:01:17.721",
+      "end_time": "00:01:20.200",
+      "text": "they see it as a partner that celebrates their victories."
+    },
+    {
+      "start_time": "00:01:20.240",
+      "end_time": "00:01:22.120",
+      "text": "So identify the 3 most"
+    },
+    {
+      "start_time": "00:01:22.400",
+      "end_time": "00:01:25.040",
+      "text": "important actions of your SaaS and create a celebration for each."
+    }
+  ]
+}

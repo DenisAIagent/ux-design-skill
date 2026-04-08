@@ -1,0 +1,176 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.640",
+      "text": "Your SaaS can look twice as powerful without touching the code"
+    },
+    {
+      "start_time": "00:00:02.720",
+      "end_time": "00:00:03.920",
+      "text": "or adding any new features."
+    },
+    {
+      "start_time": "00:00:04.040",
+      "end_time": "00:00:05.480",
+      "text": "And you can even do it starting today."
+    },
+    {
+      "start_time": "00:00:05.481",
+      "end_time": "00:00:07.040",
+      "text": "There’s a psychological bias that will"
+    },
+    {
+      "start_time": "00:00:07.360",
+      "end_time": "00:00:10.000",
+      "text": "influence your user’s whole perception of your product,"
+    },
+    {
+      "start_time": "00:00:10.040",
+      "end_time": "00:00:11.120",
+      "text": "it’s the contrast effect."
+    },
+    {
+      "start_time": "00:00:11.200",
+      "end_time": "00:00:13.360",
+      "text": "Your brain never perceives anything in absolute terms."
+    },
+    {
+      "start_time": "00:00:13.400",
+      "end_time": "00:00:15.040",
+      "text": "It compares. Based on what it just saw,"
+    },
+    {
+      "start_time": "00:00:15.080",
+      "end_time": "00:00:16.280",
+      "text": "based on what you put next to it,"
+    },
+    {
+      "start_time": "00:00:16.320",
+      "end_time": "00:00:19.200",
+      "text": "based on what’s in its mind when it looks. In real life,"
+    },
+    {
+      "start_time": "00:00:19.201",
+      "end_time": "00:00:21.920",
+      "text": "that’s what happens, for example, when you see a dish at €35"
+    },
+    {
+      "start_time": "00:00:22.040",
+      "end_time": "00:00:24.240",
+      "text": "after seeing a dish at €90 on the same menu,"
+    },
+    {
+      "start_time": "00:00:24.320",
+      "end_time": "00:00:24.840",
+      "text": "at that moment,"
+    },
+    {
+      "start_time": "00:00:24.841",
+      "end_time": "00:00:29.040",
+      "text": "the €35 seems way more reasonable, whereas if you’d only seen the €35,"
+    },
+    {
+      "start_time": "00:00:29.120",
+      "end_time": "00:00:30.040",
+      "text": "you might have hesitated."
+    },
+    {
+      "start_time": "00:00:30.080",
+      "end_time": "00:00:32.600",
+      "text": "The information didn’t change, but your perception did."
+    },
+    {
+      "start_time": "00:00:32.601",
+      "end_time": "00:00:34.440",
+      "text": "And in your SaaS or your landing page,"
+    },
+    {
+      "start_time": "00:00:34.480",
+      "end_time": "00:00:35.440",
+      "text": "it’s exactly the same."
+    },
+    {
+      "start_time": "00:00:35.441",
+      "end_time": "00:00:37.160",
+      "text": "Users never decide in a vacuum,"
+    },
+    {
+      "start_time": "00:00:37.240",
+      "end_time": "00:00:38.680",
+      "text": "they always have a point of comparison,"
+    },
+    {
+      "start_time": "00:00:38.720",
+      "end_time": "00:00:40.640",
+      "text": "whether they’re aware of it or not. And that reference point,"
+    },
+    {
+      "start_time": "00:00:40.800",
+      "end_time": "00:00:41.400",
+      "text": "you can choose it."
+    },
+    {
+      "start_time": "00:00:41.401",
+      "end_time": "00:00:43.640",
+      "text": "For example, an HR SaaS that asks you in onboarding"
+    },
+    {
+      "start_time": "00:00:43.720",
+      "end_time": "00:00:45.320",
+      "text": "how many hours you spend on recruitment"
+    },
+    {
+      "start_time": "00:00:45.440",
+      "end_time": "00:00:45.920",
+      "text": "each week."
+    },
+    {
+      "start_time": "00:00:45.921",
+      "end_time": "00:00:48.520",
+      "text": "It’s not to collect data, it’s to create contrast."
+    },
+    {
+      "start_time": "00:00:48.560",
+      "end_time": "00:00:50.720",
+      "text": "When you then see that the tool cuts that down to two hours,"
+    },
+    {
+      "start_time": "00:00:50.760",
+      "end_time": "00:00:51.840",
+      "text": "the gain seems huge."
+    },
+    {
+      "start_time": "00:00:52.040",
+      "end_time": "00:00:55.200",
+      "text": "And that’s true even if the promise was already written on the landing page. In that case,"
+    },
+    {
+      "start_time": "00:00:55.201",
+      "end_time": "00:00:56.200",
+      "text": "the product hasn’t changed."
+    },
+    {
+      "start_time": "00:00:56.240",
+      "end_time": "00:00:58.400",
+      "text": "What changed is what it’s being perceived against."
+    },
+    {
+      "start_time": "00:00:58.480",
+      "end_time": "00:01:00.800",
+      "text": "Your users never see only your product,"
+    },
+    {
+      "start_time": "00:01:00.840",
+      "end_time": "00:01:03.240",
+      "text": "they always see your product in relation to something."
+    },
+    {
+      "start_time": "00:01:03.480",
+      "end_time": "00:01:04.400",
+      "text": "So you might as well choose what."
+    }
+  ]
+}

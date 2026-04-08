@@ -1,0 +1,171 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:06.080",
+      "end_time": "00:00:08.280",
+      "text": "Yes, because there are UX principles that remain"
+    },
+    {
+      "start_time": "00:00:08.640",
+      "end_time": "00:00:11.920",
+      "text": "universal, not just because we’re not dealing with the same situation."
+    },
+    {
+      "start_time": "00:00:12.000",
+      "end_time": "00:00:14.640",
+      "text": "Let me explain. On the web, the user is often sitting"
+    },
+    {
+      "start_time": "00:00:15.120",
+      "end_time": "00:00:18.360",
+      "text": "in front of a wide screen and has time. On mobile, they’re often standing,"
+    },
+    {
+      "start_time": "00:00:18.560",
+      "end_time": "00:00:21.760",
+      "text": "distracted, with one hand, and usually in a rush."
+    },
+    {
+      "start_time": "00:00:21.840",
+      "end_time": "00:00:24.320",
+      "text": "So when you open a mobile app, for example on the subway,"
+    },
+    {
+      "start_time": "00:00:24.480",
+      "end_time": "00:00:27.160",
+      "text": "you only want to do one thing. And it’s not to explore or"
+    },
+    {
+      "start_time": "00:00:27.320",
+      "end_time": "00:00:27.960",
+      "text": "understand the whole product,"
+    },
+    {
+      "start_time": "00:00:27.961",
+      "end_time": "00:00:29.520",
+      "text": "it’s to act directly."
+    },
+    {
+      "start_time": "00:00:29.560",
+      "end_time": "00:00:33.120",
+      "text": "So the first tip is: you don’t design a mobile app as the"
+    },
+    {
+      "start_time": "00:00:33.480",
+      "end_time": "00:00:34.880",
+      "text": "responsive version of a web app. On mobile,"
+    },
+    {
+      "start_time": "00:00:34.960",
+      "end_time": "00:00:35.760",
+      "text": "what really matters"
+    },
+    {
+      "start_time": "00:00:35.840",
+      "end_time": "00:00:39.720",
+      "text": "is not how rich the screens are, but how fast you get to the main"
+    },
+    {
+      "start_time": "00:00:40.000",
+      "end_time": "00:00:42.880",
+      "text": "action. And a good mobile screen answers a single intention."
+    },
+    {
+      "start_time": "00:00:42.920",
+      "end_time": "00:00:44.720",
+      "text": "So if your screen offers too many choices,"
+    },
+    {
+      "start_time": "00:00:44.880",
+      "end_time": "00:00:46.640",
+      "text": "too many actions, or too much information,"
+    },
+    {
+      "start_time": "00:00:46.760",
+      "end_time": "00:00:48.040",
+      "text": "your user drops off."
+    },
+    {
+      "start_time": "00:00:48.120",
+      "end_time": "00:00:50.320",
+      "text": "The second tip is the thumb. On mobile,"
+    },
+    {
+      "start_time": "00:00:50.480",
+      "end_time": "00:00:54.000",
+      "text": "everything important has to be easily and effortlessly accessible."
+    },
+    {
+      "start_time": "00:00:54.080",
+      "end_time": "00:00:55.520",
+      "text": "Whether it’s the main CTA,"
+    },
+    {
+      "start_time": "00:00:55.640",
+      "end_time": "00:00:57.480",
+      "text": "the next action, or the confirmation."
+    },
+    {
+      "start_time": "00:00:57.560",
+      "end_time": "00:01:00.600",
+      "text": "If the user has to stretch their thumb or change their grip,"
+    },
+    {
+      "start_time": "00:01:00.720",
+      "end_time": "00:01:02.800",
+      "text": "you lose comfort and therefore usage."
+    },
+    {
+      "start_time": "00:01:02.880",
+      "end_time": "00:01:05.280",
+      "text": "The third tip is sensory feedback."
+    },
+    {
+      "start_time": "00:01:05.360",
+      "end_time": "00:01:07.880",
+      "text": "On mobile, the experience doesn’t just come through the eyes,"
+    },
+    {
+      "start_time": "00:01:07.920",
+      "end_time": "00:01:10.160",
+      "text": "it also comes through movement, vibration,"
+    },
+    {
+      "start_time": "00:01:10.440",
+      "end_time": "00:01:13.760",
+      "text": "sound. And yet there are tons of apps that ignore it completely."
+    },
+    {
+      "start_time": "00:01:13.880",
+      "end_time": "00:01:15.200",
+      "text": "Even though that kind of detail reassures"
+    },
+    {
+      "start_time": "00:01:15.400",
+      "end_time": "00:01:17.880",
+      "text": "the user a lot, because they don’t need to think,"
+    },
+    {
+      "start_time": "00:01:17.881",
+      "end_time": "00:01:19.320",
+      "text": "they feel that the action went through."
+    },
+    {
+      "start_time": "00:01:19.360",
+      "end_time": "00:01:22.600",
+      "text": "Basically, you need to think of your mobile app as a tool that’s used quickly,"
+    },
+    {
+      "start_time": "00:01:22.920",
+      "end_time": "00:01:25.640",
+      "text": "often with one hand and in an imperfect context."
+    },
+    {
+      "start_time": "00:01:25.680",
+      "end_time": "00:01:28.680",
+      "text": "So it needs even less thinking and a lot more feeling."
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.600",
+      "text": "Les frictions que j'observe régulièrement dans les mvp"
+    },
+    {
+      "start_time": "00:00:02.760",
+      "end_time": "00:00:05.440",
+      "text": "partie 2. le mois dernier, j'ai analysé 1 centaine de mvp"
+    },
+    {
+      "start_time": "00:00:05.560",
+      "end_time": "00:00:08.040",
+      "text": "et aujourd'hui je te donne 5 frictions qui reviennent"
+    },
+    {
+      "start_time": "00:00:08.320",
+      "end_time": "00:00:08.960",
+      "text": "assez régulièrement."
+    },
+    {
+      "start_time": "00:00:08.961",
+      "end_time": "00:00:11.600",
+      "text": "1 demander des infos sans expliquer pourquoi."
+    },
+    {
+      "start_time": "00:00:11.640",
+      "end_time": "00:00:14.040",
+      "text": "Ton onboarding demande « quel est votre secteur d'activité ? »"
+    },
+    {
+      "start_time": "00:00:14.041",
+      "end_time": "00:00:15.200",
+      "text": "et l'utilisateur se dit"
+    },
+    {
+      "start_time": "00:00:15.280",
+      "end_time": "00:00:17.320",
+      "text": "« pourquoi il me demande ça ? C'est pour me vendre plus cher ?"
+    },
+    {
+      "start_time": "00:00:17.400",
+      "end_time": "00:00:18.280",
+      "text": "c'est pour me spammer ? »"
+    },
+    {
+      "start_time": "00:00:18.600",
+      "end_time": "00:00:19.600",
+      "text": "Résultat il hésite,"
+    },
+    {
+      "start_time": "00:00:19.760",
+      "end_time": "00:00:20.640",
+      "text": "il met 1 fausse info"
+    },
+    {
+      "start_time": "00:00:20.840",
+      "end_time": "00:00:23.680",
+      "text": "ou il abandonne. parce qu'à ce stade, il te fait pas encore confiance."
+    },
+    {
+      "start_time": "00:00:23.760",
+      "end_time": "00:00:27.160",
+      "text": "Donc explique pourquoi tu demandes chaque info au moment où tu la demandes."
+    },
+    {
+      "start_time": "00:00:27.161",
+      "end_time": "00:00:28.480",
+      "text": "« quel est votre secteur d'activité ? »"
+    },
+    {
+      "start_time": "00:00:28.640",
+      "end_time": "00:00:30.320",
+      "text": "+ 1 petite info juste en dessous,"
+    },
+    {
+      "start_time": "00:00:30.360",
+      "end_time": "00:00:32.960",
+      "text": "par exemple « pour vous suggérez les bons templates dès le début »."
+    },
+    {
+      "start_time": "00:00:33.000",
+      "end_time": "00:00:34.360",
+      "text": "Là ton utilisateur comprend,"
+    },
+    {
+      "start_time": "00:00:34.440",
+      "end_time": "00:00:36.520",
+      "text": "il donne la vraie info et il continue. 2"
+    },
+    {
+      "start_time": "00:00:36.600",
+      "end_time": "00:00:39.120",
+      "text": "Forcer à tout compléter avant d'accéder au produit."
+    },
+    {
+      "start_time": "00:00:39.200",
+      "end_time": "00:00:42.800",
+      "text": "Ton onboarding à 7 étapes obligatoires et l'utilisateur peut pas skip,"
+    },
+    {
+      "start_time": "00:00:42.920",
+      "end_time": "00:00:45.480",
+      "text": "il est obligé de tout faire avant d'accéder au produit."
+    },
+    {
+      "start_time": "00:00:45.520",
+      "end_time": "00:00:48.800",
+      "text": "Le problème c'est que certains utilisateurs veulent juste explorer d'abord."
+    },
+    {
+      "start_time": "00:00:48.840",
+      "end_time": "00:00:51.400",
+      "text": "ils veulent voir à quoi ça ressemble avant de s'engager."
+    },
+    {
+      "start_time": "00:00:51.560",
+      "end_time": "00:00:52.520",
+      "text": "Donc si tu les forces,"
+    },
+    {
+      "start_time": "00:00:52.800",
+      "end_time": "00:00:54.960",
+      "text": "ils partent. pour ça Je te conseille d'ajouter 1 bouton"
+    },
+    {
+      "start_time": "00:00:55.320",
+      "end_time": "00:00:57.440",
+      "text": "« passer cette étape » ou « je ferai ça plus tard »."
+    },
+    {
+      "start_time": "00:00:57.480",
+      "end_time": "00:00:59.680",
+      "text": "Laisse-les découvrir le produit et ils reviendront"
+    },
+    {
+      "start_time": "00:00:59.960",
+      "end_time": "00:01:01.840",
+      "text": "compléter quand ils auront vu la valeur. 3"
+    },
+    {
+      "start_time": "00:01:02.120",
+      "end_time": "00:01:03.320",
+      "text": "Aucun feedback visuel"
+    },
+    {
+      "start_time": "00:01:03.600",
+      "end_time": "00:01:04.200",
+      "text": "après l'action."
+    },
+    {
+      "start_time": "00:01:04.201",
+      "end_time": "00:01:07.440",
+      "text": "ton utilisateur clique pour enregistrer, mais rien ne se passe visuellement."
+    },
+    {
+      "start_time": "00:01:07.480",
+      "end_time": "00:01:08.200",
+      "text": "Pas de loader,"
+    },
+    {
+      "start_time": "00:01:08.201",
+      "end_time": "00:01:09.560",
+      "text": "pas de confirmation, rien."
+    },
+    {
+      "start_time": "00:01:09.600",
+      "end_time": "00:01:12.080",
+      "text": "Il se demande « est-ce que Ça a marché ? » il clique 3 fois,"
+    },
+    {
+      "start_time": "00:01:12.120",
+      "end_time": "00:01:13.600",
+      "text": "il doute et puis au final il part."
+    },
+    {
+      "start_time": "00:01:13.601",
+      "end_time": "00:01:16.600",
+      "text": "Donc ajoute toujours 1 feedback immédiat après chaque action,"
+    },
+    {
+      "start_time": "00:01:16.680",
+      "end_time": "00:01:17.800",
+      "text": "même si elle est instantanée."
+    },
+    {
+      "start_time": "00:01:17.840",
+      "end_time": "00:01:18.760",
+      "text": "1 micro loader,"
+    },
+    {
+      "start_time": "00:01:18.840",
+      "end_time": "00:01:20.200",
+      "text": "1 animation de validation,"
+    },
+    {
+      "start_time": "00:01:20.600",
+      "end_time": "00:01:22.480",
+      "text": "1 message « enregistré avec succès »."
+    },
+    {
+      "start_time": "00:01:22.560",
+      "end_time": "00:01:24.640",
+      "text": "Le cerveau a besoin de savoir qu'il y a eu 1 impact."
+    },
+    {
+      "start_time": "00:01:24.960",
+      "end_time": "00:01:28.840",
+      "text": "Sans feedback y a 1 doute et quand y a 1 doute, ça tue l'adoption. 4"
+    },
+    {
+      "start_time": "00:01:29.000",
+      "end_time": "00:01:31.240",
+      "text": "Pas de moyen évident de contacter le support."
+    },
+    {
+      "start_time": "00:01:31.320",
+      "end_time": "00:01:32.480",
+      "text": "ton utilisateur est bloqué,"
+    },
+    {
+      "start_time": "00:01:32.481",
+      "end_time": "00:01:35.640",
+      "text": "il cherche 1 bouton d'aide mais il le trouve pas. après 2minutes de recherche,"
+    },
+    {
+      "start_time": "00:01:35.760",
+      "end_time": "00:01:36.880",
+      "text": "Et crois-moi 2minutes"
+    },
+    {
+      "start_time": "00:01:37.000",
+      "end_time": "00:01:38.080",
+      "text": "j'suis plutôt optimiste,"
+    },
+    {
+      "start_time": "00:01:38.560",
+      "end_time": "00:01:41.720",
+      "text": "il abandonne. Donc surtout rends ton support ultra accessible."
+    },
+    {
+      "start_time": "00:01:41.800",
+      "end_time": "00:01:44.400",
+      "text": "ton utilisateur ne doit jamais galérer plus de 30secondes"
+    },
+    {
+      "start_time": "00:01:44.480",
+      "end_time": "00:01:45.800",
+      "text": "pour trouver de l'aide. 5"
+    },
+    {
+      "start_time": "00:01:45.960",
+      "end_time": "00:01:50.520",
+      "text": "Les Labels de boutons trop vague. tes boutons disent ok, valider, enregistrer."
+    },
+    {
+      "start_time": "00:01:50.640",
+      "end_time": "00:01:53.360",
+      "text": "Là le problème c'est que ton utilisateur ne sait pas ce qui va se passer"
+    },
+    {
+      "start_time": "00:01:53.640",
+      "end_time": "00:01:54.360",
+      "text": "après avoir cliqué."
+    },
+    {
+      "start_time": "00:01:54.361",
+      "end_time": "00:01:58.000",
+      "text": "Donc revois ton microcopie et remplace par des actions explicites."
+    },
+    {
+      "start_time": "00:01:58.120",
+      "end_time": "00:02:01.280",
+      "text": "au lieu de ok, tu peux mettre « créer 1 projet ». au lieu de valider,"
+    },
+    {
+      "start_time": "00:02:01.480",
+      "end_time": "00:02:04.920",
+      "text": "tu mets « envoyer l'invitation » et au lieu de seulement enregistrer,"
+    },
+    {
+      "start_time": "00:02:05.040",
+      "end_time": "00:02:07.280",
+      "text": "tu peux mettre « enregistrer et continuer »."
+    },
+    {
+      "start_time": "00:02:07.360",
+      "end_time": "00:02:10.720",
+      "text": "Ton utilisateur doit savoir exactement ce qui va se passer quand il clique."
+    },
+    {
+      "start_time": "00:02:11.000",
+      "end_time": "00:02:13.560",
+      "text": "Résultat 0 hésitation, donc plus de cliques."
+    },
+    {
+      "start_time": "00:02:13.640",
+      "end_time": "00:02:16.080",
+      "text": "Et dis-moi en commentaire s'il y a des frictions que tu aimerais approfondir."
+    }
+  ]
+}

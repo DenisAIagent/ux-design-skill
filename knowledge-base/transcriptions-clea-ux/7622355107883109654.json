@@ -1,0 +1,211 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.880",
+      "text": "In-app notifications are one of the most powerful levers to"
+    },
+    {
+      "start_time": "00:00:02.960",
+      "end_time": "00:00:03.800",
+      "text": "activate and retain"
+    },
+    {
+      "start_time": "00:00:03.920",
+      "end_time": "00:00:04.720",
+      "text": "your users."
+    },
+    {
+      "start_time": "00:00:04.721",
+      "end_time": "00:00:06.400",
+      "text": "And yet, they are often misused."
+    },
+    {
+      "start_time": "00:00:06.440",
+      "end_time": "00:00:08.480",
+      "text": "So today, I'm giving you 5 mistakes I see everywhere."
+    },
+    {
+      "start_time": "00:00:08.520",
+      "end_time": "00:00:10.960",
+      "text": "The 1st is notifying to remind people you exist."
+    },
+    {
+      "start_time": "00:00:11.120",
+      "end_time": "00:00:12.560",
+      "text": "\"You haven't logged in for 3 days\","
+    },
+    {
+      "start_time": "00:00:12.760",
+      "end_time": "00:00:13.440",
+      "text": "\"we miss you\"."
+    },
+    {
+      "start_time": "00:00:13.441",
+      "end_time": "00:00:15.320",
+      "text": "These notifications provide no value"
+    },
+    {
+      "start_time": "00:00:15.360",
+      "end_time": "00:00:17.080",
+      "text": "so they give no reason to return."
+    },
+    {
+      "start_time": "00:00:17.081",
+      "end_time": "00:00:19.440",
+      "text": "They annoy and often end up getting disabled."
+    },
+    {
+      "start_time": "00:00:19.480",
+      "end_time": "00:00:21.840",
+      "text": "So 1 notification must always answer 1 question:"
+    },
+    {
+      "start_time": "00:00:21.880",
+      "end_time": "00:00:24.040",
+      "text": "what does my user gain by clicking on it?"
+    },
+    {
+      "start_time": "00:00:24.080",
+      "end_time": "00:00:28.000",
+      "text": "The 2nd is notifying too often. With every new feature, updates,"
+    },
+    {
+      "start_time": "00:00:28.040",
+      "end_time": "00:00:31.520",
+      "text": "tips. Your user is overwhelmed, so they start ignoring all"
+    },
+    {
+      "start_time": "00:00:31.880",
+      "end_time": "00:00:32.200",
+      "text": "notifications,"
+    },
+    {
+      "start_time": "00:00:32.201",
+      "end_time": "00:00:34.680",
+      "text": "even the most important ones. Because you've exhausted their attention,"
+    },
+    {
+      "start_time": "00:00:34.760",
+      "end_time": "00:00:36.560",
+      "text": "so the less you notify, the more each"
+    },
+    {
+      "start_time": "00:00:37.080",
+      "end_time": "00:00:37.760",
+      "text": "notification counts."
+    },
+    {
+      "start_time": "00:00:37.761",
+      "end_time": "00:00:41.600",
+      "text": "The 3rd is notifying without any possible action. Your user receives 1"
+    },
+    {
+      "start_time": "00:00:42.120",
+      "end_time": "00:00:44.480",
+      "text": "notification, clicks on it, and then nothing, just information,"
+    },
+    {
+      "start_time": "00:00:44.560",
+      "end_time": "00:00:48.240",
+      "text": "a number or a stat, but no action to take. So they close it and leave. 1"
+    },
+    {
+      "start_time": "00:00:48.720",
+      "end_time": "00:00:50.520",
+      "text": "notification without action is 1 wasted opportunity."
+    },
+    {
+      "start_time": "00:00:50.560",
+      "end_time": "00:00:53.600",
+      "text": "Ideally, it should lead somewhere. A candidate just applied,"
+    },
+    {
+      "start_time": "00:00:53.800",
+      "end_time": "00:00:55.320",
+      "text": "view their profile. Your report is ready,"
+    },
+    {
+      "start_time": "00:00:55.480",
+      "end_time": "00:00:57.840",
+      "text": "check it. Information + action."
+    },
+    {
+      "start_time": "00:00:57.880",
+      "end_time": "00:01:01.680",
+      "text": "The 4th is notifying them about something that doesn't directly concern them."
+    },
+    {
+      "start_time": "00:01:01.880",
+      "end_time": "00:01:02.960",
+      "text": "\"Discover our new blog\","
+    },
+    {
+      "start_time": "00:01:03.280",
+      "end_time": "00:01:05.520",
+      "text": "\"see what others are doing\". They don't care, 1"
+    },
+    {
+      "start_time": "00:01:06.000",
+      "end_time": "00:01:08.640",
+      "text": "in-app notification should be triggered by something that concerns them,"
+    },
+    {
+      "start_time": "00:01:08.641",
+      "end_time": "00:01:11.080",
+      "text": "and not necessarily by something you want to tell them."
+    },
+    {
+      "start_time": "00:01:11.081",
+      "end_time": "00:01:12.680",
+      "text": "For example, a candidate applying,"
+    },
+    {
+      "start_time": "00:01:12.681",
+      "end_time": "00:01:15.080",
+      "text": "a payment received, or a task completed by their team."
+    },
+    {
+      "start_time": "00:01:15.120",
+      "end_time": "00:01:17.440",
+      "text": "That is a notification worthy of their attention."
+    },
+    {
+      "start_time": "00:01:17.441",
+      "end_time": "00:01:20.640",
+      "text": "And the 5th is not giving control to the user."
+    },
+    {
+      "start_time": "00:01:20.680",
+      "end_time": "00:01:21.680",
+      "text": "If they can't choose which"
+    },
+    {
+      "start_time": "00:01:22.200",
+      "end_time": "00:01:24.120",
+      "text": "notification they receive, they will disable them all."
+    },
+    {
+      "start_time": "00:01:24.240",
+      "end_time": "00:01:26.960",
+      "text": "Give them control and let them choose what's important to them."
+    },
+    {
+      "start_time": "00:01:27.000",
+      "end_time": "00:01:29.360",
+      "text": "It's counterintuitive, but trust me, it increases engagement."
+    },
+    {
+      "start_time": "00:01:29.400",
+      "end_time": "00:01:32.480",
+      "text": "In fact, the ideal notification is the one your user was waiting for"
+    },
+    {
+      "start_time": "00:01:32.680",
+      "end_time": "00:01:33.800",
+      "text": "without knowing they were waiting for it."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.760",
+      "text": "Il y a 1 test super simple pour vérifier si ton CTA est vraiment"
+    },
+    {
+      "start_time": "00:00:03.000",
+      "end_time": "00:00:03.840",
+      "text": "visible dans ta héro section."
+    },
+    {
+      "start_time": "00:00:04.000",
+      "end_time": "00:00:05.760",
+      "text": "tu plisses les yeux ou tu floutes ton écran."
+    },
+    {
+      "start_time": "00:00:05.840",
+      "end_time": "00:00:08.360",
+      "text": "À ce moment-là tu ne lis plus de texte, tu ne vois plus de détails,"
+    },
+    {
+      "start_time": "00:00:08.560",
+      "end_time": "00:00:11.880",
+      "text": "il ne reste que la hiérarchie visuelle et tu te poses 1 seule question :"
+    },
+    {
+      "start_time": "00:00:12.120",
+      "end_time": "00:00:13.520",
+      "text": "qu'est-ce qui attire mon regard en 1er ?"
+    },
+    {
+      "start_time": "00:00:13.680",
+      "end_time": "00:00:16.080",
+      "text": "Si ton CTA n'est pas le 1er élément qui saute aux yeux,"
+    },
+    {
+      "start_time": "00:00:16.240",
+      "end_time": "00:00:18.600",
+      "text": "alors il manque soit de taille, soit de contraste,"
+    },
+    {
+      "start_time": "00:00:18.640",
+      "end_time": "00:00:20.240",
+      "text": "soit d'espace autour. l'objectif,"
+    },
+    {
+      "start_time": "00:00:20.320",
+      "end_time": "00:00:21.200",
+      "text": "c'est que même flou,"
+    },
+    {
+      "start_time": "00:00:21.320",
+      "end_time": "00:00:22.880",
+      "text": "le CTA doit rester évident."
+    }
+  ]
+}

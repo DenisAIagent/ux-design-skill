@@ -1,0 +1,136 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:01.560",
+      "text": "When we talk about user journey"
+    },
+    {
+      "start_time": "00:00:01.680",
+      "end_time": "00:00:03.360",
+      "text": "many think of complicated diagrams,"
+    },
+    {
+      "start_time": "00:00:03.480",
+      "end_time": "00:00:05.800",
+      "text": "arrows, steps, post-it notes."
+    },
+    {
+      "start_time": "00:00:05.840",
+      "end_time": "00:00:07.440",
+      "text": "In reality, a user journey"
+    },
+    {
+      "start_time": "00:00:07.520",
+      "end_time": "00:00:10.000",
+      "text": "is much simpler than that. For me, a user journey"
+    },
+    {
+      "start_time": "00:00:10.080",
+      "end_time": "00:00:11.160",
+      "text": "is a series of decisions."
+    },
+    {
+      "start_time": "00:00:11.240",
+      "end_time": "00:00:12.360",
+      "text": "So when I build one"
+    },
+    {
+      "start_time": "00:00:12.400",
+      "end_time": "00:00:15.520",
+      "text": "I never start with the product, but with the user and especially"
+    },
+    {
+      "start_time": "00:00:15.720",
+      "end_time": "00:00:16.800",
+      "text": "with their starting state."
+    },
+    {
+      "start_time": "00:00:16.840",
+      "end_time": "00:00:17.680",
+      "text": "What do they already know?"
+    },
+    {
+      "start_time": "00:00:17.760",
+      "end_time": "00:00:19.120",
+      "text": "What don't they understand yet?"
+    },
+    {
+      "start_time": "00:00:19.160",
+      "end_time": "00:00:20.920",
+      "text": "What are they trying to do there, right now?"
+    },
+    {
+      "start_time": "00:00:20.960",
+      "end_time": "00:00:22.240",
+      "text": "And then I build the journey"
+    },
+    {
+      "start_time": "00:00:22.440",
+      "end_time": "00:00:24.800",
+      "text": "step by step, always asking myself the same question:"
+    },
+    {
+      "start_time": "00:00:24.840",
+      "end_time": "00:00:27.840",
+      "text": "\"does this step really help the user move forward?\""
+    },
+    {
+      "start_time": "00:00:27.920",
+      "end_time": "00:00:29.840",
+      "text": "If a step requires too much effort,"
+    },
+    {
+      "start_time": "00:00:29.920",
+      "end_time": "00:00:32.480",
+      "text": "or too much information, or even too many decisions,"
+    },
+    {
+      "start_time": "00:00:32.960",
+      "end_time": "00:00:34.960",
+      "text": "then the journey is far too complex."
+    },
+    {
+      "start_time": "00:00:35.000",
+      "end_time": "00:00:38.160",
+      "text": "A good user journey never asks \"what do you want to do?\""
+    },
+    {
+      "start_time": "00:00:38.161",
+      "end_time": "00:00:38.760",
+      "text": "but it says:"
+    },
+    {
+      "start_time": "00:00:38.761",
+      "end_time": "00:00:42.880",
+      "text": "\"here is the next step\" and at each step the user should feel one thing,"
+    },
+    {
+      "start_time": "00:00:43.200",
+      "end_time": "00:00:44.720",
+      "text": "that they are moving forward, even a little."
+    },
+    {
+      "start_time": "00:00:44.880",
+      "end_time": "00:00:46.360",
+      "text": "Building a good user journey"
+    },
+    {
+      "start_time": "00:00:46.440",
+      "end_time": "00:00:49.040",
+      "text": "isn't about predicting everything, but removing what prevents progress."
+    },
+    {
+      "start_time": "00:00:49.160",
+      "end_time": "00:00:50.640",
+      "text": "As long as the user hesitates"
+    },
+    {
+      "start_time": "00:00:50.800",
+      "end_time": "00:00:52.000",
+      "text": "the journey is not finished."
+    }
+  ]
+}

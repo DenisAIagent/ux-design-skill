@@ -1,0 +1,66 @@
+{
+  "ok": true,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:04.440",
+      "text": "semaines de dev pour ajouter une nouvelle feature et personne ne l'utilise. Ça t'est déjà arrivé?"
+    },
+    {
+      "start_time": "00:00:04.440",
+      "end_time": "00:00:08.279",
+      "text": "La prochaine fois que tu veux ajouter une nouvelle feature à ton MVP, pose-toi ces trois questions."
+    },
+    {
+      "start_time": "00:00:08.279",
+      "end_time": "00:00:13.500",
+      "text": "La première, est-ce que tes utilisateurs actuels vont la trouver? Pas est-ce qu'elle existe ou est-ce"
+    },
+    {
+      "start_time": "00:00:13.500",
+      "end_time": "00:00:18.760",
+      "text": "qu'elle est bien faite, mais est-ce qu'un utilisateur lambda sans tuto ou sans onboarding spécifique"
+    },
+    {
+      "start_time": "00:00:18.760",
+      "end_time": "00:00:22.960",
+      "text": "va la voir et va comprendre qu'elle est là? La deuxième, est-ce que cette feature va être"
+    },
+    {
+      "start_time": "00:00:22.960",
+      "end_time": "00:00:29.199",
+      "text": "utilisée dans les premiers jours? Pas quand ils seront experts, mais dans les premiers moments. Parce que si c'est une feature avancée,"
+    },
+    {
+      "start_time": "00:00:29.420",
+      "end_time": "00:00:35.299",
+      "text": "elle ne sauvera pas ton activation. Et la troisième, est-ce qu'elle rapproche l'utilisateur du résultat qu'il cherche?"
+    },
+    {
+      "start_time": "00:00:35.299",
+      "end_time": "00:00:40.920",
+      "text": "Pas de ton produit ni de ta roadmap à toi, mais du résultat que l'utilisateur cherche à avoir."
+    },
+    {
+      "start_time": "00:00:41.020",
+      "end_time": "00:00:47.060",
+      "text": "Si elle n'accélère pas ce moment, elle peut attendre. Donc pour résumer, une feature qui n'est pas trouvée égale zéro utilisation."
+    },
+    {
+      "start_time": "00:00:47.179",
+      "end_time": "00:00:53.560",
+      "text": "Une feature utilisée après 30 jours, c'est déjà trop tard, ils sont déjà partis. Et une feature qui ne résout pas le problème,"
+    },
+    {
+      "start_time": "00:00:54.079",
+      "end_time": "00:01:00.520",
+      "text": "c'est du bruit. Ajouter une feature, c'est pas juste enrichir un SaaS, mais c'est modifier ce que l'utilisateur comprend, voit et fait."
+    },
+    {
+      "start_time": "00:01:00.579",
+      "end_time": "00:01:03.479",
+      "text": "Donc chaque feature a un coût, même si elle est bien attentionnée."
+    }
+  ],
+  "taskCredits": 2
+}

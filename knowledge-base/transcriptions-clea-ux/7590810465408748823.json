@@ -1,0 +1,91 @@
+{
+  "ok": true,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:03.060",
+      "text": "Aujourd'hui je te montre un détail qui change beaucoup de choses dans une interface mais"
+    },
+    {
+      "start_time": "00:00:03.060",
+      "end_time": "00:00:04.400",
+      "text": "qui est souvent négligé."
+    },
+    {
+      "start_time": "00:00:04.400",
+      "end_time": "00:00:09.060",
+      "text": "Imagine, tu rentres dans un SaaS, tu arrives sur un dashboard vide et il y a écrit « aucune"
+    },
+    {
+      "start_time": "00:00:09.060",
+      "end_time": "00:00:11.240",
+      "text": "donnée ». A ce moment-là, il ne se passe rien de visible."
+    },
+    {
+      "start_time": "00:00:11.240",
+      "end_time": "00:00:14.980",
+      "text": "Mais intérieurement, tu pourrais te demander « ok, je commence par quoi? ». Maintenant,"
+    },
+    {
+      "start_time": "00:00:14.980",
+      "end_time": "00:00:16.179",
+      "text": "tu changes juste une chose."
+    },
+    {
+      "start_time": "00:00:16.179",
+      "end_time": "00:00:19.879",
+      "text": "« Aucune donnée pour l'instant » et tu ajoutes un bouton « Créer mon premier projet"
+    },
+    {
+      "start_time": "00:00:19.879",
+      "end_time": "00:00:24.899",
+      "text": "». Le parcours n'a pas changé, la fonctionnalité non plus, mais la sensation, elle, est complètement"
+    },
+    {
+      "start_time": "00:00:24.899",
+      "end_time": "00:00:25.440",
+      "text": "différente."
+    },
+    {
+      "start_time": "00:00:25.579",
+      "end_time": "00:00:28.160",
+      "text": "Tu transformes un vide en prochaine étape claire."
+    },
+    {
+      "start_time": "00:00:28.300",
+      "end_time": "00:00:30.179",
+      "text": "C'est ce qu'on appelle le microcopie."
+    },
+    {
+      "start_time": "00:00:30.300",
+      "end_time": "00:00:35.820",
+      "text": "Ce sont de toutes petites phrases ou des incitations à l'action qui apparaissent au moment où l'utilisateur pourrait hésiter."
+    },
+    {
+      "start_time": "00:00:36.020",
+      "end_time": "00:00:37.939",
+      "text": "Deuxième exemple, un bouton sauvegarder."
+    },
+    {
+      "start_time": "00:00:38.140",
+      "end_time": "00:00:40.240",
+      "text": "Tu ne sais pas vraiment ce qui pourrait se passer ensuite."
+    },
+    {
+      "start_time": "00:00:40.460",
+      "end_time": "00:00:45.140",
+      "text": "Mais si tu écris sauvegarder et générer l'analyse », l'action devient de suite beaucoup plus claire."
+    },
+    {
+      "start_time": "00:00:51.079",
+      "end_time": "00:00:51.219",
+      "text": "Donc le microcopie ne sert pas à expliquer le produit, mais il sert à enlever une question ou un doute avant même qu'il se forme."
+    },
+    {
+      "start_time": "00:00:55.280",
+      "end_time": "00:00:55.280",
+      "text": "Et quand c'est bien fait, l'utilisateur n'a pas l'impression d'être guidé, mais tout devient évident."
+    }
+  ],
+  "taskCredits": 1
+}

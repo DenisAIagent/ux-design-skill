@@ -1,0 +1,166 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:01.520",
+      "text": "Quand on parle de gamification d’un SaaS"
+    },
+    {
+      "start_time": "00:00:01.560",
+      "end_time": "00:00:03.280",
+      "text": "la plupart des gens pensent à des badges,"
+    },
+    {
+      "start_time": "00:00:03.320",
+      "end_time": "00:00:04.520",
+      "text": "des points, des classements."
+    },
+    {
+      "start_time": "00:00:04.560",
+      "end_time": "00:00:06.400",
+      "text": "1 truc réservé aux applications grands publiques,"
+    },
+    {
+      "start_time": "00:00:06.440",
+      "end_time": "00:00:08.160",
+      "text": "comme les plateformes d'apprentissage par exemple."
+    },
+    {
+      "start_time": "00:00:08.161",
+      "end_time": "00:00:09.640",
+      "text": "Mais c'est 1 vision beaucoup trop réductrice."
+    },
+    {
+      "start_time": "00:00:09.720",
+      "end_time": "00:00:12.000",
+      "text": "Et elle te fait passer à côté de quelque chose de très puissant."
+    },
+    {
+      "start_time": "00:00:12.040",
+      "end_time": "00:00:14.120",
+      "text": "La gamification dans sa vraie définition,"
+    },
+    {
+      "start_time": "00:00:14.200",
+      "end_time": "00:00:17.280",
+      "text": "c'est d'utiliser des mécanismes de jeux pour influencer 1 comportement."
+    },
+    {
+      "start_time": "00:00:17.320",
+      "end_time": "00:00:18.520",
+      "text": "Pas forcément des badges ou des points."
+    },
+    {
+      "start_time": "00:00:18.720",
+      "end_time": "00:00:21.880",
+      "text": "Par exemple la barre de progression dans 1 onboarding, c'est de la gamification."
+    },
+    {
+      "start_time": "00:00:21.960",
+      "end_time": "00:00:25.040",
+      "text": "Elle crée 1 sentiment d’inachevé qui pousse à continuer. Le message"
+    },
+    {
+      "start_time": "00:00:25.200",
+      "end_time": "00:00:27.080",
+      "text": "« tu es as 2 étapes de terminer ton profil »"
+    },
+    {
+      "start_time": "00:00:27.200",
+      "end_time": "00:00:30.680",
+      "text": "c'est de la gamification. Il joue sur l’aversion à l'abandon. La notification"
+    },
+    {
+      "start_time": "00:00:30.840",
+      "end_time": "00:00:34.160",
+      "text": "« ton équipe a terminé 12 tâches cette semaine » c'est aussi de la gamification."
+    },
+    {
+      "start_time": "00:00:34.200",
+      "end_time": "00:00:36.240",
+      "text": "Elle crée 1 sentiment de progression collective."
+    },
+    {
+      "start_time": "00:00:36.320",
+      "end_time": "00:00:39.040",
+      "text": "La célébration visuelle quand 1 utilisateur atteint 1 milestone,"
+    },
+    {
+      "start_time": "00:00:39.160",
+      "end_time": "00:00:40.120",
+      "text": "c'est de la gamification."
+    },
+    {
+      "start_time": "00:00:40.160",
+      "end_time": "00:00:42.760",
+      "text": "Elle crée 1 émotion positive associée à ton produit."
+    },
+    {
+      "start_time": "00:00:42.800",
+      "end_time": "00:00:43.680",
+      "text": "Donc tu vois le point commun ?"
+    },
+    {
+      "start_time": "00:00:43.800",
+      "end_time": "00:00:45.000",
+      "text": "Aucun badge, aucun point,"
+    },
+    {
+      "start_time": "00:00:45.120",
+      "end_time": "00:00:45.840",
+      "text": "aucun classement,"
+    },
+    {
+      "start_time": "00:00:45.841",
+      "end_time": "00:00:48.360",
+      "text": "juste des mécanismes qui jouent sur la psychologie humaine."
+    },
+    {
+      "start_time": "00:00:48.400",
+      "end_time": "00:00:49.320",
+      "text": "Le besoin de progresser,"
+    },
+    {
+      "start_time": "00:00:49.440",
+      "end_time": "00:00:50.920",
+      "text": "de terminer, d'être reconnu,"
+    },
+    {
+      "start_time": "00:00:51.040",
+      "end_time": "00:00:54.760",
+      "text": "de revenir. La vraie gamification, c'est pas rendre ton SaaS ultra ludique."
+    },
+    {
+      "start_time": "00:00:55.000",
+      "end_time": "00:00:56.440",
+      "text": "C'est rendre l'usage de ton produit"
+    },
+    {
+      "start_time": "00:00:56.760",
+      "end_time": "00:00:59.200",
+      "text": "naturellement engagant. Pour que ton utilisateur veuille continuer,"
+    },
+    {
+      "start_time": "00:00:59.320",
+      "end_time": "00:01:01.320",
+      "text": "pas parce qu'il le doit, mais parce que ça lui donne envie."
+    },
+    {
+      "start_time": "00:01:01.360",
+      "end_time": "00:01:04.280",
+      "text": "Et si tu veux que je te donne des exemples concrets de gamification à appliquer"
+    },
+    {
+      "start_time": "00:01:04.560",
+      "end_time": "00:01:05.560",
+      "text": "directement sur ton SaaS,"
+    },
+    {
+      "start_time": "00:01:05.561",
+      "end_time": "00:01:07.120",
+      "text": "commente « gamification » en commentaire."
+    }
+  ]
+}

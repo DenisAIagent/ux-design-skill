@@ -1,0 +1,276 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:01.160",
+      "text": "In a previous video"
+    },
+    {
+      "start_time": "00:00:01.161",
+      "end_time": "00:00:04.200",
+      "text": "I told you that gamification isn't just about badges and points."
+    },
+    {
+      "start_time": "00:00:04.280",
+      "end_time": "00:00:06.920",
+      "text": "Today, I'm giving you 5 examples of gamification to apply"
+    },
+    {
+      "start_time": "00:00:07.320",
+      "end_time": "00:00:08.200",
+      "text": "directly in your SaaS."
+    },
+    {
+      "start_time": "00:00:08.240",
+      "end_time": "00:00:10.080",
+      "text": "The first is the accumulated value counter"
+    },
+    {
+      "start_time": "00:00:10.320",
+      "end_time": "00:00:12.840",
+      "text": "In an activity management SaaS, like Doctolib,"
+    },
+    {
+      "start_time": "00:00:13.080",
+      "end_time": "00:00:14.920",
+      "text": "instead of just displaying statistics,"
+    },
+    {
+      "start_time": "00:00:15.000",
+      "end_time": "00:00:18.280",
+      "text": "you concretely show what your user has gained thanks to your product."
+    },
+    {
+      "start_time": "00:00:18.360",
+      "end_time": "00:00:21.360",
+      "text": "\"This month, you saved 6 hours of administrative management\""
+    },
+    {
+      "start_time": "00:00:21.440",
+      "end_time": "00:00:23.120",
+      "text": "\"you honored 47 appointments,"
+    },
+    {
+      "start_time": "00:00:23.200",
+      "end_time": "00:00:24.840",
+      "text": "reduced your no-shows by 30%,"
+    },
+    {
+      "start_time": "00:00:24.920",
+      "end_time": "00:00:27.560",
+      "text": "generating three thousand two hundred euros in revenue.\""
+    },
+    {
+      "start_time": "00:00:27.600",
+      "end_time": "00:00:28.800",
+      "text": "It's no longer just a statistic,"
+    },
+    {
+      "start_time": "00:00:28.960",
+      "end_time": "00:00:30.320",
+      "text": "it's living proof that your"
+    },
+    {
+      "start_time": "00:00:30.560",
+      "end_time": "00:00:33.720",
+      "text": "product has value and it makes your user want to do it again."
+    },
+    {
+      "start_time": "00:00:33.800",
+      "end_time": "00:00:36.600",
+      "text": "The second is the progressive unlocking of features."
+    },
+    {
+      "start_time": "00:00:36.720",
+      "end_time": "00:00:38.400",
+      "text": "For example, in a project management SaaS,"
+    },
+    {
+      "start_time": "00:00:38.440",
+      "end_time": "00:00:40.360",
+      "text": "instead of giving access to everything from the start,"
+    },
+    {
+      "start_time": "00:00:40.440",
+      "end_time": "00:00:43.880",
+      "text": "you let your user unlock capabilities gradually."
+    },
+    {
+      "start_time": "00:00:43.920",
+      "end_time": "00:00:47.480",
+      "text": "The more they use the product, the more they logically unlock,"
+    },
+    {
+      "start_time": "00:00:47.600",
+      "end_time": "00:00:48.480",
+      "text": "like in a video game"
+    },
+    {
+      "start_time": "00:00:48.720",
+      "end_time": "00:00:50.280",
+      "text": "ultimately. This creates a feeling of constant progression"
+    },
+    {
+      "start_time": "00:00:50.600",
+      "end_time": "00:00:52.440",
+      "text": "and a reason to keep exploring."
+    },
+    {
+      "start_time": "00:00:52.520",
+      "end_time": "00:00:54.520",
+      "text": "The third is social completion."
+    },
+    {
+      "start_time": "00:00:54.600",
+      "end_time": "00:00:56.000",
+      "text": "For example, in an HR SaaS,"
+    },
+    {
+      "start_time": "00:00:56.120",
+      "end_time": "00:00:58.960",
+      "text": "you subtly show what other users are accomplishing."
+    },
+    {
+      "start_time": "00:00:59.160",
+      "end_time": "00:00:59.840",
+      "text": "\"This week,"
+    },
+    {
+      "start_time": "00:00:59.841",
+      "end_time": "00:01:02.360",
+      "text": "200 recruiters like you published their first job offer.\""
+    },
+    {
+      "start_time": "00:01:02.400",
+      "end_time": "00:01:05.240",
+      "text": "The user no longer feels alone in their journey and has an additional reason"
+    },
+    {
+      "start_time": "00:01:05.400",
+      "end_time": "00:01:06.240",
+      "text": "to move forward."
+    },
+    {
+      "start_time": "00:01:06.280",
+      "end_time": "00:01:10.440",
+      "text": "The fourth is the unexpected reward. For example, in an invoicing SaaS,"
+    },
+    {
+      "start_time": "00:01:10.520",
+      "end_time": "00:01:11.320",
+      "text": "you trigger a"
+    },
+    {
+      "start_time": "00:01:11.480",
+      "end_time": "00:01:14.760",
+      "text": "surprise at a moment the user didn't anticipate. Not at signup"
+    },
+    {
+      "start_time": "00:01:14.880",
+      "end_time": "00:01:16.240",
+      "text": "nor after their first invoice,"
+    },
+    {
+      "start_time": "00:01:16.280",
+      "end_time": "00:01:17.960",
+      "text": "but for example on their 10th invoice"
+    },
+    {
+      "start_time": "00:01:18.040",
+      "end_time": "00:01:20.520",
+      "text": "a message appears \"you just sent your 10th invoice,"
+    },
+    {
+      "start_time": "00:01:20.600",
+      "end_time": "00:01:22.520",
+      "text": "we've unlocked an exclusive template for you\""
+    },
+    {
+      "start_time": "00:01:22.560",
+      "end_time": "00:01:25.680",
+      "text": "because the unexpected creates a much stronger emotion than the predictable."
+    },
+    {
+      "start_time": "00:01:25.681",
+      "end_time": "00:01:28.200",
+      "text": "And an unlocked template is also a reason to stay."
+    },
+    {
+      "start_time": "00:01:28.240",
+      "end_time": "00:01:29.920",
+      "text": "And the fifth is invisible"
+    },
+    {
+      "start_time": "00:01:30.440",
+      "end_time": "00:01:32.440",
+      "text": "status. For example, in a sales pipeline SaaS,"
+    },
+    {
+      "start_time": "00:01:32.520",
+      "end_time": "00:01:35.640",
+      "text": "you give a discreet advantage to your most active users,"
+    },
+    {
+      "start_time": "00:01:35.680",
+      "end_time": "00:01:37.440",
+      "text": "early access to a new feature,"
+    },
+    {
+      "start_time": "00:01:37.520",
+      "end_time": "00:01:40.000",
+      "text": "priority support. Without shouting it from the rooftops,"
+    },
+    {
+      "start_time": "00:01:40.040",
+      "end_time": "00:01:41.440",
+      "text": "but just a small message"
+    },
+    {
+      "start_time": "00:01:41.480",
+      "end_time": "00:01:43.200",
+      "text": "\"As a super active user,"
+    },
+    {
+      "start_time": "00:01:43.360",
+      "end_time": "00:01:46.200",
+      "text": "you get early access.\" The user feels recognized,"
+    },
+    {
+      "start_time": "00:01:46.480",
+      "end_time": "00:01:50.320",
+      "text": "valued, and different from others. And that goes even further than retention,"
+    },
+    {
+      "start_time": "00:01:50.321",
+      "end_time": "00:01:51.720",
+      "text": "it creates loyalty."
+    },
+    {
+      "start_time": "00:01:51.760",
+      "end_time": "00:01:53.760",
+      "text": "In fact, the most powerful gamification,"
+    },
+    {
+      "start_time": "00:01:53.761",
+      "end_time": "00:01:55.800",
+      "text": "is the one your user doesn't see coming,"
+    },
+    {
+      "start_time": "00:01:55.840",
+      "end_time": "00:01:59.000",
+      "text": "not just a point system displayed everywhere, even if that's interesting,"
+    },
+    {
+      "start_time": "00:01:59.080",
+      "end_time": "00:02:01.000",
+      "text": "but small moments that create emotion,"
+    },
+    {
+      "start_time": "00:02:01.240",
+      "end_time": "00:02:03.640",
+      "text": "progression, and attachment to your product."
+    }
+  ]
+}

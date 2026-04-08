@@ -1,0 +1,211 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:01.560",
+      "text": "Si tu ne sais pas quoi mettre sur ton dashboard,"
+    },
+    {
+      "start_time": "00:00:01.680",
+      "end_time": "00:00:03.080",
+      "text": "c'est peut-être parce que t'en as pas besoin."
+    },
+    {
+      "start_time": "00:00:03.081",
+      "end_time": "00:00:04.280",
+      "text": "Je sais que ça fait mal à entendre,"
+    },
+    {
+      "start_time": "00:00:04.281",
+      "end_time": "00:00:06.760",
+      "text": "mais beaucoup de fondateurs ajoutent 1 dashboard parce que"
+    },
+    {
+      "start_time": "00:00:06.920",
+      "end_time": "00:00:08.040",
+      "text": "tous les SaaS ont 1 dashboard,"
+    },
+    {
+      "start_time": "00:00:08.080",
+      "end_time": "00:00:10.680",
+      "text": "et pas forcément parce que leurs utilisateurs en ont besoin."
+    },
+    {
+      "start_time": "00:00:10.681",
+      "end_time": "00:00:13.960",
+      "text": "On a tendance à penser qu'un SaaS sans dashboard, c'est 1 SaaS qui n'est pas fini,"
+    },
+    {
+      "start_time": "00:00:14.080",
+      "end_time": "00:00:16.480",
+      "text": "pas mature, pas sérieux. Mais c'est totalement faux."
+    },
+    {
+      "start_time": "00:00:16.520",
+      "end_time": "00:00:18.480",
+      "text": "1 dashboard, c'est 1 espace de centralisation,"
+    },
+    {
+      "start_time": "00:00:18.520",
+      "end_time": "00:00:21.040",
+      "text": "donc 1 vue en 1 coup de œil sur l'état de ton activité."
+    },
+    {
+      "start_time": "00:00:21.041",
+      "end_time": "00:00:23.840",
+      "text": "Et ça a du sens quand ton produit a plusieurs dimensions à synthétiser,"
+    },
+    {
+      "start_time": "00:00:23.880",
+      "end_time": "00:00:25.720",
+      "text": "plusieurs métriques, plusieurs fonctionnalités,"
+    },
+    {
+      "start_time": "00:00:25.880",
+      "end_time": "00:00:27.080",
+      "text": "plusieurs flux d’informations."
+    },
+    {
+      "start_time": "00:00:27.160",
+      "end_time": "00:00:29.120",
+      "text": "Mais si ton SaaS n'a qu'une seule fonctionnalité"
+    },
+    {
+      "start_time": "00:00:29.160",
+      "end_time": "00:00:31.040",
+      "text": "par exemple, qu'est-ce que tu va mettre dans ton dashboard ?"
+    },
+    {
+      "start_time": "00:00:31.120",
+      "end_time": "00:00:32.360",
+      "text": "1 chiffre, 1 graphique,"
+    },
+    {
+      "start_time": "00:00:32.400",
+      "end_time": "00:00:35.400",
+      "text": "1 page à moitié vide que ton utilisateur va regarder 1 fois"
+    },
+    {
+      "start_time": "00:00:35.480",
+      "end_time": "00:00:38.320",
+      "text": "puis va plus jamais ouvrir ? Parce qu'en réalité il y a rien à centraliser,"
+    },
+    {
+      "start_time": "00:00:38.321",
+      "end_time": "00:00:40.760",
+      "text": "il y a qu'une chose à faire dans ton produit. Et ton utilisateur,"
+    },
+    {
+      "start_time": "00:00:40.800",
+      "end_time": "00:00:41.720",
+      "text": "c'est exactement où elle est."
+    },
+    {
+      "start_time": "00:00:41.760",
+      "end_time": "00:00:44.240",
+      "text": "Dans ce cas-là 1 dashboard ne simplifie pas l'expérience,"
+    },
+    {
+      "start_time": "00:00:44.320",
+      "end_time": "00:00:45.120",
+      "text": "il la complique."
+    },
+    {
+      "start_time": "00:00:45.121",
+      "end_time": "00:00:48.200",
+      "text": "Parce qu'il ajoute 1 étape entre ton utilisateur et ce qu'il est venu faire."
+    },
+    {
+      "start_time": "00:00:48.201",
+      "end_time": "00:00:49.520",
+      "text": "Donc avant de construire ton dashboard,"
+    },
+    {
+      "start_time": "00:00:49.640",
+      "end_time": "00:00:50.880",
+      "text": "pose-toi 1 seule question"
+    },
+    {
+      "start_time": "00:00:50.920",
+      "end_time": "00:00:53.920",
+      "text": "« est-ce que ton utilisateur a besoin de voir plusieurs choses en 1 seul endroit"
+    },
+    {
+      "start_time": "00:00:54.000",
+      "end_time": "00:00:55.480",
+      "text": "pour comprendre l'état de son activité ? »"
+    },
+    {
+      "start_time": "00:00:55.560",
+      "end_time": "00:00:57.320",
+      "text": "Si oui, alors construis ton dashboard,"
+    },
+    {
+      "start_time": "00:00:57.480",
+      "end_time": "00:00:59.880",
+      "text": "mais si c'est non, mets-le directement là où l'action se passe."
+    },
+    {
+      "start_time": "00:01:00.040",
+      "end_time": "00:01:03.680",
+      "text": "Economise lui 1 clic inutile. 1 bon dashboard, ça s'ajoute pas, ça se justifie."
+    },
+    {
+      "start_time": "00:01:03.720",
+      "end_time": "00:01:05.680",
+      "text": "Prend 1 MVP par exemple, tu viens de lancer,"
+    },
+    {
+      "start_time": "00:01:05.760",
+      "end_time": "00:01:07.120",
+      "text": "t'as 1 ou 2 fonctionnalités,"
+    },
+    {
+      "start_time": "00:01:07.240",
+      "end_time": "00:01:10.000",
+      "text": "ton utilisateur sait exactement ce qu'il vient faire dans ton produit."
+    },
+    {
+      "start_time": "00:01:10.040",
+      "end_time": "00:01:11.080",
+      "text": "1 dashboard à ce stade,"
+    },
+    {
+      "start_time": "00:01:11.081",
+      "end_time": "00:01:12.520",
+      "text": "c'est 1 page quasiment vide"
+    },
+    {
+      "start_time": "00:01:12.640",
+      "end_time": "00:01:13.680",
+      "text": "qui donne l'illusion de"
+    },
+    {
+      "start_time": "00:01:13.840",
+      "end_time": "00:01:16.600",
+      "text": "complexité et qui éloigne ton utilisateur de ce qui compte vraiment."
+    },
+    {
+      "start_time": "00:01:16.640",
+      "end_time": "00:01:18.960",
+      "text": "Le dashboard viendra quand ton produit aura grandi,"
+    },
+    {
+      "start_time": "00:01:18.961",
+      "end_time": "00:01:20.720",
+      "text": "quand tu auras vraiment quelque chose à centraliser,"
+    },
+    {
+      "start_time": "00:01:20.800",
+      "end_time": "00:01:23.040",
+      "text": "quand ton utilisateur aura besoin d'une vue d'ensemble."
+    },
+    {
+      "start_time": "00:01:23.280",
+      "end_time": "00:01:23.950",
+      "text": "Mais pas avant."
+    }
+  ]
+}

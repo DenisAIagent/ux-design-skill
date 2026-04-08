@@ -1,0 +1,196 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:03.800",
+      "text": "Je te donne 3 erreurs qui tuent ton SaaS si tu es en post mvp. La 1ère,"
+    },
+    {
+      "start_time": "00:00:04.000",
+      "end_time": "00:00:06.160",
+      "text": "vouloir plaire à tout le monde. En post mvp"
+    },
+    {
+      "start_time": "00:00:06.280",
+      "end_time": "00:00:08.840",
+      "text": "tu as tes premiers utilisateurs et tu commences à voir qui"
+    },
+    {
+      "start_time": "00:00:09.120",
+      "end_time": "00:00:10.400",
+      "text": "utilise vraiment ton produit."
+    },
+    {
+      "start_time": "00:00:10.440",
+      "end_time": "00:00:12.040",
+      "text": "Et là au lieu de doubler cette cible,"
+    },
+    {
+      "start_time": "00:00:12.120",
+      "end_time": "00:00:14.480",
+      "text": "tu veux élargir. Et si on ajoutait ça pour les RH,"
+    },
+    {
+      "start_time": "00:00:14.560",
+      "end_time": "00:00:17.280",
+      "text": "Et si on ciblait aussi les comptables, et cetera et cetera."
+    },
+    {
+      "start_time": "00:00:17.480",
+      "end_time": "00:00:19.200",
+      "text": "Résultat ton produit part dans tous les sens,"
+    },
+    {
+      "start_time": "00:00:19.320",
+      "end_time": "00:00:19.920",
+      "text": "ton message"
+    },
+    {
+      "start_time": "00:00:19.921",
+      "end_time": "00:00:22.640",
+      "text": "devient flou et les nouveaux utilisateurs ne se reconnaissent plus dedans."
+    },
+    {
+      "start_time": "00:00:22.680",
+      "end_time": "00:00:25.640",
+      "text": "En post-mvp ton job n'est pas d'élargir mais de creuser."
+    },
+    {
+      "start_time": "00:00:25.800",
+      "end_time": "00:00:28.200",
+      "text": "aller encore plus loin pour ceux qui t'ont déjà choisi. 2,"
+    },
+    {
+      "start_time": "00:00:28.480",
+      "end_time": "00:00:31.400",
+      "text": "Construire pour tes premiers utilisateurs en oubliant les nouveaux."
+    },
+    {
+      "start_time": "00:00:31.480",
+      "end_time": "00:00:33.480",
+      "text": "Tes premiers utilisateurs ils te connaissent par cœur,"
+    },
+    {
+      "start_time": "00:00:33.520",
+      "end_time": "00:00:34.960",
+      "text": "ils ont testé, ils ont galéré,"
+    },
+    {
+      "start_time": "00:00:35.000",
+      "end_time": "00:00:37.680",
+      "text": "ils ont appris et ils sont devenus des Power users."
+    },
+    {
+      "start_time": "00:00:37.720",
+      "end_time": "00:00:40.200",
+      "text": "Et toi tu construis pour eux des raccourcis clavier,"
+    },
+    {
+      "start_time": "00:00:40.440",
+      "end_time": "00:00:41.760",
+      "text": "des fonctionnalités avancées,"
+    },
+    {
+      "start_time": "00:00:41.960",
+      "end_time": "00:00:43.600",
+      "text": "1 interface danse et puissante."
+    },
+    {
+      "start_time": "00:00:43.680",
+      "end_time": "00:00:46.080",
+      "text": "Mais tes nouveaux utilisateurs, ils ne sont pas comme les tout premiers."
+    },
+    {
+      "start_time": "00:00:46.160",
+      "end_time": "00:00:48.760",
+      "text": "ils arrivent à froid, sans contexte et sans patience."
+    },
+    {
+      "start_time": "00:00:48.960",
+      "end_time": "00:00:49.400",
+      "text": "Le problème"
+    },
+    {
+      "start_time": "00:00:49.401",
+      "end_time": "00:00:52.000",
+      "text": "c'est que ton produit, qui était parfait pour des dizaines d'utilisateurs,"
+    },
+    {
+      "start_time": "00:00:52.200",
+      "end_time": "00:00:54.240",
+      "text": "devient incompréhensible pour les 100 suivants."
+    },
+    {
+      "start_time": "00:00:54.280",
+      "end_time": "00:00:58.080",
+      "text": "Et la 3e, c'est de rajouter des features pour résoudre 1 problème de rétention."
+    },
+    {
+      "start_time": "00:00:58.120",
+      "end_time": "00:01:00.080",
+      "text": "En post mvp ton taux de rétention baisse,"
+    },
+    {
+      "start_time": "00:01:00.160",
+      "end_time": "00:01:01.800",
+      "text": "les utilisateurs partent après quelques."
+    },
+    {
+      "start_time": "00:01:01.960",
+      "end_time": "00:01:04.840",
+      "text": "Et ta réaction c'est : il faut qu'on sorte quelque chose de nouveau."
+    },
+    {
+      "start_time": "00:01:04.880",
+      "end_time": "00:01:07.960",
+      "text": "mais le problème est rarement dans le manque De features. en post mvp,"
+    },
+    {
+      "start_time": "00:01:08.120",
+      "end_time": "00:01:09.520",
+      "text": "tu as déjà tout ce qu'il faut normalement."
+    },
+    {
+      "start_time": "00:01:09.560",
+      "end_time": "00:01:11.720",
+      "text": "et tes utilisateurs n'utilisent pas ce que tu as déjà"
+    },
+    {
+      "start_time": "00:01:11.960",
+      "end_time": "00:01:14.560",
+      "text": "construit parce que l'ux ne les guide pas vers la valeur."
+    },
+    {
+      "start_time": "00:01:14.680",
+      "end_time": "00:01:16.400",
+      "text": "Alors avant d'ajouter 1 future demande-toi :"
+    },
+    {
+      "start_time": "00:01:16.401",
+      "end_time": "00:01:19.360",
+      "text": "est-ce que mes utilisateurs utilisent vraiment ce que j'ai déjà ?"
+    },
+    {
+      "start_time": "00:01:19.361",
+      "end_time": "00:01:20.360",
+      "text": "Et si la réponse est non,"
+    },
+    {
+      "start_time": "00:01:20.400",
+      "end_time": "00:01:21.880",
+      "text": "la prochaine feature ne changera rien."
+    },
+    {
+      "start_time": "00:01:21.920",
+      "end_time": "00:01:24.520",
+      "text": "Et pour remédier à ça, je te propose 1 audit complètement SaaS,"
+    },
+    {
+      "start_time": "00:01:24.720",
+      "end_time": "00:01:25.840",
+      "text": "Tu trouveras le lien dans la bio."
+    }
+  ]
+}

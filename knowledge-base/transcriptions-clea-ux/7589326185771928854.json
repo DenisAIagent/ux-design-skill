@@ -1,0 +1,101 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:01.400",
+      "text": "Y a 1 truc que je remarque de plus en plus,"
+    },
+    {
+      "start_time": "00:00:01.401",
+      "end_time": "00:00:03.080",
+      "text": "c'est que avant, on pouvait prendre son temps,"
+    },
+    {
+      "start_time": "00:00:03.320",
+      "end_time": "00:00:05.800",
+      "text": "réfléchir, attendre d'avoir le produit parfait."
+    },
+    {
+      "start_time": "00:00:06.200",
+      "end_time": "00:00:07.720",
+      "text": "Mais aujourd'hui ça fonctionne plus."
+    },
+    {
+      "start_time": "00:00:07.840",
+      "end_time": "00:00:09.200",
+      "text": "Parce que les SaaS qui s'en sortent le mieux,"
+    },
+    {
+      "start_time": "00:00:09.240",
+      "end_time": "00:00:11.160",
+      "text": "ce sont pas ceux qui ont tout compris dès le départ."
+    },
+    {
+      "start_time": "00:00:11.520",
+      "end_time": "00:00:12.840",
+      "text": "ce sont ceux qui lancent vite,"
+    },
+    {
+      "start_time": "00:00:12.920",
+      "end_time": "00:00:16.200",
+      "text": "qui regardent ce que font les utilisateurs et qui corrigent de suite."
+    },
+    {
+      "start_time": "00:00:16.440",
+      "end_time": "00:00:17.560",
+      "text": "Ils sortent 1 truc imparfait,"
+    },
+    {
+      "start_time": "00:00:17.600",
+      "end_time": "00:00:18.320",
+      "text": "ils observent,"
+    },
+    {
+      "start_time": "00:00:18.321",
+      "end_time": "00:00:19.040",
+      "text": "ils ajustent,"
+    },
+    {
+      "start_time": "00:00:19.041",
+      "end_time": "00:00:22.600",
+      "text": "ils recommencent et surtout, ils utilisent l’UX comme outil d'apprentissage."
+    },
+    {
+      "start_time": "00:00:22.720",
+      "end_time": "00:00:24.040",
+      "text": "Chaque clic devient 1 signal,"
+    },
+    {
+      "start_time": "00:00:24.160",
+      "end_time": "00:00:25.960",
+      "text": "chaque hésitation 1 information."
+    },
+    {
+      "start_time": "00:00:26.080",
+      "end_time": "00:00:26.960",
+      "text": "et à force d'itérer,"
+    },
+    {
+      "start_time": "00:00:26.961",
+      "end_time": "00:00:29.160",
+      "text": "ils finissent par comprendre leur marché mieux que les autres."
+    },
+    {
+      "start_time": "00:00:29.360",
+      "end_time": "00:00:30.040",
+      "text": "Parce qu'aujourd'hui,"
+    },
+    {
+      "start_time": "00:00:30.041",
+      "end_time": "00:00:32.680",
+      "text": "attendre d'être sûr, c'est finalement le meilleur moyen de se faire dépasser."
+    },
+    {
+      "start_time": "00:00:32.880",
+      "end_time": "00:00:36.840",
+      "text": "Alors 1 conseil, lance vite, itère et surtout fais des cycles courts."
+    }
+  ]
+}

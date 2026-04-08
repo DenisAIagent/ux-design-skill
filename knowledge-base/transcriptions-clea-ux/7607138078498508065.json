@@ -1,0 +1,161 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:00.640",
+      "text": "The founders"
+    },
+    {
+      "start_time": "00:00:00.641",
+      "end_time": "00:00:03.320",
+      "text": "of booming SaaS don’t care about the number of sign-ups."
+    },
+    {
+      "start_time": "00:00:03.360",
+      "end_time": "00:00:05.040",
+      "text": "Yet that’s the metric everyone looks at."
+    },
+    {
+      "start_time": "00:00:05.080",
+      "end_time": "00:00:06.480",
+      "text": "How many new users yesterday?"
+    },
+    {
+      "start_time": "00:00:06.680",
+      "end_time": "00:00:08.400",
+      "text": "How many this week? Is it going up?"
+    },
+    {
+      "start_time": "00:00:08.560",
+      "end_time": "00:00:11.320",
+      "text": "The truth is, SaaS that generate tens of thousands of euros"
+    },
+    {
+      "start_time": "00:00:11.360",
+      "end_time": "00:00:12.400",
+      "text": "per month don’t care about that."
+    },
+    {
+      "start_time": "00:00:12.401",
+      "end_time": "00:00:13.160",
+      "text": "Because a sign-up"
+    },
+    {
+      "start_time": "00:00:13.161",
+      "end_time": "00:00:13.920",
+      "text": "doesn’t mean anything."
+    },
+    {
+      "start_time": "00:00:13.921",
+      "end_time": "00:00:16.680",
+      "text": "1 registered user isn’t necessarily 1 active user,"
+    },
+    {
+      "start_time": "00:00:16.880",
+      "end_time": "00:00:18.760",
+      "text": "1 user who comes back or who pays."
+    },
+    {
+      "start_time": "00:00:18.840",
+      "end_time": "00:00:21.520",
+      "text": "There are SaaS that can have 10,000 registered users,"
+    },
+    {
+      "start_time": "00:00:21.680",
+      "end_time": "00:00:23.280",
+      "text": "but only 200 that are active."
+    },
+    {
+      "start_time": "00:00:23.360",
+      "end_time": "00:00:24.160",
+      "text": "In fact, sign-ups"
+    },
+    {
+      "start_time": "00:00:24.240",
+      "end_time": "00:00:27.200",
+      "text": "make you feel good, but they don’t tell you if your product works."
+    },
+    {
+      "start_time": "00:00:27.240",
+      "end_time": "00:00:29.320",
+      "text": "And the SaaS that succeed measure 3 things."
+    },
+    {
+      "start_time": "00:00:29.360",
+      "end_time": "00:00:32.400",
+      "text": "The 1st is: how many times a week does a user come back?"
+    },
+    {
+      "start_time": "00:00:32.480",
+      "end_time": "00:00:35.240",
+      "text": "If they come back 3 times or more, they’re starting to get into the habit."
+    },
+    {
+      "start_time": "00:00:35.320",
+      "end_time": "00:00:38.040",
+      "text": "The 2nd is: how many actions did they take in your product?"
+    },
+    {
+      "start_time": "00:00:38.120",
+      "end_time": "00:00:40.320",
+      "text": "If a user clicks, creates, and explores,"
+    },
+    {
+      "start_time": "00:00:40.440",
+      "end_time": "00:00:42.320",
+      "text": "that’s a user who’s looking for value."
+    },
+    {
+      "start_time": "00:00:42.400",
+      "end_time": "00:00:45.120",
+      "text": "And the 3rd is: at what point do they get hooked?"
+    },
+    {
+      "start_time": "00:00:45.200",
+      "end_time": "00:00:46.560",
+      "text": "That’s what we call the aha moment,"
+    },
+    {
+      "start_time": "00:00:46.880",
+      "end_time": "00:00:49.360",
+      "text": "the moment they understand why they need to use your product."
+    },
+    {
+      "start_time": "00:00:49.400",
+      "end_time": "00:00:50.720",
+      "text": "Once you know what that moment is,"
+    },
+    {
+      "start_time": "00:00:50.800",
+      "end_time": "00:00:52.000",
+      "text": "you build your onboarding"
+    },
+    {
+      "start_time": "00:00:52.120",
+      "end_time": "00:00:54.920",
+      "text": "to get every new user there as fast as possible."
+    },
+    {
+      "start_time": "00:00:54.960",
+      "end_time": "00:00:57.840",
+      "text": "Because a hundred engaged users are worth more than 10,000"
+    },
+    {
+      "start_time": "00:00:57.920",
+      "end_time": "00:00:58.880",
+      "text": "inactive users."
+    },
+    {
+      "start_time": "00:00:59.000",
+      "end_time": "00:01:00.320",
+      "text": "So stop counting entries,"
+    },
+    {
+      "start_time": "00:01:00.360",
+      "end_time": "00:01:03.200",
+      "text": "and start measuring what’s happening inside your SaaS."
+    }
+  ]
+}

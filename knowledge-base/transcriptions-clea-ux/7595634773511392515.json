@@ -1,0 +1,196 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.080",
+      "end_time": "00:00:02.520",
+      "text": "Si je devais créer 1 saas en partant de 0 aujourd'hui,"
+    },
+    {
+      "start_time": "00:00:02.560",
+      "end_time": "00:00:04.680",
+      "text": "voici les 5 étapes que je suivrai."
+    },
+    {
+      "start_time": "00:00:04.720",
+      "end_time": "00:00:07.080",
+      "text": "1ère étape, tester l'idée tout de suite."
+    },
+    {
+      "start_time": "00:00:07.160",
+      "end_time": "00:00:09.400",
+      "text": "La 1ère chose que je ferai, ce ne serait pas du dev."
+    },
+    {
+      "start_time": "00:00:09.440",
+      "end_time": "00:00:10.840",
+      "text": "D'ailleurs, j'en ferai jamais parce que j'suis pas dev."
+    },
+    {
+      "start_time": "00:00:10.880",
+      "end_time": "00:00:12.760",
+      "text": "Donc je testerai l'idée immédiatement."
+    },
+    {
+      "start_time": "00:00:12.800",
+      "end_time": "00:00:14.360",
+      "text": "Et ça peut être par différents biais :"
+    },
+    {
+      "start_time": "00:00:14.400",
+      "end_time": "00:00:16.320",
+      "text": "en parlant du problème sur les réseaux sociaux,"
+    },
+    {
+      "start_time": "00:00:16.440",
+      "end_time": "00:00:18.040",
+      "text": "en proposant le service moi-même,"
+    },
+    {
+      "start_time": "00:00:18.400",
+      "end_time": "00:00:21.920",
+      "text": "en créant 1 lead magnet ou même 1 sondage. peu importe le format"
+    },
+    {
+      "start_time": "00:00:22.160",
+      "end_time": "00:00:25.520",
+      "text": "l'objectif, c'est de voir si le problème résonne vraiment. 2e étape,"
+    },
+    {
+      "start_time": "00:00:25.760",
+      "end_time": "00:00:28.400",
+      "text": "créer le mvp. la version la plus simple de mon saas."
+    },
+    {
+      "start_time": "00:00:28.560",
+      "end_time": "00:00:31.560",
+      "text": "Si l’idée plaît, c'est à ce moment-là que je la teste sous forme de saas."
+    },
+    {
+      "start_time": "00:00:31.720",
+      "end_time": "00:00:33.440",
+      "text": "soit avec 1 dev si j'ai les moyens,"
+    },
+    {
+      "start_time": "00:00:33.560",
+      "end_time": "00:00:34.360",
+      "text": "soit avec L’ia."
+    },
+    {
+      "start_time": "00:00:34.361",
+      "end_time": "00:00:35.200",
+      "text": "Mais dans tous les cas,"
+    },
+    {
+      "start_time": "00:00:35.201",
+      "end_time": "00:00:38.040",
+      "text": "je m'entoure de profils techniques pour éviter de faire n'importe quoi."
+    },
+    {
+      "start_time": "00:00:38.080",
+      "end_time": "00:00:41.680",
+      "text": "Le but du mvp, c'est pas d'être propre, mais de lancer 1 1ère version le plus"
+    },
+    {
+      "start_time": "00:00:42.040",
+      "end_time": "00:00:42.720",
+      "text": "rapidement possible."
+    },
+    {
+      "start_time": "00:00:42.721",
+      "end_time": "00:00:45.080",
+      "text": "3e étape, enclencher réellement l’uX."
+    },
+    {
+      "start_time": "00:00:45.280",
+      "end_time": "00:00:48.160",
+      "text": "À partir du moment où le mvp est entre les mains des utilisateurs,"
+    },
+    {
+      "start_time": "00:00:48.360",
+      "end_time": "00:00:49.720",
+      "text": "l’uX devient central."
+    },
+    {
+      "start_time": "00:00:49.840",
+      "end_time": "00:00:52.880",
+      "text": "Pas forcément pour tout refaire, mais pour structurer ce qui existe déjà."
+    },
+    {
+      "start_time": "00:00:53.080",
+      "end_time": "00:00:54.400",
+      "text": "comprendre les usages réels,"
+    },
+    {
+      "start_time": "00:00:54.600",
+      "end_time": "00:00:55.720",
+      "text": "identifier les frictions,"
+    },
+    {
+      "start_time": "00:00:55.920",
+      "end_time": "00:00:57.120",
+      "text": "clarifier le parcours,"
+    },
+    {
+      "start_time": "00:00:57.640",
+      "end_time": "00:00:58.720",
+      "text": "simplifier les décisions."
+    },
+    {
+      "start_time": "00:00:58.880",
+      "end_time": "00:01:01.560",
+      "text": "L’ux n'est pas là pour imaginer le produit idéal mais pour"
+    },
+    {
+      "start_time": "00:01:01.760",
+      "end_time": "00:01:02.960",
+      "text": "améliorer 1 produit réel."
+    },
+    {
+      "start_time": "00:01:03.000",
+      "end_time": "00:01:04.680",
+      "text": "4e étape, le marketing."
+    },
+    {
+      "start_time": "00:01:04.760",
+      "end_time": "00:01:05.840",
+      "text": "En parallèle à tout ça,"
+    },
+    {
+      "start_time": "00:01:05.841",
+      "end_time": "00:01:08.600",
+      "text": "je m'occupe du marketing et j'explique clairement le problème,"
+    },
+    {
+      "start_time": "00:01:08.720",
+      "end_time": "00:01:10.680",
+      "text": "La promesse et à qui ça s'adresse."
+    },
+    {
+      "start_time": "00:01:10.840",
+      "end_time": "00:01:15.120",
+      "text": "Le marketing m'aide aussi à affiner le produit et pas juste à vendre. 5e étape,"
+    },
+    {
+      "start_time": "00:01:15.280",
+      "end_time": "00:01:18.960",
+      "text": "l'itération en continue. Et ouais, j'itère en continue. le produit,"
+    },
+    {
+      "start_time": "00:01:19.080",
+      "end_time": "00:01:20.400",
+      "text": "le message, l'expérience."
+    },
+    {
+      "start_time": "00:01:20.600",
+      "end_time": "00:01:23.960",
+      "text": "parce qu'un saas ce n'est jamais terminé. Et toi, comment tu crées ton saas ?"
+    },
+    {
+      "start_time": "00:01:24.120",
+      "end_time": "00:01:25.040",
+      "text": "Dis-moi tout en commentaire."
+    }
+  ]
+}

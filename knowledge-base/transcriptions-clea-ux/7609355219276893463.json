@@ -1,0 +1,151 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:01.920",
+      "text": "Monday a réussi à rendre 1 onboarding long"
+    },
+    {
+      "start_time": "00:00:02.000",
+      "end_time": "00:00:03.640",
+      "text": "engagant, et je te montre comment ils ont fait."
+    },
+    {
+      "start_time": "00:00:03.680",
+      "end_time": "00:00:05.480",
+      "text": "La plupart des onboarding fonctionnent comme ça."
+    },
+    {
+      "start_time": "00:00:05.481",
+      "end_time": "00:00:06.280",
+      "text": "Tu remplis les infos,"
+    },
+    {
+      "start_time": "00:00:06.400",
+      "end_time": "00:00:07.520",
+      "text": "tu passes à l'étape suivante,"
+    },
+    {
+      "start_time": "00:00:07.640",
+      "end_time": "00:00:10.160",
+      "text": "tu remplis encore et à la fin tu découvres ce que ça donne."
+    },
+    {
+      "start_time": "00:00:10.200",
+      "end_time": "00:00:11.760",
+      "text": "Et monday a fait exactement l'inverse."
+    },
+    {
+      "start_time": "00:00:11.920",
+      "end_time": "00:00:15.440",
+      "text": "Pendant que tu remplis ton onboarding, ton tableau se construit en temps réel"
+    },
+    {
+      "start_time": "00:00:15.560",
+      "end_time": "00:00:17.360",
+      "text": "Juste à côté. tu tapes le nom de ton projet,"
+    },
+    {
+      "start_time": "00:00:17.400",
+      "end_time": "00:00:19.040",
+      "text": "il apparaît immédiatement dans le tableau."
+    },
+    {
+      "start_time": "00:00:19.120",
+      "end_time": "00:00:20.040",
+      "text": "Tu choisis tes colonnes,"
+    },
+    {
+      "start_time": "00:00:20.080",
+      "end_time": "00:00:22.680",
+      "text": "elles s'ajoutent en direct. avant même d'avoir fini l'onboarding,"
+    },
+    {
+      "start_time": "00:00:22.800",
+      "end_time": "00:00:24.720",
+      "text": "Tu as déjà ton tableau avec tes données."
+    },
+    {
+      "start_time": "00:00:24.760",
+      "end_time": "00:00:27.000",
+      "text": "pas tes données fictives, ni 1 exemple générique,"
+    },
+    {
+      "start_time": "00:00:27.120",
+      "end_time": "00:00:29.960",
+      "text": "mais le tien. Et c'est 1 très bonne stratégie pour 3 raisons."
+    },
+    {
+      "start_time": "00:00:30.040",
+      "end_time": "00:00:32.240",
+      "text": "La 1ère, c'est que tu visualises le résultat final."
+    },
+    {
+      "start_time": "00:00:32.560",
+      "end_time": "00:00:35.280",
+      "text": "Pendant que tu construis, ton cerveau comprend immédiatement la valeur."
+    },
+    {
+      "start_time": "00:00:35.320",
+      "end_time": "00:00:37.280",
+      "text": "La 2e, c'est que ce sont tes données,"
+    },
+    {
+      "start_time": "00:00:37.400",
+      "end_time": "00:00:38.200",
+      "text": "pas celles d'un autre."
+    },
+    {
+      "start_time": "00:00:38.280",
+      "end_time": "00:00:41.000",
+      "text": "Tu t'appropris le produit avant même d'y être entré."
+    },
+    {
+      "start_time": "00:00:41.040",
+      "end_time": "00:00:42.840",
+      "text": "C'est plus 1 outil mais c'est ton outil."
+    },
+    {
+      "start_time": "00:00:42.841",
+      "end_time": "00:00:46.000",
+      "text": "Et la 3e, c'est que l'onboarding ne ressemble plus à 1 formulaire,"
+    },
+    {
+      "start_time": "00:00:46.040",
+      "end_time": "00:00:47.320",
+      "text": "il ressemble à 1 création."
+    },
+    {
+      "start_time": "00:00:47.480",
+      "end_time": "00:00:50.360",
+      "text": "Tu construit quelque chose et t'es pas juste en train de remplir des cases."
+    },
+    {
+      "start_time": "00:00:50.440",
+      "end_time": "00:00:51.560",
+      "text": "La plupart des onboarding"
+    },
+    {
+      "start_time": "00:00:51.840",
+      "end_time": "00:00:53.600",
+      "text": "demande des infos pour configurer le produit,"
+    },
+    {
+      "start_time": "00:00:53.640",
+      "end_time": "00:00:54.360",
+      "text": "et monday"
+    },
+    {
+      "start_time": "00:00:54.361",
+      "end_time": "00:00:57.480",
+      "text": "utilise ces mêmes infos pour montrer le produit en train de prendre vie."
+    },
+    {
+      "start_time": "00:00:57.520",
+      "end_time": "00:01:00.440",
+      "text": "C'est la même donnée mais 1 expérience complètement différente."
+    }
+  ]
+}

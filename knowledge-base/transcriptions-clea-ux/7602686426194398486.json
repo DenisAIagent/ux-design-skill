@@ -1,0 +1,261 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.040",
+      "text": "Le mois dernier j'ai analysé 1 centaine de mvp,"
+    },
+    {
+      "start_time": "00:00:02.200",
+      "end_time": "00:00:02.720",
+      "text": "et aujourd'hui"
+    },
+    {
+      "start_time": "00:00:02.721",
+      "end_time": "00:00:06.240",
+      "text": "je te donne 5 frictions que j'ai pu observer et des tips pour y remédier."
+    },
+    {
+      "start_time": "00:00:06.280",
+      "end_time": "00:00:08.640",
+      "text": "1, le formulaire d'inscription à rallonge."
+    },
+    {
+      "start_time": "00:00:08.680",
+      "end_time": "00:00:10.920",
+      "text": "Pour t'inscrire tu as besoin de 3 infos max :"
+    },
+    {
+      "start_time": "00:00:11.040",
+      "end_time": "00:00:12.120",
+      "text": "le nom, le mail,"
+    },
+    {
+      "start_time": "00:00:12.280",
+      "end_time": "00:00:13.080",
+      "text": "le mot de passe"
+    },
+    {
+      "start_time": "00:00:13.240",
+      "end_time": "00:00:15.720",
+      "text": "et c'est tout. Toutes les autres infos comme le nom de l'entreprise,"
+    },
+    {
+      "start_time": "00:00:15.840",
+      "end_time": "00:00:17.480",
+      "text": "le secteur, la taille de l'équipe,"
+    },
+    {
+      "start_time": "00:00:17.600",
+      "end_time": "00:00:20.800",
+      "text": "tu les récupères après pendant l’onboarding ou quand c'est pertinent."
+    },
+    {
+      "start_time": "00:00:20.840",
+      "end_time": "00:00:24.400",
+      "text": "Chaque champs supplémentaire à l'inscription, c'est 20% d'abandon en plus."
+    },
+    {
+      "start_time": "00:00:24.560",
+      "end_time": "00:00:28.640",
+      "text": "donc demande le strict minimum à l'inscription et le reste progressivement. 2,"
+    },
+    {
+      "start_time": "00:00:28.920",
+      "end_time": "00:00:32.320",
+      "text": "Obliger l'utilisateur à vérifier l'email avant d'accéder au produit."
+    },
+    {
+      "start_time": "00:00:32.400",
+      "end_time": "00:00:33.080",
+      "text": "ça casse l’élan."
+    },
+    {
+      "start_time": "00:00:33.081",
+      "end_time": "00:00:34.800",
+      "text": "Ton utilisateur est motivé maintenant"
+    },
+    {
+      "start_time": "00:00:34.840",
+      "end_time": "00:00:37.080",
+      "text": "et pas dans 5minutes quand il ira checker ses mails."
+    },
+    {
+      "start_time": "00:00:37.120",
+      "end_time": "00:00:39.560",
+      "text": "Entre le moment où il s'inscrit et le moment où il revient,"
+    },
+    {
+      "start_time": "00:00:39.720",
+      "end_time": "00:00:42.720",
+      "text": "la moitié ne reviendra jamais. Ils oublient, ils se découragent,"
+    },
+    {
+      "start_time": "00:00:42.880",
+      "end_time": "00:00:45.200",
+      "text": "parfois même ils sont obligés de se connecter à leur mail"
+    },
+    {
+      "start_time": "00:00:45.400",
+      "end_time": "00:00:46.200",
+      "text": "et ils passent à autre chose."
+    },
+    {
+      "start_time": "00:00:46.240",
+      "end_time": "00:00:48.120",
+      "text": "Donc laisse-le accéder au produit d'abord et"
+    },
+    {
+      "start_time": "00:00:48.360",
+      "end_time": "00:00:50.880",
+      "text": "demande la vérification mail seulement quand c'est nécessaire."
+    },
+    {
+      "start_time": "00:00:50.920",
+      "end_time": "00:00:53.960",
+      "text": "par exemple pour inviter son équipe ou pour des actions sensibles. 3,"
+    },
+    {
+      "start_time": "00:00:54.320",
+      "end_time": "00:00:56.520",
+      "text": "Demander 1 carte bancaire pour 1 essai gratuit."
+    },
+    {
+      "start_time": "00:00:56.560",
+      "end_time": "00:00:58.280",
+      "text": "ça crée de la méfiance instantanée."
+    },
+    {
+      "start_time": "00:00:58.320",
+      "end_time": "00:00:59.480",
+      "text": "Là, ton utilisateur se dit :"
+    },
+    {
+      "start_time": "00:00:59.481",
+      "end_time": "00:01:01.720",
+      "text": "ils vont me piéger et me facturer sans que je m'en rende compte."
+    },
+    {
+      "start_time": "00:01:02.080",
+      "end_time": "00:01:04.600",
+      "text": "Résultat, ta conversion est divisée par 3 minimum."
+    },
+    {
+      "start_time": "00:01:04.720",
+      "end_time": "00:01:06.480",
+      "text": "Et ceux qui rentrent leur CB la plupart du temps,"
+    },
+    {
+      "start_time": "00:01:06.520",
+      "end_time": "00:01:08.280",
+      "text": "ils mettent 1 alerte pour annuler avant La fin."
+    },
+    {
+      "start_time": "00:01:08.320",
+      "end_time": "00:01:09.160",
+      "text": "donc pour y remédier"
+    },
+    {
+      "start_time": "00:01:09.240",
+      "end_time": "00:01:11.280",
+      "text": "tu mets 1 essai gratuit sans carte bancaire et si ton"
+    },
+    {
+      "start_time": "00:01:11.440",
+      "end_time": "00:01:12.240",
+      "text": "produit apporte de la valeur,"
+    },
+    {
+      "start_time": "00:01:12.320",
+      "end_time": "00:01:13.560",
+      "text": "crois-moi, ils paieront. 4,"
+    },
+    {
+      "start_time": "00:01:13.840",
+      "end_time": "00:01:17.520",
+      "text": "1 onboarding de plus de 5 étapes. Ton utilisateur veut de la valeur maintenant,"
+    },
+    {
+      "start_time": "00:01:17.640",
+      "end_time": "00:01:20.720",
+      "text": "pas dans 10minutes. et chaque étape supplémentaire diminue la motivation."
+    },
+    {
+      "start_time": "00:01:20.800",
+      "end_time": "00:01:22.560",
+      "text": "À l'étape 3, il est encore concentré."
+    },
+    {
+      "start_time": "00:01:22.640",
+      "end_time": "00:01:24.240",
+      "text": "à l'étape 5, il commence à se demander"
+    },
+    {
+      "start_time": "00:01:24.280",
+      "end_time": "00:01:26.320",
+      "text": "« ça va encore durer combien de temps ? ». et à l'étape 7,"
+    },
+    {
+      "start_time": "00:01:26.600",
+      "end_time": "00:01:29.960",
+      "text": "il abandonne. Donc maximum 3 étapes avant le 1er résultat."
+    },
+    {
+      "start_time": "00:01:30.120",
+      "end_time": "00:01:32.720",
+      "text": "Le reste tu le fais après. 5, Les pop-up"
+    },
+    {
+      "start_time": "00:01:33.080",
+      "end_time": "00:01:33.840",
+      "text": "Intempestives."
+    },
+    {
+      "start_time": "00:01:33.841",
+      "end_time": "00:01:36.800",
+      "text": "ton utilisateur vient d'arriver, il sait même pas encore ce que fait ton produit"
+    },
+    {
+      "start_time": "00:01:36.960",
+      "end_time": "00:01:40.320",
+      "text": "Et là bam, pop-up pour l'inciter à upgrader, pop-up pour activer les"
+    },
+    {
+      "start_time": "00:01:40.800",
+      "end_time": "00:01:42.200",
+      "text": "notifications, pop-up pour parler à 1 commercial."
+    },
+    {
+      "start_time": "00:01:42.720",
+      "end_time": "00:01:45.680",
+      "text": "Résultat, il a même pas pu voir l'interface qu'il est déjà énervé."
+    },
+    {
+      "start_time": "00:01:45.800",
+      "end_time": "00:01:47.040",
+      "text": "Donc je te conseille vraiment de mettre"
+    },
+    {
+      "start_time": "00:01:47.280",
+      "end_time": "00:01:49.080",
+      "text": "aucune pop-up dans les 5 premières minutes."
+    },
+    {
+      "start_time": "00:01:49.160",
+      "end_time": "00:01:51.000",
+      "text": "Laisse l'utilisateur découvrir et"
+    },
+    {
+      "start_time": "00:01:51.280",
+      "end_time": "00:01:52.280",
+      "text": "obtenir de la valeur d'abord."
+    },
+    {
+      "start_time": "00:01:52.281",
+      "end_time": "00:01:54.160",
+      "text": "et fais-moi savoir en commentaire si tu veux 1 partie 2."
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.160",
+      "end_time": "00:00:02.640",
+      "text": "Utilise ta page de désabonnement pour sauver ton MRR."
+    },
+    {
+      "start_time": "00:00:02.800",
+      "end_time": "00:00:04.280",
+      "text": "Pour la plupart des fondateurs de SaaS,"
+    },
+    {
+      "start_time": "00:00:04.360",
+      "end_time": "00:00:07.080",
+      "text": "1 bouton « se désabonner » c'est 1 condamnation à mort."
+    },
+    {
+      "start_time": "00:00:07.281",
+      "end_time": "00:00:10.480",
+      "text": "j'exagère peut-être 1 peu. mais souvent ils le cachent et il compliquent le process."
+    },
+    {
+      "start_time": "00:00:10.600",
+      "end_time": "00:00:11.080",
+      "text": "Le résultat,"
+    },
+    {
+      "start_time": "00:00:11.081",
+      "end_time": "00:00:13.880",
+      "text": "c'est que tu frustres ton client et là, c'est sûr qu'il reviendra jamais."
+    },
+    {
+      "start_time": "00:00:13.920",
+      "end_time": "00:00:14.520",
+      "text": "Pour contrer ça,"
+    },
+    {
+      "start_time": "00:00:14.521",
+      "end_time": "00:00:17.600",
+      "text": "la plupart des SaaS proposent des réductions d'abonnement ou des mois offerts."
+    },
+    {
+      "start_time": "00:00:17.601",
+      "end_time": "00:00:19.680",
+      "text": "Mais tu peux aussi utiliser ces 3 techniques :"
+    },
+    {
+      "start_time": "00:00:19.720",
+      "end_time": "00:00:20.920",
+      "text": "1, le bouton de pause."
+    },
+    {
+      "start_time": "00:00:21.160",
+      "end_time": "00:00:23.680",
+      "text": "Parfois ton client a juste pas besoin de ton outil ce mois-ci,"
+    },
+    {
+      "start_time": "00:00:23.720",
+      "end_time": "00:00:26.680",
+      "text": "donc laisse-le mettre son abonnement en pause pendant 30 ou 60 jours."
+    },
+    {
+      "start_time": "00:00:26.760",
+      "end_time": "00:00:29.400",
+      "text": "Tu gardes ces données et tu évites 1 churn définitif."
+    },
+    {
+      "start_time": "00:00:29.520",
+      "end_time": "00:00:34.800",
+      "text": "2, Le downCell tactique. propose 1 plan light ou maintenance à €5 par exemple,"
+    },
+    {
+      "start_time": "00:00:34.801",
+      "end_time": "00:00:36.280",
+      "text": "il garde ses accès de base et toi"
+    },
+    {
+      "start_time": "00:00:36.320",
+      "end_time": "00:00:39.320",
+      "text": "tu gardes ton utilisateur jusqu'à l'arrivée d'une nouvelle fonctionnalité"
+    },
+    {
+      "start_time": "00:00:39.360",
+      "end_time": "00:00:40.160",
+      "text": "par exemple. 3,"
+    },
+    {
+      "start_time": "00:00:40.280",
+      "end_time": "00:00:42.840",
+      "text": "Le lead magnet de sortie. « Désolé de te voir partir,"
+    },
+    {
+      "start_time": "00:00:42.880",
+      "end_time": "00:00:45.920",
+      "text": "voici 1 PDF avec les meilleures pratiques de ton secteur pour"
+    },
+    {
+      "start_time": "00:00:46.160",
+      "end_time": "00:00:46.640",
+      "text": "continuer sans nous. »"
+    },
+    {
+      "start_time": "00:00:46.641",
+      "end_time": "00:00:48.560",
+      "text": "Là, tu restes 1 autorité dans son esprit."
+    },
+    {
+      "start_time": "00:00:48.640",
+      "end_time": "00:00:50.520",
+      "text": "C'est-ce qu'on appelle de l’offboarding design."
+    },
+    {
+      "start_time": "00:00:50.640",
+      "end_time": "00:00:52.360",
+      "text": "Le but est de rester top of mind,"
+    },
+    {
+      "start_time": "00:00:52.440",
+      "end_time": "00:00:53.400",
+      "text": "donc en mémoire."
+    },
+    {
+      "start_time": "00:00:53.440",
+      "end_time": "00:00:56.080",
+      "text": "si l'utilisateur part parce qu'il n'a plus de budget ou que son"
+    },
+    {
+      "start_time": "00:00:56.280",
+      "end_time": "00:00:56.960",
+      "text": "projet est en pause,"
+    },
+    {
+      "start_time": "00:00:56.961",
+      "end_time": "00:00:59.200",
+      "text": "il va télécharger ton guide ou ton template"
+    },
+    {
+      "start_time": "00:00:59.320",
+      "end_time": "00:01:01.240",
+      "text": "et toi tu restes dans 1 coin de sa tête."
+    },
+    {
+      "start_time": "00:01:01.280",
+      "end_time": "00:01:05.200",
+      "text": "En plus de ça, tu maintiens 1 bonne réputation et tu capture l'email."
+    },
+    {
+      "start_time": "00:01:05.240",
+      "end_time": "00:01:07.000",
+      "text": "1 fois qu'il est plus client MRR,"
+    },
+    {
+      "start_time": "00:01:07.120",
+      "end_time": "00:01:10.160",
+      "text": "il redevient 1 simple prospect. En lui offrant du contenu de valeur,"
+    },
+    {
+      "start_time": "00:01:10.240",
+      "end_time": "00:01:13.600",
+      "text": "tu gardes la possibilité de le nourrir avec ton expertise et donc le faire"
+    },
+    {
+      "start_time": "00:01:13.760",
+      "end_time": "00:01:16.760",
+      "text": "revenir dans 6 mois quand tu sortiras 1 nouvelle fonctionnalité majeure."
+    },
+    {
+      "start_time": "00:01:16.800",
+      "end_time": "00:01:19.040",
+      "text": "Crois-moi même 1 désabonnement n'est jamais la fin."
+    }
+  ]
+}

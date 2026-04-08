@@ -1,0 +1,211 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.241",
+      "end_time": "00:00:03.720",
+      "text": "je te donne 1 raccourci UX qui transforme radicalement le taux d'adoption de tes"
+    },
+    {
+      "start_time": "00:00:03.800",
+      "end_time": "00:00:04.440",
+      "text": "nouvelles features."
+    },
+    {
+      "start_time": "00:00:04.441",
+      "end_time": "00:00:05.920",
+      "text": "L’onboarding contextuel."
+    },
+    {
+      "start_time": "00:00:06.000",
+      "end_time": "00:00:09.440",
+      "text": "La plupart des SaaS lancent 1 nouvelle feature avec 1 badge New dessus,"
+    },
+    {
+      "start_time": "00:00:09.560",
+      "end_time": "00:00:10.680",
+      "text": "parfois 1 notification,"
+    },
+    {
+      "start_time": "00:00:10.960",
+      "end_time": "00:00:14.120",
+      "text": "parfois 1 mail, et ils espèrent que les utilisateurs vont comprendre tout seul."
+    },
+    {
+      "start_time": "00:00:14.280",
+      "end_time": "00:00:15.400",
+      "text": "Résultat, la feature est souvent"
+    },
+    {
+      "start_time": "00:00:15.600",
+      "end_time": "00:00:18.560",
+      "text": "ignorée et l’utilisateur doit comprendre de lui-même comment elle"
+    },
+    {
+      "start_time": "00:00:18.720",
+      "end_time": "00:00:20.080",
+      "text": "fonctionne. Pas parce qu'elle est mauvaise,"
+    },
+    {
+      "start_time": "00:00:20.081",
+      "end_time": "00:00:22.320",
+      "text": "mais parce que personne n'a pris le temps de l'introduire."
+    },
+    {
+      "start_time": "00:00:22.400",
+      "end_time": "00:00:24.200",
+      "text": "Imagine 1 SaaS de gestion d'activité."
+    },
+    {
+      "start_time": "00:00:24.280",
+      "end_time": "00:00:26.200",
+      "text": "Tu viens de lancer 1 feature de rapport automatique"
+    },
+    {
+      "start_time": "00:00:26.240",
+      "end_time": "00:00:28.560",
+      "text": "et ton utilisateur clique dessus pour la 1ère fois."
+    },
+    {
+      "start_time": "00:00:28.561",
+      "end_time": "00:00:29.520",
+      "text": "Dans le scénario classique,"
+    },
+    {
+      "start_time": "00:00:29.521",
+      "end_time": "00:00:31.640",
+      "text": "il arrive sur 1 interface qui n'est pas encore remplie,"
+    },
+    {
+      "start_time": "00:00:31.641",
+      "end_time": "00:00:34.280",
+      "text": "il explore pendant 30secondes, il sait pas trop par où commencer,"
+    },
+    {
+      "start_time": "00:00:34.400",
+      "end_time": "00:00:36.640",
+      "text": "donc il repart et revient quasiment jamais. Maintenant"
+    },
+    {
+      "start_time": "00:00:36.760",
+      "end_time": "00:00:40.200",
+      "text": "imagine le même scénario mais dès qu'il clique sur la feature pour la 1ère fois,"
+    },
+    {
+      "start_time": "00:00:40.360",
+      "end_time": "00:00:42.160",
+      "text": "1 mini onboarding se déclenche,"
+    },
+    {
+      "start_time": "00:00:42.200",
+      "end_time": "00:00:45.000",
+      "text": "pas celui de l'inscription, mais 1 onboarding dédié à cette feature."
+    },
+    {
+      "start_time": "00:00:45.120",
+      "end_time": "00:00:46.840",
+      "text": "Avec 3 ou 5 étapes maximum."
+    },
+    {
+      "start_time": "00:00:46.960",
+      "end_time": "00:00:48.520",
+      "text": "Choisis la période que tu veux analyser,"
+    },
+    {
+      "start_time": "00:00:48.640",
+      "end_time": "00:00:50.240",
+      "text": "sélectionne les métriques qui t'intéressent"
+    },
+    {
+      "start_time": "00:00:50.320",
+      "end_time": "00:00:52.200",
+      "text": "et génère ton 1ère rapport en 2minutes."
+    },
+    {
+      "start_time": "00:00:52.201",
+      "end_time": "00:00:53.440",
+      "text": "Il a utilisé la feature,"
+    },
+    {
+      "start_time": "00:00:53.520",
+      "end_time": "00:00:55.520",
+      "text": "il a vu la valeur et donc il reviendra."
+    },
+    {
+      "start_time": "00:00:55.600",
+      "end_time": "00:00:57.400",
+      "text": "Ce 2e scénario change complètement la donne."
+    },
+    {
+      "start_time": "00:00:57.440",
+      "end_time": "00:01:00.760",
+      "text": "Déjà parce que tu guides l'utilisateur au moment où il en a besoin, pas avant,"
+    },
+    {
+      "start_time": "00:01:00.800",
+      "end_time": "00:01:02.200",
+      "text": "pas après, mais au 1er clic."
+    },
+    {
+      "start_time": "00:01:02.280",
+      "end_time": "00:01:05.440",
+      "text": "Ensuite, parce que tu transformes 1 découverte passive en expérience active."
+    },
+    {
+      "start_time": "00:01:05.600",
+      "end_time": "00:01:07.160",
+      "text": "Il ne lit pas 1 documentation,"
+    },
+    {
+      "start_time": "00:01:07.200",
+      "end_time": "00:01:08.320",
+      "text": "il l'utilise directement."
+    },
+    {
+      "start_time": "00:01:08.360",
+      "end_time": "00:01:11.400",
+      "text": "Et enfin, parce que tu raccourcis le chemin vers la valeur de ta feature,"
+    },
+    {
+      "start_time": "00:01:11.401",
+      "end_time": "00:01:13.200",
+      "text": "et 1 feature dont on voit la valeur immédiatement,"
+    },
+    {
+      "start_time": "00:01:13.280",
+      "end_time": "00:01:15.520",
+      "text": "c'est 1 feature qu'on adopte. L'onboarding contextuel,"
+    },
+    {
+      "start_time": "00:01:15.600",
+      "end_time": "00:01:16.680",
+      "text": "c'est simple à mettre en place,"
+    },
+    {
+      "start_time": "00:01:16.720",
+      "end_time": "00:01:19.160",
+      "text": "détecte le 1ère clic sur chaque feature importante,"
+    },
+    {
+      "start_time": "00:01:19.200",
+      "end_time": "00:01:22.080",
+      "text": "créer 2 ou 3 étapes qui mènent directement à son aha moment"
+    },
+    {
+      "start_time": "00:01:22.200",
+      "end_time": "00:01:23.880",
+      "text": "et déclenche-le 1 seule fois,"
+    },
+    {
+      "start_time": "00:01:24.000",
+      "end_time": "00:01:27.360",
+      "text": "jamais 2. Résultats tes features ne sont plus ignorées, elles sont découvertes,"
+    },
+    {
+      "start_time": "00:01:27.520",
+      "end_time": "00:01:28.600",
+      "text": "testées et adoptées."
+    }
+  ]
+}

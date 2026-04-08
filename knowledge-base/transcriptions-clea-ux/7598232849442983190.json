@@ -1,0 +1,121 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.240",
+      "text": "Il y a 3 types de feedback que ton utilisateur"
+    },
+    {
+      "start_time": "00:00:02.520",
+      "end_time": "00:00:04.240",
+      "text": "attend dans ton saas et ça va aller très vite."
+    },
+    {
+      "start_time": "00:00:04.280",
+      "end_time": "00:00:06.880",
+      "text": "1 le feedback de confirmation, est-ce que ça a marché ?"
+    },
+    {
+      "start_time": "00:00:06.960",
+      "end_time": "00:00:08.160",
+      "text": "L'utilisateur fait 1 action,"
+    },
+    {
+      "start_time": "00:00:08.240",
+      "end_time": "00:00:10.600",
+      "text": "il clique, il valide et il attend 1 chose :"
+    },
+    {
+      "start_time": "00:00:10.640",
+      "end_time": "00:00:12.720",
+      "text": "savoir si ça a fonctionné. Même si c'est évident."
+    },
+    {
+      "start_time": "00:00:12.760",
+      "end_time": "00:00:14.720",
+      "text": "pas juste 1 loader mais 1 message clair,"
+    },
+    {
+      "start_time": "00:00:14.880",
+      "end_time": "00:00:16.840",
+      "text": "1 état qui change ou 1 micro-victoire."
+    },
+    {
+      "start_time": "00:00:16.920",
+      "end_time": "00:00:20.480",
+      "text": "Sans ça, l'utilisateur doute. et le doute, C'est le début de la friction. 2"
+    },
+    {
+      "start_time": "00:00:20.680",
+      "end_time": "00:00:22.920",
+      "text": "Le feedback de direction, qu'est-ce que je fais maintenant ?"
+    },
+    {
+      "start_time": "00:00:22.960",
+      "end_time": "00:00:25.920",
+      "text": "1 fois l'action faite, l'utilisateur veut savoir quelle est la suite logique."
+    },
+    {
+      "start_time": "00:00:26.040",
+      "end_time": "00:00:28.960",
+      "text": "pas revenir au dashboard sans explication ni réfléchir,"
+    },
+    {
+      "start_time": "00:00:29.040",
+      "end_time": "00:00:30.920",
+      "text": "mais juste comprendre où aller ensuite."
+    },
+    {
+      "start_time": "00:00:31.000",
+      "end_time": "00:00:34.160",
+      "text": "1 bon feedback ne dit pas seulement « c’est fait » mais il dit aussi :"
+    },
+    {
+      "start_time": "00:00:34.320",
+      "end_time": "00:00:37.720",
+      "text": "« Voici la prochaine étape ». 3 le feedback de progression, est-ce que j'avance ?"
+    },
+    {
+      "start_time": "00:00:37.840",
+      "end_time": "00:00:39.720",
+      "text": "L'utilisateur veut sentir qu'il avance,"
+    },
+    {
+      "start_time": "00:00:40.000",
+      "end_time": "00:00:41.400",
+      "text": "même lentement. 1 étape cochée,"
+    },
+    {
+      "start_time": "00:00:41.520",
+      "end_time": "00:00:42.440",
+      "text": "1 état terminé,"
+    },
+    {
+      "start_time": "00:00:42.560",
+      "end_time": "00:00:43.680",
+      "text": "1 progression visible."
+    },
+    {
+      "start_time": "00:00:43.760",
+      "end_time": "00:00:47.400",
+      "text": "pas pour le féliciter, mais pour le rassurer et lui dire « tu es au bon endroit »."
+    },
+    {
+      "start_time": "00:00:47.440",
+      "end_time": "00:00:48.640",
+      "text": "Quand un saas manque de feedback,"
+    },
+    {
+      "start_time": "00:00:48.760",
+      "end_time": "00:00:50.600",
+      "text": "l'utilisateur ne se plaint pas. il hésite,"
+    },
+    {
+      "start_time": "00:00:50.840",
+      "end_time": "00:00:52.960",
+      "text": "il ralentit et il finit par partir."
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.560",
+      "text": "Acquisition is not at the center of your growth."
+    },
+    {
+      "start_time": "00:00:02.680",
+      "end_time": "00:00:04.200",
+      "text": "When we talk about SaaS growth,"
+    },
+    {
+      "start_time": "00:00:04.240",
+      "end_time": "00:00:07.160",
+      "text": "most founders think acquisition. More traffic,"
+    },
+    {
+      "start_time": "00:00:07.280",
+      "end_time": "00:00:08.960",
+      "text": "more leads, more ad budget."
+    },
+    {
+      "start_time": "00:00:09.080",
+      "end_time": "00:00:10.280",
+      "text": "But the reality is very different."
+    },
+    {
+      "start_time": "00:00:10.281",
+      "end_time": "00:00:13.360",
+      "text": "There are 5 stages in a user’s lifecycle in your SaaS."
+    },
+    {
+      "start_time": "00:00:13.520",
+      "end_time": "00:00:17.080",
+      "text": "Stage 1, acquisition. That’s bringing people to your landing page,"
+    },
+    {
+      "start_time": "00:00:17.280",
+      "end_time": "00:00:18.680",
+      "text": "ads, SEO, word of mouth,"
+    },
+    {
+      "start_time": "00:00:18.880",
+      "end_time": "00:00:20.000",
+      "text": "content, whatever the channel."
+    },
+    {
+      "start_time": "00:00:20.001",
+      "end_time": "00:00:22.440",
+      "text": "The UX role here is not to waste that traffic."
+    },
+    {
+      "start_time": "00:00:22.560",
+      "end_time": "00:00:25.320",
+      "text": "Because if your landing page doesn’t convince in under 30 seconds,"
+    },
+    {
+      "start_time": "00:00:25.480",
+      "end_time": "00:00:27.680",
+      "text": "your whole acquisition budget goes in the trash."
+    },
+    {
+      "start_time": "00:00:27.800",
+      "end_time": "00:00:29.480",
+      "text": "Stage 2, conversion."
+    },
+    {
+      "start_time": "00:00:29.481",
+      "end_time": "00:00:30.560",
+      "text": "The visitor is on your page,"
+    },
+    {
+      "start_time": "00:00:30.561",
+      "end_time": "00:00:33.920",
+      "text": "they’re interested, and conversion is turning them into a signup."
+    },
+    {
+      "start_time": "00:00:34.000",
+      "end_time": "00:00:35.080",
+      "text": "So the UX role here"
+    },
+    {
+      "start_time": "00:00:35.081",
+      "end_time": "00:00:37.680",
+      "text": "is to make taking action as simple as possible."
+    },
+    {
+      "start_time": "00:00:37.681",
+      "end_time": "00:00:40.080",
+      "text": "No long forms or useless friction,"
+    },
+    {
+      "start_time": "00:00:40.160",
+      "end_time": "00:00:42.920",
+      "text": "just 1 clear CTA and a sign-up in under 30 seconds."
+    },
+    {
+      "start_time": "00:00:43.080",
+      "end_time": "00:00:44.720",
+      "text": "Stage 3, activation."
+    },
+    {
+      "start_time": "00:00:44.760",
+      "end_time": "00:00:47.440",
+      "text": "They’ve signed up and now they need to live their first real"
+    },
+    {
+      "start_time": "00:00:47.720",
+      "end_time": "00:00:48.680",
+      "text": "product experience."
+    },
+    {
+      "start_time": "00:00:48.720",
+      "end_time": "00:00:49.760",
+      "text": "This is the most critical stage"
+    },
+    {
+      "start_time": "00:00:50.160",
+      "end_time": "00:00:51.360",
+      "text": "and often the most neglected."
+    },
+    {
+      "start_time": "00:00:51.400",
+      "end_time": "00:00:55.080",
+      "text": "The UX role here is to get them to their aha moment as fast as possible."
+    },
+    {
+      "start_time": "00:00:55.081",
+      "end_time": "00:00:55.840",
+      "text": "And to do that,"
+    },
+    {
+      "start_time": "00:00:55.841",
+      "end_time": "00:00:59.120",
+      "text": "I recommend setting up an onboarding that’s focused on the final action"
+    },
+    {
+      "start_time": "00:00:59.320",
+      "end_time": "00:01:01.000",
+      "text": "your user is looking for."
+    },
+    {
+      "start_time": "00:01:01.200",
+      "end_time": "00:01:04.200",
+      "text": "Stage 4, retention. They’ve had their aha moment,"
+    },
+    {
+      "start_time": "00:01:04.280",
+      "end_time": "00:01:06.320",
+      "text": "now they need to come back. The UX role"
+    },
+    {
+      "start_time": "00:01:06.321",
+      "end_time": "00:01:07.920",
+      "text": "here is to create habits."
+    },
+    {
+      "start_time": "00:01:08.000",
+      "end_time": "00:01:08.880",
+      "text": "Session summaries,"
+    },
+    {
+      "start_time": "00:01:09.040",
+      "end_time": "00:01:12.200",
+      "text": "notifications that make them want to come back, CTAs placed in the right spots,"
+    },
+    {
+      "start_time": "00:01:12.280",
+      "end_time": "00:01:13.120",
+      "text": "gamification."
+    },
+    {
+      "start_time": "00:01:13.240",
+      "end_time": "00:01:16.640",
+      "text": "If your product doesn’t fit into their daily life, it disappears very easily."
+    },
+    {
+      "start_time": "00:01:16.680",
+      "end_time": "00:01:20.080",
+      "text": "And stage 5, loyalty. They stay, they use it,"
+    },
+    {
+      "start_time": "00:01:20.160",
+      "end_time": "00:01:21.560",
+      "text": "they’re really attached to your product."
+    },
+    {
+      "start_time": "00:01:21.600",
+      "end_time": "00:01:22.480",
+      "text": "The UX role here"
+    },
+    {
+      "start_time": "00:01:22.481",
+      "end_time": "00:01:25.680",
+      "text": "is to regularly prove to your user that they made the best choice."
+    },
+    {
+      "start_time": "00:01:25.681",
+      "end_time": "00:01:28.160",
+      "text": "And loyalty is also your best growth lever."
+    },
+    {
+      "start_time": "00:01:28.320",
+      "end_time": "00:01:29.440",
+      "text": "Because a loyal user,"
+    },
+    {
+      "start_time": "00:01:29.520",
+      "end_time": "00:01:31.120",
+      "text": "they talk about it around them, they recommend it,"
+    },
+    {
+      "start_time": "00:01:31.121",
+      "end_time": "00:01:31.720",
+      "text": "they share it,"
+    },
+    {
+      "start_time": "00:01:31.721",
+      "end_time": "00:01:34.840",
+      "text": "they bring their colleagues. And that word of mouth costs you absolutely nothing."
+    },
+    {
+      "start_time": "00:01:34.841",
+      "end_time": "00:01:36.880",
+      "text": "And it even converts better than any ad."
+    },
+    {
+      "start_time": "00:01:36.960",
+      "end_time": "00:01:39.240",
+      "text": "So in reality, acquisition brings you visitors,"
+    },
+    {
+      "start_time": "00:01:39.400",
+      "end_time": "00:01:39.840",
+      "text": "whereas UX"
+    },
+    {
+      "start_time": "00:01:39.841",
+      "end_time": "00:01:42.520",
+      "text": "turns them into customers who stay and work for you."
+    }
+  ]
+}

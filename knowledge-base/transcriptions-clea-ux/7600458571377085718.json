@@ -1,0 +1,106 @@
+{
+  "ok": true,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:03.480",
+      "text": "mais je suis entièrement d'accord avec toi, l'UX est beaucoup trop sous-estimée."
+    },
+    {
+      "start_time": "00:00:03.540",
+      "end_time": "00:00:07.059",
+      "text": "Et ça me fait penser qu'il y a une phrase que j'entends très souvent quand je travaille dans un SaaS,"
+    },
+    {
+      "start_time": "00:00:07.240",
+      "end_time": "00:00:10.140",
+      "text": "c'est « oui mais là, ce petit détail, ça rajoute du temps de dev »."
+    },
+    {
+      "start_time": "00:00:10.140",
+      "end_time": "00:00:11.619",
+      "text": "Alors qu'en fait, la vraie question, c'est pas ça."
+    },
+    {
+      "start_time": "00:00:11.740",
+      "end_time": "00:00:15.500",
+      "text": "La vraie question, c'est « est-ce que tu préfères ajouter quelques heures ou jours de dev maintenant"
+    },
+    {
+      "start_time": "00:00:15.500",
+      "end_time": "00:00:19.440",
+      "text": "et assurer ton activation, ou perdre du temps et de l'argent des semaines plus tard"
+    },
+    {
+      "start_time": "00:00:19.440",
+      "end_time": "00:00:22.280",
+      "text": "à essayer de comprendre pourquoi ton activation ne décolle pas,"
+    },
+    {
+      "start_time": "00:00:22.420",
+      "end_time": "00:00:24.320",
+      "text": "ou pourquoi les utilisateurs ne reviennent pas? »"
+    },
+    {
+      "start_time": "00:00:24.320",
+      "end_time": "00:00:28.460",
+      "text": "Parce qu'en réalité, ce petit détail UX, c'est jamais juste du confort ou pour faire joli. C'est souvent une"
+    },
+    {
+      "start_time": "00:00:28.460",
+      "end_time": "00:00:32.439",
+      "text": "action que l'utilisateur ne comprend pas, une friction qui casse l'activation ou un moment"
+    },
+    {
+      "start_time": "00:00:32.439",
+      "end_time": "00:00:36.079",
+      "text": "clé qui n'est pas clair. Et si tu le corriges pas maintenant il disparaît pas et revient plus tard"
+    },
+    {
+      "start_time": "00:00:36.079",
+      "end_time": "00:00:40.740",
+      "text": "sous forme de tickets support, de churn, de refonte ou même de features ajoutées pour compenser. Et"
+    },
+    {
+      "start_time": "00:00:40.740",
+      "end_time": "00:00:44.840",
+      "text": "là on ne parle plus de quelques heures de dev, on parle de semaines perdues et de beaucoup d'argent"
+    },
+    {
+      "start_time": "00:00:44.840",
+      "end_time": "00:00:46.420",
+      "text": "dépensé. Donc l'UX c'est pas juste un"
+    },
+    {
+      "start_time": "00:00:46.420",
+      "end_time": "00:00:49.820",
+      "text": "détail pour faire joli, au contraire travailler ton UX tôt ce n'est pas"
+    },
+    {
+      "start_time": "00:00:49.820",
+      "end_time": "00:00:53.679",
+      "text": "ralentir ton produit, c'est éviter de le réparer plus tard. Chaque détail UX que"
+    },
+    {
+      "start_time": "00:00:53.679",
+      "end_time": "00:00:57.520",
+      "text": "tu repousses maintenant tu le paieras autrement, en temps, en argent, en utilisateurs"
+    },
+    {
+      "start_time": "00:00:57.520",
+      "end_time": "00:01:00.979",
+      "text": "perdus et crois moi plus tu attends et plus la facture est salée. Donc merci"
+    },
+    {
+      "start_time": "00:01:00.979",
+      "end_time": "00:01:04.019",
+      "text": "pour ton commentaire parce que comme tu l'as bien dit c'est ce qui fait défaut à"
+    },
+    {
+      "start_time": "00:01:04.019",
+      "end_time": "00:01:06.719",
+      "text": "de nombreux SaaS."
+    }
+  ],
+  "taskCredits": 2
+}

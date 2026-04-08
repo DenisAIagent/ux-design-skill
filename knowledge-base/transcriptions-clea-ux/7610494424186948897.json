@@ -1,0 +1,166 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:00.920",
+      "text": "Tes inscriptions montent,"
+    },
+    {
+      "start_time": "00:00:01.080",
+      "end_time": "00:00:03.360",
+      "text": "ton taux de conversion est bon et pourtant ton SaaS stagne."
+    },
+    {
+      "start_time": "00:00:03.400",
+      "end_time": "00:00:04.000",
+      "text": "C'est dur à dire ça."
+    },
+    {
+      "start_time": "00:00:04.001",
+      "end_time": "00:00:04.800",
+      "text": "Je t'explique pourquoi."
+    },
+    {
+      "start_time": "00:00:04.880",
+      "end_time": "00:00:07.960",
+      "text": "certains KPI seuls ne te disent pas toute la vérité sur ton SaaS."
+    },
+    {
+      "start_time": "00:00:07.961",
+      "end_time": "00:00:09.840",
+      "text": "Donc je te donne 3 erreurs que je vois partout."
+    },
+    {
+      "start_time": "00:00:09.880",
+      "end_time": "00:00:12.040",
+      "text": "La 1ère, tu regardes tes inscriptions."
+    },
+    {
+      "start_time": "00:00:12.080",
+      "end_time": "00:00:14.600",
+      "text": "tu vois 200 nouveaux inscrits cette semaine et t'es content."
+    },
+    {
+      "start_time": "00:00:14.640",
+      "end_time": "00:00:17.240",
+      "text": "mais t'as oublié de regarder combien ont vraiment utilisé ton produit,"
+    },
+    {
+      "start_time": "00:00:17.280",
+      "end_time": "00:00:21.000",
+      "text": "combien ont créé leur 1ère projet et combien ont atteint leur 1ère résultat."
+    },
+    {
+      "start_time": "00:00:21.080",
+      "end_time": "00:00:22.240",
+      "text": "Et ça c'est l'activation."
+    },
+    {
+      "start_time": "00:00:22.360",
+      "end_time": "00:00:24.960",
+      "text": "Si 200 personnes s'inscrivent mais que 20 s'activent,"
+    },
+    {
+      "start_time": "00:00:25.080",
+      "end_time": "00:00:28.640",
+      "text": "tu vas avoir 1 gros problème de rétention et ton mrr ne risque pas de grimper."
+    },
+    {
+      "start_time": "00:00:28.720",
+      "end_time": "00:00:31.200",
+      "text": "Donc ton saas stagne malgré les inscriptions."
+    },
+    {
+      "start_time": "00:00:31.240",
+      "end_time": "00:00:34.240",
+      "text": "La 2e erreur, c'est que tu regardes ton taux de conversion global."
+    },
+    {
+      "start_time": "00:00:34.400",
+      "end_time": "00:00:37.920",
+      "text": "« 5% de conversion sur ma landing page, c'est bon »w mais où exactement"
+    },
+    {
+      "start_time": "00:00:38.000",
+      "end_time": "00:00:42.120",
+      "text": "Tu perds tes 95% restant ? sur ta landing page, sur le formulaire d'inscription,"
+    },
+    {
+      "start_time": "00:00:42.280",
+      "end_time": "00:00:43.160",
+      "text": "pendant l’onboarding,"
+    },
+    {
+      "start_time": "00:00:43.360",
+      "end_time": "00:00:44.160",
+      "text": "au moment de payer ?"
+    },
+    {
+      "start_time": "00:00:44.161",
+      "end_time": "00:00:45.520",
+      "text": "Si tu regardes juste le global,"
+    },
+    {
+      "start_time": "00:00:45.680",
+      "end_time": "00:00:47.320",
+      "text": "tu ne sais pas quoi réparer finalement."
+    },
+    {
+      "start_time": "00:00:47.440",
+      "end_time": "00:00:49.960",
+      "text": "Alors mise plutôt sur le taux de conversion par étape."
+    },
+    {
+      "start_time": "00:00:50.080",
+      "end_time": "00:00:54.880",
+      "text": "La 3e erreur, tu regardes ton coup d'acquisition client. mon CAC est de 80€,"
+    },
+    {
+      "start_time": "00:00:54.960",
+      "end_time": "00:00:58.480",
+      "text": "c'est pas mal. alors sur le papier oui, mais tout seul ton CAC ne veut rien dire."
+    },
+    {
+      "start_time": "00:00:58.680",
+      "end_time": "00:01:01.600",
+      "text": "Si il est de €80 mais que ta ltv est de €200,"
+    },
+    {
+      "start_time": "00:01:01.760",
+      "end_time": "00:01:06.720",
+      "text": "ton ratio est de 2,5. le minimum c'est 1 ratio de 3 et l'idéal c'est 5 ou plus."
+    },
+    {
+      "start_time": "00:01:06.840",
+      "end_time": "00:01:08.720",
+      "text": "Donc si ton ratio est En dessous de 3,"
+    },
+    {
+      "start_time": "00:01:08.840",
+      "end_time": "00:01:10.760",
+      "text": "tu perds de l'argent à chaque nouveau client."
+    },
+    {
+      "start_time": "00:01:10.840",
+      "end_time": "00:01:12.480",
+      "text": "Donc regarder ton cac c'est bien,"
+    },
+    {
+      "start_time": "00:01:12.481",
+      "end_time": "00:01:15.240",
+      "text": "mais faire ton ratio avec ta ltv c'est encore mieux."
+    },
+    {
+      "start_time": "00:01:15.241",
+      "end_time": "00:01:17.760",
+      "text": "Et si tu veux que je te donne d'autres erreurs d'analyse de kpi,"
+    },
+    {
+      "start_time": "00:01:17.880",
+      "end_time": "00:01:19.360",
+      "text": "commente partie 2 en commentaire."
+    }
+  ]
+}

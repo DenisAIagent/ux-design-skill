@@ -2,8 +2,8 @@
 name: ux-design-expert
 description: "When the user needs UX design expertise for SaaS products, landing pages, onboarding flows, AI interfaces, or any user experience challenge. Trigger on: 'UX audit,' 'onboarding flow,' 'landing page,' 'conversion optimization,' 'user experience,' 'fidélisation,' 'retention,' 'usability review,' 'SaaS UX,' 'AI UX,' 'design patterns,' 'heuristic evaluation,' 'user flow,' 'micro-interactions,' 'feature adoption,' 'time to value,' 'churn reduction,' 'UX strategy,' 'design principles,' 'accessibility audit,' or any request about improving how users interact with a digital product."
 metadata:
-  version: 1.1.0
-  knowledge_base: "/Users/denisadam/Downloads/Bandstream - Dossier Complet/base de connaissances UX"
+  version: 1.2.0
+  knowledge_base: "./knowledge-base"
 ---
 
 # UX Design Expert
@@ -438,4 +438,6 @@ When providing recommendations, cite sources from the knowledge base:
 - **Don Norman** — Human-centered design, design for a better world
 - **UX Design Institute** — UX trends 2026
 
-For deeper dives, read the full articles in: `/Users/denisadam/Downloads/Bandstream - Dossier Complet/base de connaissances UX/`
+For deeper dives, read the full articles in the `knowledge-base/` directory:
+- `knowledge-base/blogs/` — 256 articles from 10 sources (jakobnielsenphd, lg-lenny, uxtigers, nngroup, smashingmagazine, etc.)
+- `knowledge-base/transcriptions-clea-ux/` — 98 TikTok video transcriptions from @clea_ux (JSON with timestamps)

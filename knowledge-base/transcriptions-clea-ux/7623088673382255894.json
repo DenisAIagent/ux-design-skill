@@ -1,0 +1,221 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.520",
+      "text": "Ton utilisateur a déjà formé 1 opinion sur ton produit"
+    },
+    {
+      "start_time": "00:00:02.600",
+      "end_time": "00:00:04.600",
+      "text": "avant même d'avoir utilisé 1 seule feature."
+    },
+    {
+      "start_time": "00:00:04.680",
+      "end_time": "00:00:06.320",
+      "text": "C'est-ce qu'on appelle l'effet de Halo."
+    },
+    {
+      "start_time": "00:00:06.360",
+      "end_time": "00:00:07.640",
+      "text": "Tu vas voir, le principe est très simple."
+    },
+    {
+      "start_time": "00:00:07.641",
+      "end_time": "00:00:10.800",
+      "text": "Une 1ère impression positive ou négative sur 1 élément influence"
+    },
+    {
+      "start_time": "00:00:11.200",
+      "end_time": "00:00:13.480",
+      "text": "automatiquement la perception sur tout le reste."
+    },
+    {
+      "start_time": "00:00:13.640",
+      "end_time": "00:00:16.680",
+      "text": "Mais du coup, comment ça marche ? Si tu arrives sur 1 landing page qui est claire,"
+    },
+    {
+      "start_time": "00:00:16.760",
+      "end_time": "00:00:18.360",
+      "text": "bien designée et rassurante,"
+    },
+    {
+      "start_time": "00:00:18.440",
+      "end_time": "00:00:21.320",
+      "text": "tu supposes instantanément que le produit derrière est fiable,"
+    },
+    {
+      "start_time": "00:00:21.321",
+      "end_time": "00:00:24.360",
+      "text": "que l'équipe est sérieuse et que l'expérience à l'intérieur sera à la hauteur."
+    },
+    {
+      "start_time": "00:00:24.440",
+      "end_time": "00:00:27.360",
+      "text": "Tout ça sans avoir cliqué sur quoi que ce soit. Et l'inverse est tout aussi vrai."
+    },
+    {
+      "start_time": "00:00:27.400",
+      "end_time": "00:00:28.480",
+      "text": "1 landing page brouillon,"
+    },
+    {
+      "start_time": "00:00:28.560",
+      "end_time": "00:00:30.240",
+      "text": "1 email de bienvenue mal formaté"
+    },
+    {
+      "start_time": "00:00:30.320",
+      "end_time": "00:00:32.440",
+      "text": "ou même 1 écran d'inscription avec 50.000 input,"
+    },
+    {
+      "start_time": "00:00:32.680",
+      "end_time": "00:00:35.440",
+      "text": "ça fera douter ton utilisateur de la simplicité du produit,"
+    },
+    {
+      "start_time": "00:00:35.520",
+      "end_time": "00:00:36.680",
+      "text": "de la qualité de la tech,"
+    },
+    {
+      "start_time": "00:00:36.720",
+      "end_time": "00:00:40.200",
+      "text": "de la sécurité des données et de ta capacité à tenir tes promesses."
+    },
+    {
+      "start_time": "00:00:40.320",
+      "end_time": "00:00:42.600",
+      "text": "Même si ton produit est objectivement excellent,"
+    },
+    {
+      "start_time": "00:00:42.680",
+      "end_time": "00:00:45.480",
+      "text": "même si la tech est solide et même si ton équipe est brillante,"
+    },
+    {
+      "start_time": "00:00:45.600",
+      "end_time": "00:00:46.400",
+      "text": "il a déjà décidé."
+    },
+    {
+      "start_time": "00:00:46.440",
+      "end_time": "00:00:48.960",
+      "text": "Parce que le cerveau humain ne juge pas chaque élément indépendamment,"
+    },
+    {
+      "start_time": "00:00:48.961",
+      "end_time": "00:00:52.200",
+      "text": "il forme 1 impression globale à partir des premiers signaux qu'il perçoit."
+    },
+    {
+      "start_time": "00:00:52.201",
+      "end_time": "00:00:53.160",
+      "text": "Et ces premiers signaux,"
+    },
+    {
+      "start_time": "00:00:53.200",
+      "end_time": "00:00:54.600",
+      "text": "c'est ton design qui les envoie."
+    },
+    {
+      "start_time": "00:00:54.640",
+      "end_time": "00:00:57.760",
+      "text": "Donc il y a 3 endroits où l'effet de Halo joue 1 rôle critique sur ton SaaS."
+    },
+    {
+      "start_time": "00:00:57.840",
+      "end_time": "00:00:59.040",
+      "text": "Tout d'abord, ta landing page."
+    },
+    {
+      "start_time": "00:00:59.240",
+      "end_time": "00:01:01.400",
+      "text": "C'est le 1er contact et tu as moins de 10secondes."
+    },
+    {
+      "start_time": "00:01:01.440",
+      "end_time": "00:01:02.680",
+      "text": "Si elle ne respire pas la clarté et"
+    },
+    {
+      "start_time": "00:01:02.720",
+      "end_time": "00:01:05.760",
+      "text": "la confiance ton utilisateur repart avant même d'avoir lu ce que tu as fait."
+    },
+    {
+      "start_time": "00:01:05.761",
+      "end_time": "00:01:07.280",
+      "text": "Le 2e, c'est ton email de bienvenue."
+    },
+    {
+      "start_time": "00:01:07.360",
+      "end_time": "00:01:09.440",
+      "text": "Ton utilisateur vient de s'inscrire et il est encore chaud."
+    },
+    {
+      "start_time": "00:01:09.480",
+      "end_time": "00:01:11.840",
+      "text": "1 email soigné renforce la décision qu'il vient de prendre,"
+    },
+    {
+      "start_time": "00:01:11.920",
+      "end_time": "00:01:13.400",
+      "text": "alors qu'un email générique le fait douter."
+    },
+    {
+      "start_time": "00:01:13.480",
+      "end_time": "00:01:15.360",
+      "text": "Et le 3e, ce sont tes premiers écrans"
+    },
+    {
+      "start_time": "00:01:15.680",
+      "end_time": "00:01:16.440",
+      "text": "après l'inscription."
+    },
+    {
+      "start_time": "00:01:16.441",
+      "end_time": "00:01:17.920",
+      "text": "C'est là que l'opinion se consolide."
+    },
+    {
+      "start_time": "00:01:17.921",
+      "end_time": "00:01:20.360",
+      "text": "Si les premières secondes dans ton produit sont fluides et claires,"
+    },
+    {
+      "start_time": "00:01:20.361",
+      "end_time": "00:01:21.080",
+      "text": "il est convaincu."
+    },
+    {
+      "start_time": "00:01:21.081",
+      "end_time": "00:01:23.760",
+      "text": "À l'inverse, si elles sont confuses ils cherchent déjà la sortie."
+    },
+    {
+      "start_time": "00:01:23.880",
+      "end_time": "00:01:25.320",
+      "text": "Ton produit ne parle pas pour lui-même,"
+    },
+    {
+      "start_time": "00:01:25.360",
+      "end_time": "00:01:26.920",
+      "text": "c'est ton design qui parle en 1er."
+    },
+    {
+      "start_time": "00:01:26.921",
+      "end_time": "00:01:28.080",
+      "text": "Donc soigne les premiers signaux"
+    },
+    {
+      "start_time": "00:01:28.081",
+      "end_time": "00:01:30.160",
+      "text": "et tu verras que tout le reste sera perçu à la hauteur."
+    }
+  ]
+}

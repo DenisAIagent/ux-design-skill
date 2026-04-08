@@ -1,0 +1,196 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:01.240",
+      "text": "You just launched a new feature,"
+    },
+    {
+      "start_time": "00:00:01.400",
+      "end_time": "00:00:02.960",
+      "text": "it took you several weeks of dev,"
+    },
+    {
+      "start_time": "00:00:03.080",
+      "end_time": "00:00:05.320",
+      "text": "the whole team is proud. Except that a week later,"
+    },
+    {
+      "start_time": "00:00:05.480",
+      "end_time": "00:00:08.200",
+      "text": "no one is using it. And at that point the reflex is to say:"
+    },
+    {
+      "start_time": "00:00:08.240",
+      "end_time": "00:00:09.160",
+      "text": "we’ll send an email,"
+    },
+    {
+      "start_time": "00:00:09.200",
+      "end_time": "00:00:11.520",
+      "text": "we’ll make an announcement or we’ll add a pop-up."
+    },
+    {
+      "start_time": "00:00:11.521",
+      "end_time": "00:00:12.880",
+      "text": "But that’s not really the problem."
+    },
+    {
+      "start_time": "00:00:12.920",
+      "end_time": "00:00:14.520",
+      "text": "The problem is you put a feature into your"
+    },
+    {
+      "start_time": "00:00:14.680",
+      "end_time": "00:00:17.254",
+      "text": "product without thinking about how your user would discover it,"
+    },
+    {
+      "start_time": "00:00:17.520",
+      "end_time": "00:00:20.480",
+      "text": "understand it and above all realize what it changes for them."
+    },
+    {
+      "start_time": "00:00:20.481",
+      "end_time": "00:00:22.440",
+      "text": "A feature that isn’t adopted is a"
+    },
+    {
+      "start_time": "00:00:23.040",
+      "end_time": "00:00:24.080",
+      "text": "invisible feature. And for it to be adopted,"
+    },
+    {
+      "start_time": "00:00:24.200",
+      "end_time": "00:00:25.160",
+      "text": "there are 4 things to do."
+    },
+    {
+      "start_time": "00:00:25.161",
+      "end_time": "00:00:28.400",
+      "text": "First, you have to put it on your user’s path."
+    },
+    {
+      "start_time": "00:00:28.440",
+      "end_time": "00:00:30.200",
+      "text": "Not in a side menu or in a"
+    },
+    {
+      "start_time": "00:00:30.760",
+      "end_time": "00:00:31.600",
+      "text": "notification they’ll ignore,"
+    },
+    {
+      "start_time": "00:00:31.640",
+      "end_time": "00:00:33.560",
+      "text": "but on the path they already take every day."
+    },
+    {
+      "start_time": "00:00:33.561",
+      "end_time": "00:00:34.960",
+      "text": "For example, in a SaaS for HR,"
+    },
+    {
+      "start_time": "00:00:35.080",
+      "end_time": "00:00:37.280",
+      "text": "if you launch a candidate scoring feature,"
+    },
+    {
+      "start_time": "00:00:37.320",
+      "end_time": "00:00:39.720",
+      "text": "it has to appear directly in the candidate list,"
+    },
+    {
+      "start_time": "00:00:39.760",
+      "end_time": "00:00:41.800",
+      "text": "where your user goes every morning."
+    },
+    {
+      "start_time": "00:00:41.840",
+      "end_time": "00:00:45.240",
+      "text": "Second, you have to tell them what it changes for them, not what it does."
+    },
+    {
+      "start_time": "00:00:45.280",
+      "end_time": "00:00:46.120",
+      "text": "So you don’t say"
+    },
+    {
+      "start_time": "00:00:46.360",
+      "end_time": "00:00:47.840",
+      "text": "“discover automatic scoring”,"
+    },
+    {
+      "start_time": "00:00:47.920",
+      "end_time": "00:00:50.960",
+      "text": "but “find your best candidates in 30 seconds”."
+    },
+    {
+      "start_time": "00:00:51.000",
+      "end_time": "00:00:54.160",
+      "text": "The difference is between describing a feature and selling a result."
+    },
+    {
+      "start_time": "00:00:54.200",
+      "end_time": "00:00:57.000",
+      "text": "Third, you have to give them a reason to try it now."
+    },
+    {
+      "start_time": "00:00:57.001",
+      "end_time": "00:00:59.960",
+      "text": "So not “learn more” or “watch the demo”, but an action"
+    },
+    {
+      "start_time": "00:01:00.200",
+      "end_time": "00:01:02.120",
+      "text": "that’s immediate, in the context they’re in."
+    },
+    {
+      "start_time": "00:01:02.240",
+      "end_time": "00:01:05.080",
+      "text": "“Score your current candidates in 1 click”. And fourth,"
+    },
+    {
+      "start_time": "00:01:05.200",
+      "end_time": "00:01:07.640",
+      "text": "you create a dedicated mini onboarding for it."
+    },
+    {
+      "start_time": "00:01:07.641",
+      "end_time": "00:01:08.440",
+      "text": "Once they’ve clicked,"
+    },
+    {
+      "start_time": "00:01:08.560",
+      "end_time": "00:01:10.360",
+      "text": "you don’t leave them to figure it out on their own."
+    },
+    {
+      "start_time": "00:01:10.480",
+      "end_time": "00:01:11.960",
+      "text": "2 or 3 steps max,"
+    },
+    {
+      "start_time": "00:01:12.120",
+      "end_time": "00:01:14.560",
+      "text": "just enough for them to reach the value of the feature"
+    },
+    {
+      "start_time": "00:01:14.920",
+      "end_time": "00:01:16.120",
+      "text": "before they’ve fully set everything up."
+    },
+    {
+      "start_time": "00:01:16.121",
+      "end_time": "00:01:17.360",
+      "text": "Because launching a feature"
+    },
+    {
+      "start_time": "00:01:17.440",
+      "end_time": "00:01:20.440",
+      "text": "is not just development, it’s also journey design."
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.920",
+      "text": "Allez je te donne 1 raccourci UX que personne n'utilise mais qui peut faire"
+    },
+    {
+      "start_time": "00:00:03.200",
+      "end_time": "00:00:04.360",
+      "text": "exploser ton taux d'activation."
+    },
+    {
+      "start_time": "00:00:04.400",
+      "end_time": "00:00:05.840",
+      "text": "L’onboarding adaptatif."
+    },
+    {
+      "start_time": "00:00:05.960",
+      "end_time": "00:00:07.760",
+      "text": "La plupart des SaaS n'ont qu'un seul onboarding."
+    },
+    {
+      "start_time": "00:00:07.800",
+      "end_time": "00:00:09.080",
+      "text": "Tout le monde passe par les mêmes écrans,"
+    },
+    {
+      "start_time": "00:00:09.200",
+      "end_time": "00:00:10.040",
+      "text": "les mêmes étapes,"
+    },
+    {
+      "start_time": "00:00:10.041",
+      "end_time": "00:00:12.720",
+      "text": "les mêmes questions, peu importe qui tu es et ce que tu veux faire."
+    },
+    {
+      "start_time": "00:00:12.721",
+      "end_time": "00:00:15.480",
+      "text": "Le problème, c'est que tes utilisateurs n'ont pas tous les mêmes besoins."
+    },
+    {
+      "start_time": "00:00:15.481",
+      "end_time": "00:00:17.800",
+      "text": "Par exemple, sur 1 SaaS de gestion de projet 1 freelance"
+    },
+    {
+      "start_time": "00:00:17.801",
+      "end_time": "00:00:19.974",
+      "text": "solo n'aura pas les mêmes attentes qu'un chef de projet"
+    },
+    {
+      "start_time": "00:00:20.280",
+      "end_time": "00:00:21.760",
+      "text": "qui gère 1 équipe de 20 personnes."
+    },
+    {
+      "start_time": "00:00:21.800",
+      "end_time": "00:00:23.760",
+      "text": "Le freelance veut suivre ses propres tâches"
+    },
+    {
+      "start_time": "00:00:23.880",
+      "end_time": "00:00:26.880",
+      "text": "alors que le chef de projet veut coordonner son équipe et voir l'avancement"
+    },
+    {
+      "start_time": "00:00:27.120",
+      "end_time": "00:00:28.720",
+      "text": "global. Si tu leur montres le même onboarding,"
+    },
+    {
+      "start_time": "00:00:28.800",
+      "end_time": "00:00:30.600",
+      "text": "l'un des 2 va se perdre et celui qui se perd,"
+    },
+    {
+      "start_time": "00:00:30.720",
+      "end_time": "00:00:33.240",
+      "text": "il part. Maintenant imagine que dès la 1ère étape tu poses"
+    },
+    {
+      "start_time": "00:00:33.520",
+      "end_time": "00:00:36.880",
+      "text": "1 question simple « comment tu utilises principalement cet outil ? ». Seul,"
+    },
+    {
+      "start_time": "00:00:37.080",
+      "end_time": "00:00:38.160",
+      "text": "avec 1 petite équipe,"
+    },
+    {
+      "start_time": "00:00:38.280",
+      "end_time": "00:00:41.760",
+      "text": "avec 1 grande équipe. Et selon la réponse, son onboarding change complètement."
+    },
+    {
+      "start_time": "00:00:41.800",
+      "end_time": "00:00:42.720",
+      "text": "Le freelance arrive"
+    },
+    {
+      "start_time": "00:00:43.000",
+      "end_time": "00:00:44.880",
+      "text": "directement sur la création de son 1er projet"
+    },
+    {
+      "start_time": "00:00:44.920",
+      "end_time": "00:00:47.560",
+      "text": "et le chef de projet arrive sur l'invitation de son équipe,"
+    },
+    {
+      "start_time": "00:00:47.561",
+      "end_time": "00:00:49.360",
+      "text": "et la création d'un projet collaboratif."
+    },
+    {
+      "start_time": "00:00:49.600",
+      "end_time": "00:00:51.360",
+      "text": "Ce 2e scénario change complètement la donne."
+    },
+    {
+      "start_time": "00:00:51.440",
+      "end_time": "00:00:53.480",
+      "text": "Déjà parce que ton utilisateur a l'impression que ton"
+    },
+    {
+      "start_time": "00:00:53.640",
+      "end_time": "00:00:54.680",
+      "text": "produit a été fait pour lui"
+    },
+    {
+      "start_time": "00:00:54.760",
+      "end_time": "00:00:55.760",
+      "text": "et pas pour tout le monde."
+    },
+    {
+      "start_time": "00:00:55.800",
+      "end_time": "00:00:57.000",
+      "text": "Et ensuite parce que tu lui montres"
+    },
+    {
+      "start_time": "00:00:57.200",
+      "end_time": "00:00:59.280",
+      "text": "uniquement ce qui est pertinent pour son usage."
+    },
+    {
+      "start_time": "00:00:59.320",
+      "end_time": "00:01:01.960",
+      "text": "Pas de features inutiles ni d'étapes qui ne le concernent pas."
+    },
+    {
+      "start_time": "00:01:02.000",
+      "end_time": "00:01:04.320",
+      "text": "Donc tu raccourcis son chemin vers son aha moment."
+    },
+    {
+      "start_time": "00:01:04.440",
+      "end_time": "00:01:07.320",
+      "text": "Ce qui fait que chaque profil a son propre raccourci vers la valeur."
+    },
+    {
+      "start_time": "00:01:07.520",
+      "end_time": "00:01:08.640",
+      "text": "Résultat : moins d'abandon,"
+    },
+    {
+      "start_time": "00:01:08.800",
+      "end_time": "00:01:11.920",
+      "text": "plus d'activation et des utilisateurs qui ont l'impression d'avoir trouvé"
+    },
+    {
+      "start_time": "00:01:12.440",
+      "end_time": "00:01:13.320",
+      "text": "exactement ce qu'ils cherchaient."
+    }
+  ]
+}

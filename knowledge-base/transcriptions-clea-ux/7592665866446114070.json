@@ -1,0 +1,156 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.240",
+      "text": "Aujourd'hui je te donne 5 leviers de gamification"
+    },
+    {
+      "start_time": "00:00:02.320",
+      "end_time": "00:00:04.640",
+      "text": "pour éviter la fuite des utilisateurs de ton SaaS."
+    },
+    {
+      "start_time": "00:00:04.800",
+      "end_time": "00:00:07.280",
+      "text": "1er levier, rendre l'effort visible."
+    },
+    {
+      "start_time": "00:00:07.480",
+      "end_time": "00:00:10.600",
+      "text": "Quand l'utilisateur agit il doit voir quelque chose qui avance."
+    },
+    {
+      "start_time": "00:00:10.720",
+      "end_time": "00:00:11.640",
+      "text": "barre de progression,"
+    },
+    {
+      "start_time": "00:00:11.880",
+      "end_time": "00:00:14.840",
+      "text": "checkliste qui se coche, état « en cours » ou « terminé »."
+    },
+    {
+      "start_time": "00:00:14.960",
+      "end_time": "00:00:16.840",
+      "text": "Même 1 petite avancée vaut mieux que le silence."
+    },
+    {
+      "start_time": "00:00:17.200",
+      "end_time": "00:00:19.760",
+      "text": "2e levier, découper les actions complexes."
+    },
+    {
+      "start_time": "00:00:19.880",
+      "end_time": "00:00:21.360",
+      "text": "1 grosse action décourage,"
+    },
+    {
+      "start_time": "00:00:21.480",
+      "end_time": "00:00:23.640",
+      "text": "alors que plusieurs petites donnent envie de continuer."
+    },
+    {
+      "start_time": "00:00:23.800",
+      "end_time": "00:00:24.640",
+      "text": "Étape numérotée,"
+    },
+    {
+      "start_time": "00:00:24.840",
+      "end_time": "00:00:26.360",
+      "text": "1 boarding en micro tâche,"
+    },
+    {
+      "start_time": "00:00:26.720",
+      "end_time": "00:00:29.040",
+      "text": "feedback Après chaque étape. On avance sans s'en rendre compte."
+    },
+    {
+      "start_time": "00:00:29.280",
+      "end_time": "00:00:30.080",
+      "text": "3e levier,"
+    },
+    {
+      "start_time": "00:00:30.160",
+      "end_time": "00:00:33.520",
+      "text": "dédramatiser l'erreur. elle ne doit jamais être 1 fin, elle doit être 1 étape."
+    },
+    {
+      "start_time": "00:00:33.680",
+      "end_time": "00:00:37.680",
+      "text": "Message d'erreur explicatif, la possibilité de corriger sans tout recommencer,"
+    },
+    {
+      "start_time": "00:00:38.120",
+      "end_time": "00:00:40.280",
+      "text": "avec 1 ton rassurant et jamais punitif."
+    },
+    {
+      "start_time": "00:00:40.400",
+      "end_time": "00:00:42.840",
+      "text": "Et là, l'utilisateur ose continuer. 4e levier,"
+    },
+    {
+      "start_time": "00:00:43.000",
+      "end_time": "00:00:44.360",
+      "text": "créer 1 continuité de reprise."
+    },
+    {
+      "start_time": "00:00:44.720",
+      "end_time": "00:00:46.360",
+      "text": "Revenir ne doit jamais demander 1 effort."
+    },
+    {
+      "start_time": "00:00:46.480",
+      "end_time": "00:00:48.640",
+      "text": "il faut leur permettre de reprendre là où ils se sont arrêtés,"
+    },
+    {
+      "start_time": "00:00:48.880",
+      "end_time": "00:00:50.240",
+      "text": "avoir 1 état sauvegardé"
+    },
+    {
+      "start_time": "00:00:50.680",
+      "end_time": "00:00:54.600",
+      "text": "et 1 prochaine action clairement visible. pas de redécision à prendre. 5e levier,"
+    },
+    {
+      "start_time": "00:00:54.880",
+      "end_time": "00:00:58.080",
+      "text": "marquer la progression dans le temps, montrer que l'utilisateur progresse."
+    },
+    {
+      "start_time": "00:00:58.200",
+      "end_time": "00:01:00.400",
+      "text": "pas par rapport aux autres mais par rapport à lui-même."
+    },
+    {
+      "start_time": "00:01:00.600",
+      "end_time": "00:01:01.880",
+      "text": "historique d'action, avant"
+    },
+    {
+      "start_time": "00:01:02.000",
+      "end_time": "00:01:03.560",
+      "text": "après, évolution visible."
+    },
+    {
+      "start_time": "00:01:03.640",
+      "end_time": "00:01:05.080",
+      "text": "Ça crée de l'engagement long terme."
+    },
+    {
+      "start_time": "00:01:05.120",
+      "end_time": "00:01:08.560",
+      "text": "La gamification n'enlève pas l’effort mais elle le rend supportable,"
+    },
+    {
+      "start_time": "00:01:08.680",
+      "end_time": "00:01:10.120",
+      "text": "et c'est souvent ce qui fait la différence."
+    }
+  ]
+}

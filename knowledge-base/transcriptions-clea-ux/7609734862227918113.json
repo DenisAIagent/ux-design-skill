@@ -1,0 +1,111 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.080",
+      "end_time": "00:00:03.000",
+      "text": "Simplifier ton parcours utilisateur ne veut pas dire tout enlever."
+    },
+    {
+      "start_time": "00:00:03.040",
+      "end_time": "00:00:03.920",
+      "text": "C'est même la pire erreur."
+    },
+    {
+      "start_time": "00:00:03.960",
+      "end_time": "00:00:04.640",
+      "text": "J'ai vu des SaaS"
+    },
+    {
+      "start_time": "00:00:04.641",
+      "end_time": "00:00:07.240",
+      "text": "avec des onboarding en 7 étapes le réduire à 2"
+    },
+    {
+      "start_time": "00:00:07.280",
+      "end_time": "00:00:08.560",
+      "text": "parce qu'il pensait que c'était trop long."
+    },
+    {
+      "start_time": "00:00:08.600",
+      "end_time": "00:00:10.720",
+      "text": "et en fait ça a donné encore plus d'abandon qu'avant."
+    },
+    {
+      "start_time": "00:00:10.721",
+      "end_time": "00:00:12.040",
+      "text": "Parce qu'en supprimant ces étapes,"
+    },
+    {
+      "start_time": "00:00:12.041",
+      "end_time": "00:00:14.760",
+      "text": "ils ont aussi supprimé le moment où l'utilisateur comprenait"
+    },
+    {
+      "start_time": "00:00:15.000",
+      "end_time": "00:00:16.160",
+      "text": "pourquoi le produit allait l'aider."
+    },
+    {
+      "start_time": "00:00:16.200",
+      "end_time": "00:00:18.440",
+      "text": "Ils ont enlevé la friction, mais aussi la valeur."
+    },
+    {
+      "start_time": "00:00:18.520",
+      "end_time": "00:00:19.760",
+      "text": "Même chose pour les landing page."
+    },
+    {
+      "start_time": "00:00:19.880",
+      "end_time": "00:00:23.440",
+      "text": "trop de textes, on vire tout, on laisse 3 lignes et 1 bouton ultra minimaliste."
+    },
+    {
+      "start_time": "00:00:23.640",
+      "end_time": "00:00:24.680",
+      "text": "Sauf qu'en virant le texte,"
+    },
+    {
+      "start_time": "00:00:24.681",
+      "end_time": "00:00:27.280",
+      "text": "ils ont aussi viré les réponses aux questions des utilisateurs."
+    },
+    {
+      "start_time": "00:00:27.360",
+      "end_time": "00:00:28.960",
+      "text": "C'est pour qui ? Ça fait quoi exactement ?"
+    },
+    {
+      "start_time": "00:00:29.080",
+      "end_time": "00:00:30.040",
+      "text": "Est-ce que c'est fait pour moi ?"
+    },
+    {
+      "start_time": "00:00:30.041",
+      "end_time": "00:00:31.280",
+      "text": "Plus personne ne trouve les réponses,"
+    },
+    {
+      "start_time": "00:00:31.281",
+      "end_time": "00:00:34.000",
+      "text": "donc plus personne ne clique et le taux de conversion chute."
+    },
+    {
+      "start_time": "00:00:34.040",
+      "end_time": "00:00:35.400",
+      "text": "La vérité c'est que simplifier,"
+    },
+    {
+      "start_time": "00:00:35.480",
+      "end_time": "00:00:38.520",
+      "text": "c'est pas tout enlever, mais c'est structurer et hiérarchiser."
+    },
+    {
+      "start_time": "00:00:38.560",
+      "end_time": "00:00:43.400",
+      "text": "C'est identifier ce qui guide ton utilisateur et réarranger ce qui le ralentit."
+    }
+  ]
+}

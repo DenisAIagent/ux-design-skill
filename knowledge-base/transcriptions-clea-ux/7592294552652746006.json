@@ -1,0 +1,186 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:01.680",
+      "text": "Quand 1 utilisateur reste dans 1 SaaS"
+    },
+    {
+      "start_time": "00:00:01.681",
+      "end_time": "00:00:03.920",
+      "text": "ce n'est pas uniquement parce que les fonctionnalités sont bonnes."
+    },
+    {
+      "start_time": "00:00:03.960",
+      "end_time": "00:00:06.720",
+      "text": "La rétention repose sur des mécanismes beaucoup plus profonds."
+    },
+    {
+      "start_time": "00:00:06.760",
+      "end_time": "00:00:10.280",
+      "text": "Et je vais t'en montrer 3 en prenant 1 seul exemple, Duolingo."
+    },
+    {
+      "start_time": "00:00:10.440",
+      "end_time": "00:00:12.400",
+      "text": "Alors oui, Duolingo est 1 app grand publique."
+    },
+    {
+      "start_time": "00:00:12.480",
+      "end_time": "00:00:15.360",
+      "text": "mais la rétention repose sur les mêmes leviers humains que dans 1 SaaS."
+    },
+    {
+      "start_time": "00:00:15.720",
+      "end_time": "00:00:18.200",
+      "text": "Et Sur ce sujet, Duolingo est 1 vraie masterclass."
+    },
+    {
+      "start_time": "00:00:18.320",
+      "end_time": "00:00:19.320",
+      "text": "Pilier N° 1,"
+    },
+    {
+      "start_time": "00:00:19.440",
+      "end_time": "00:00:23.160",
+      "text": "la psychologie de l'attachement. l'utilisateur reste quand il se sent reconnu,"
+    },
+    {
+      "start_time": "00:00:23.240",
+      "end_time": "00:00:25.480",
+      "text": "quand le produit reconnaît sa présence, ses efforts,"
+    },
+    {
+      "start_time": "00:00:25.560",
+      "end_time": "00:00:26.360",
+      "text": "sa progression."
+    },
+    {
+      "start_time": "00:00:26.400",
+      "end_time": "00:00:28.040",
+      "text": "Duolingo te rappelle ta série de jours,"
+    },
+    {
+      "start_time": "00:00:28.080",
+      "end_time": "00:00:30.000",
+      "text": "l'app te félicite, et quand tu ne reviens pas,"
+    },
+    {
+      "start_time": "00:00:30.080",
+      "end_time": "00:00:31.040",
+      "text": "ton absence est remarquée."
+    },
+    {
+      "start_time": "00:00:31.160",
+      "end_time": "00:00:35.120",
+      "text": "très remarquée même. Et ça, ça crée de l'attachement émotionnel. Pilier N° 2,"
+    },
+    {
+      "start_time": "00:00:35.480",
+      "end_time": "00:00:38.360",
+      "text": "le design de rétention ou l'art de créer l'habitude."
+    },
+    {
+      "start_time": "00:00:38.520",
+      "end_time": "00:00:41.160",
+      "text": "L'utilisateur reste quand le produit devient 1 réflexe,"
+    },
+    {
+      "start_time": "00:00:41.280",
+      "end_time": "00:00:43.080",
+      "text": "pas 1 décision, ni 1 effort mental."
+    },
+    {
+      "start_time": "00:00:43.160",
+      "end_time": "00:00:46.120",
+      "text": "Quand tu ouvres duolingo, tu sais exactement quoi faire, 1 leçon,"
+    },
+    {
+      "start_time": "00:00:46.280",
+      "end_time": "00:00:47.640",
+      "text": "1 geste, 1 continuité,"
+    },
+    {
+      "start_time": "00:00:47.800",
+      "end_time": "00:00:51.040",
+      "text": "tu n'as pas besoin de réfléchir, tu agis parce que l'application te guide."
+    },
+    {
+      "start_time": "00:00:51.200",
+      "end_time": "00:00:53.280",
+      "text": "Pilier N° 3, les moments de deLight."
+    },
+    {
+      "start_time": "00:00:53.520",
+      "end_time": "00:00:55.720",
+      "text": "L'utilisateur reste aussi pour ce qu'il n'attend pas."
+    },
+    {
+      "start_time": "00:00:55.760",
+      "end_time": "00:00:58.760",
+      "text": "Ce sont des petits moments qui rendent l'expérience plus agréable que prévue."
+    },
+    {
+      "start_time": "00:00:58.800",
+      "end_time": "00:00:59.520",
+      "text": "Dans duolingo"
+    },
+    {
+      "start_time": "00:00:59.521",
+      "end_time": "00:01:00.360",
+      "text": "quand tu réussis"
+    },
+    {
+      "start_time": "00:01:00.400",
+      "end_time": "00:01:01.400",
+      "text": "l'app te félicite,"
+    },
+    {
+      "start_time": "00:01:01.440",
+      "end_time": "00:01:03.920",
+      "text": "quand tu échoues elle dédramatise et quand tu reviens"
+    },
+    {
+      "start_time": "00:01:04.040",
+      "end_time": "00:01:04.720",
+      "text": "elle t'accueille."
+    },
+    {
+      "start_time": "00:01:04.721",
+      "end_time": "00:01:06.480",
+      "text": "Ce ne sont pas des fonctionnalités clés,"
+    },
+    {
+      "start_time": "00:01:06.560",
+      "end_time": "00:01:08.880",
+      "text": "mais émotionnellement, ça compte énormément."
+    },
+    {
+      "start_time": "00:01:09.000",
+      "end_time": "00:01:11.080",
+      "text": "La rétention ne repose pas sur 1 seul levier,"
+    },
+    {
+      "start_time": "00:01:11.200",
+      "end_time": "00:01:12.840",
+      "text": "elle repose sur 1 lien Émotionnel,"
+    },
+    {
+      "start_time": "00:01:12.920",
+      "end_time": "00:01:16.000",
+      "text": "1 habitude simple et des moments positifs inattendus."
+    },
+    {
+      "start_time": "00:01:16.040",
+      "end_time": "00:01:17.200",
+      "text": "Et quand ces 3 piliers sont là,"
+    },
+    {
+      "start_time": "00:01:17.600",
+      "end_time": "00:01:18.534",
+      "text": "revenir devient naturel."
+    }
+  ]
+}

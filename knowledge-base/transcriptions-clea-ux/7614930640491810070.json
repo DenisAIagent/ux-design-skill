@@ -1,0 +1,171 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:01.440",
+      "text": "T'as sûrement Google Analytics,"
+    },
+    {
+      "start_time": "00:00:01.560",
+      "end_time": "00:00:04.120",
+      "text": "mixpanel ou autre chose équivalent sur ton produit."
+    },
+    {
+      "start_time": "00:00:04.200",
+      "end_time": "00:00:05.240",
+      "text": "Tu vois les pages visitées,"
+    },
+    {
+      "start_time": "00:00:05.360",
+      "end_time": "00:00:06.760",
+      "text": "les cliques, les taux de sortie,"
+    },
+    {
+      "start_time": "00:00:06.840",
+      "end_time": "00:00:10.040",
+      "text": "tu sais exactement à quel endroit les utilisateurs quittent ton produit,"
+    },
+    {
+      "start_time": "00:00:10.080",
+      "end_time": "00:00:10.960",
+      "text": "mais tu ne sais pas pourquoi."
+    },
+    {
+      "start_time": "00:00:11.000",
+      "end_time": "00:00:12.800",
+      "text": "Et c'est là que la plupart des fondateurs se plantent."
+    },
+    {
+      "start_time": "00:00:12.840",
+      "end_time": "00:00:15.040",
+      "text": "Par exemple, ils voient que 60% des utilisateurs"
+    },
+    {
+      "start_time": "00:00:15.280",
+      "end_time": "00:00:17.120",
+      "text": "disparaissent après avoir créé leur 1ère note."
+    },
+    {
+      "start_time": "00:00:17.320",
+      "end_time": "00:00:19.680",
+      "text": "Donc ils concluent que la feature est mauvaise, ils la refont,"
+    },
+    {
+      "start_time": "00:00:19.800",
+      "end_time": "00:00:21.760",
+      "text": "il la retravaillent, il perdent 3 semaines."
+    },
+    {
+      "start_time": "00:00:21.800",
+      "end_time": "00:00:24.280",
+      "text": "Sauf que le problème à ce moment-là, c'était pas la feature,"
+    },
+    {
+      "start_time": "00:00:24.320",
+      "end_time": "00:00:26.440",
+      "text": "c'était que l'utilisateur arrive sur 1 page vide,"
+    },
+    {
+      "start_time": "00:00:26.760",
+      "end_time": "00:00:27.560",
+      "text": "aucun exemple,"
+    },
+    {
+      "start_time": "00:00:27.561",
+      "end_time": "00:00:29.320",
+      "text": "aucun template et aucun point de départ."
+    },
+    {
+      "start_time": "00:00:29.360",
+      "end_time": "00:00:31.760",
+      "text": "Il ne sait pas quoi faire, il ne sait pas comment organiser."
+    },
+    {
+      "start_time": "00:00:31.840",
+      "end_time": "00:00:32.840",
+      "text": "Donc il ferme l'onglet."
+    },
+    {
+      "start_time": "00:00:32.880",
+      "end_time": "00:00:34.800",
+      "text": "Tes analytics t’ont montré où il est parti,"
+    },
+    {
+      "start_time": "00:00:34.801",
+      "end_time": "00:00:36.560",
+      "text": "mais pas ce qu'il a ressenti juste avant."
+    },
+    {
+      "start_time": "00:00:36.600",
+      "end_time": "00:00:39.720",
+      "text": "Et pour comprendre ça, il y a 4 choses que je fais si, systématiquement."
+    },
+    {
+      "start_time": "00:00:39.800",
+      "end_time": "00:00:41.400",
+      "text": "Déjà, je regarde la session replay."
+    },
+    {
+      "start_time": "00:00:41.480",
+      "end_time": "00:00:43.320",
+      "text": "Je regarde l'utilisateur navigué pour de vrai,"
+    },
+    {
+      "start_time": "00:00:43.400",
+      "end_time": "00:00:44.240",
+      "text": "ses hésitations,"
+    },
+    {
+      "start_time": "00:00:44.400",
+      "end_time": "00:00:46.280",
+      "text": "ses allers-retours, les endroits où il bloque."
+    },
+    {
+      "start_time": "00:00:46.440",
+      "end_time": "00:00:48.960",
+      "text": "Ensuite, j'analyse ce qu'il fait juste avant de partir."
+    },
+    {
+      "start_time": "00:00:48.961",
+      "end_time": "00:00:51.440",
+      "text": "Pas l'écran où il quitte, mais les 2 ou 3 actions qui précèdent."
+    },
+    {
+      "start_time": "00:00:51.441",
+      "end_time": "00:00:53.800",
+      "text": "Puis je mets 1 micro sondage au bon moment dans le produit."
+    },
+    {
+      "start_time": "00:00:53.840",
+      "end_time": "00:00:54.640",
+      "text": "1 seule question,"
+    },
+    {
+      "start_time": "00:00:54.680",
+      "end_time": "00:00:55.480",
+      "text": "qu'est-ce qui t'a manqué ?"
+    },
+    {
+      "start_time": "00:00:55.481",
+      "end_time": "00:00:58.440",
+      "text": "Et quand c'est possible, je contacte les utilisateurs qui sont partis."
+    },
+    {
+      "start_time": "00:00:58.480",
+      "end_time": "00:01:00.400",
+      "text": "Pas pour les reconvertir, mais pour comprendre."
+    },
+    {
+      "start_time": "00:01:00.440",
+      "end_time": "00:01:04.120",
+      "text": "Parce que tes analytics te disent quoi alors que lui UX t'explique pourquoi ?"
+    },
+    {
+      "start_time": "00:01:04.121",
+      "end_time": "00:01:05.440",
+      "text": "Et crois-moi, c'est pas la même chose."
+    }
+  ]
+}

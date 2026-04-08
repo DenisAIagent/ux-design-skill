@@ -1,0 +1,606 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:03.640",
+      "end_time": "00:00:05.520",
+      "text": "So here we are on the landing page."
+    },
+    {
+      "start_time": "00:00:05.760",
+      "end_time": "00:00:09.280",
+      "text": "And already, first of all, what I can see is that"
+    },
+    {
+      "start_time": "00:00:10.240",
+      "end_time": "00:00:13.000",
+      "text": "in the hero section we understand everything right away,"
+    },
+    {
+      "start_time": "00:00:13.280",
+      "end_time": "00:00:16.600",
+      "text": "the value proposition is clear, so we’re going to take care of our links"
+    },
+    {
+      "start_time": "00:00:16.800",
+      "end_time": "00:00:18.200",
+      "text": "so create them, manage them,"
+    },
+    {
+      "start_time": "00:00:18.520",
+      "end_time": "00:00:23.080",
+      "text": "and on top of that, we have all the features offered."
+    },
+    {
+      "start_time": "00:00:23.200",
+      "end_time": "00:00:26.560",
+      "text": "So really, for this hero section, I have almost nothing to say."
+    },
+    {
+      "start_time": "00:00:26.920",
+      "end_time": "00:00:29.120",
+      "text": "And honestly the design is really nice, I like it a lot."
+    },
+    {
+      "start_time": "00:00:29.280",
+      "end_time": "00:00:32.080",
+      "text": "We have a little preview of the SaaS, that’s really good."
+    },
+    {
+      "start_time": "00:00:32.280",
+      "end_time": "00:00:33.320",
+      "text": "And on top of that,"
+    },
+    {
+      "start_time": "00:00:33.440",
+      "end_time": "00:00:36.880",
+      "text": "a very good point is having put these little bullets under the CTA."
+    },
+    {
+      "start_time": "00:00:37.280",
+      "end_time": "00:00:38.920",
+      "text": "That removes friction"
+    },
+    {
+      "start_time": "00:00:39.440",
+      "end_time": "00:00:43.120",
+      "text": "and it’s really, it’s really a plus to have done that. So bravo."
+    },
+    {
+      "start_time": "00:00:43.440",
+      "end_time": "00:00:45.280",
+      "text": "So let’s go, we’re going to"
+    },
+    {
+      "start_time": "00:00:46.000",
+      "end_time": "00:00:47.440",
+      "text": "start for free right now."
+    },
+    {
+      "start_time": "00:00:47.760",
+      "end_time": "00:00:50.080",
+      "text": "What I can already see is that"
+    },
+    {
+      "start_time": "00:00:51.040",
+      "end_time": "00:00:53.360",
+      "text": "another very good point, haha."
+    },
+    {
+      "start_time": "00:00:53.880",
+      "end_time": "00:00:56.720",
+      "text": "Here we have a recap of the features,"
+    },
+    {
+      "start_time": "00:00:56.760",
+      "end_time": "00:00:58.440",
+      "text": "so of what’s offered in the product,"
+    },
+    {
+      "start_time": "00:00:58.480",
+      "end_time": "00:00:59.360",
+      "text": "that’s a very good thing."
+    },
+    {
+      "start_time": "00:00:59.600",
+      "end_time": "00:01:01.560",
+      "text": "And on top of that, we only have"
+    },
+    {
+      "start_time": "00:01:01.960",
+      "end_time": "00:01:06.920",
+      "text": "two fields. So email and password. For this kind of SaaS,"
+    },
+    {
+      "start_time": "00:01:07.240",
+      "end_time": "00:01:09.760",
+      "text": "you don’t need more and it reduces all the friction."
+    },
+    {
+      "start_time": "00:01:09.800",
+      "end_time": "00:01:10.920",
+      "text": "So that’s a very good thing."
+    },
+    {
+      "start_time": "00:01:10.960",
+      "end_time": "00:01:12.720",
+      "text": "So “Create my profile for free.”"
+    },
+    {
+      "start_time": "00:01:13.120",
+      "end_time": "00:01:14.800",
+      "text": "Honestly, the wording is very good"
+    },
+    {
+      "start_time": "00:01:15.600",
+      "end_time": "00:01:18.600",
+      "text": "from what I can see. Okay, we land on the interface"
+    },
+    {
+      "start_time": "00:01:19.160",
+      "end_time": "00:01:20.920",
+      "text": "and the first thing I see,"
+    },
+    {
+      "start_time": "00:01:21.120",
+      "end_time": "00:01:21.920",
+      "text": "there’s no onboarding,"
+    },
+    {
+      "start_time": "00:01:22.000",
+      "end_time": "00:01:25.920",
+      "text": "we land directly and in the end it’s up to us to know what to do."
+    },
+    {
+      "start_time": "00:01:25.960",
+      "end_time": "00:01:27.880",
+      "text": "We have some stats here,"
+    },
+    {
+      "start_time": "00:01:28.480",
+      "end_time": "00:01:30.960",
+      "text": "quick actions. It’s a good thing to put quick actions,"
+    },
+    {
+      "start_time": "00:01:31.120",
+      "end_time": "00:01:32.640",
+      "text": "you just shouldn’t have too many either"
+    },
+    {
+      "start_time": "00:01:32.680",
+      "end_time": "00:01:34.760",
+      "text": "to avoid losing the user, who might think,"
+    },
+    {
+      "start_time": "00:01:34.761",
+      "end_time": "00:01:35.680",
+      "text": "“What do I start with?”"
+    },
+    {
+      "start_time": "00:01:35.720",
+      "end_time": "00:01:36.520",
+      "text": "“What do I have to do?”"
+    },
+    {
+      "start_time": "00:01:36.640",
+      "end_time": "00:01:38.920",
+      "text": "Especially since here we don’t have any checklist"
+    },
+    {
+      "start_time": "00:01:39.480",
+      "end_time": "00:01:40.960",
+      "text": "or anything guided."
+    },
+    {
+      "start_time": "00:01:41.080",
+      "end_time": "00:01:44.840",
+      "text": "So I’m going to browse the SaaS a bit, you can directly create a link,"
+    },
+    {
+      "start_time": "00:01:45.640",
+      "end_time": "00:01:49.040",
+      "text": "create a collection, I imagine that’s the projects,"
+    },
+    {
+      "start_time": "00:01:49.520",
+      "end_time": "00:01:52.280",
+      "text": "and make a link in bio, so a link in bio profile."
+    },
+    {
+      "start_time": "00:01:52.320",
+      "end_time": "00:01:55.120",
+      "text": "Okay, and we have all the recent activity with"
+    },
+    {
+      "start_time": "00:01:55.600",
+      "end_time": "00:01:57.440",
+      "text": "again the option to create a link."
+    },
+    {
+      "start_time": "00:01:58.040",
+      "end_time": "00:02:01.800",
+      "text": "Very good. Here we have all the links listed."
+    },
+    {
+      "start_time": "00:02:01.840",
+      "end_time": "00:02:04.080",
+      "text": "A good thing I see that’s been done"
+    },
+    {
+      "start_time": "00:02:04.400",
+      "end_time": "00:02:06.960",
+      "text": "is putting a CTA"
+    },
+    {
+      "start_time": "00:02:07.360",
+      "end_time": "00:02:09.400",
+      "text": "directly to create a link instead of leaving"
+    },
+    {
+      "start_time": "00:02:09.680",
+      "end_time": "00:02:11.080",
+      "text": "something empty with the text"
+    },
+    {
+      "start_time": "00:02:11.360",
+      "end_time": "00:02:12.800",
+      "text": "“no data” like I used to put"
+    },
+    {
+      "start_time": "00:02:13.040",
+      "end_time": "00:02:14.520",
+      "text": "like I used to say in an earlier video."
+    },
+    {
+      "start_time": "00:02:15.120",
+      "end_time": "00:02:17.200",
+      "text": "So that’s a very good thing to have done."
+    },
+    {
+      "start_time": "00:02:17.280",
+      "end_time": "00:02:20.040",
+      "text": "Same for projects, very good. The contacts,"
+    },
+    {
+      "start_time": "00:02:20.480",
+      "end_time": "00:02:23.280",
+      "text": "no contacts, so I imagine that’s generated via the links"
+    },
+    {
+      "start_time": "00:02:23.600",
+      "end_time": "00:02:26.120",
+      "text": "when we do email capture. The profile"
+    },
+    {
+      "start_time": "00:02:26.720",
+      "end_time": "00:02:27.520",
+      "text": "that will come"
+    },
+    {
+      "start_time": "00:02:28.400",
+      "end_time": "00:02:32.800",
+      "text": "later. Okay. It’s good to have put a preview, it’s good because it"
+    },
+    {
+      "start_time": "00:02:33.960",
+      "end_time": "00:02:36.320",
+      "text": "helps create a bit of excitement"
+    },
+    {
+      "start_time": "00:02:36.760",
+      "end_time": "00:02:39.480",
+      "text": "and so keeps the user"
+    },
+    {
+      "start_time": "00:02:40.480",
+      "end_time": "00:02:43.560",
+      "text": "until, until that future feature arrives. That’s good."
+    },
+    {
+      "start_time": "00:02:44.000",
+      "end_time": "00:02:46.000",
+      "text": "Choose the plan. Well, up to here,"
+    },
+    {
+      "start_time": "00:02:46.920",
+      "end_time": "00:02:48.120",
+      "text": "with a “Contact us.”"
+    },
+    {
+      "start_time": "00:02:48.960",
+      "end_time": "00:02:51.280",
+      "text": "Perfect. And the settings, okay, perfect."
+    },
+    {
+      "start_time": "00:02:51.880",
+      "end_time": "00:02:54.400",
+      "text": "So what I could say to increase"
+    },
+    {
+      "start_time": "00:02:54.440",
+      "end_time": "00:02:57.000",
+      "text": "this notion of user experience in your SaaS"
+    },
+    {
+      "start_time": "00:02:57.080",
+      "end_time": "00:02:59.400",
+      "text": "in the end, what could be good to do"
+    },
+    {
+      "start_time": "00:02:59.920",
+      "end_time": "00:03:02.920",
+      "text": "would be to create a guided onboarding"
+    },
+    {
+      "start_time": "00:03:03.480",
+      "end_time": "00:03:04.880",
+      "text": "in which"
+    },
+    {
+      "start_time": "00:03:05.240",
+      "end_time": "00:03:08.560",
+      "text": "you immediately have them create their first link."
+    },
+    {
+      "start_time": "00:03:08.640",
+      "end_time": "00:03:12.120",
+      "text": "Actually, that’s what we call the “aha moment” there, in your SaaS"
+    },
+    {
+      "start_time": "00:03:12.200",
+      "end_time": "00:03:14.160",
+      "text": "the goal is to create and manage links."
+    },
+    {
+      "start_time": "00:03:14.400",
+      "end_time": "00:03:17.760",
+      "text": "So instead of leaving them alone"
+    },
+    {
+      "start_time": "00:03:18.160",
+      "end_time": "00:03:19.080",
+      "text": "to discover the SaaS,"
+    },
+    {
+      "start_time": "00:03:19.240",
+      "end_time": "00:03:20.360",
+      "text": "what would be good would be"
+    },
+    {
+      "start_time": "00:03:20.680",
+      "end_time": "00:03:24.280",
+      "text": "to immediately have them create their first link by guiding them,"
+    },
+    {
+      "start_time": "00:03:24.600",
+      "end_time": "00:03:27.040",
+      "text": "so telling them, “Here, you’ve landed on the dashboard,"
+    },
+    {
+      "start_time": "00:03:27.400",
+      "end_time": "00:03:28.600",
+      "text": "it’s time to create the first link,"
+    },
+    {
+      "start_time": "00:03:28.880",
+      "end_time": "00:03:32.080",
+      "text": "the first link.” So for example, it could be with hotspots,"
+    },
+    {
+      "start_time": "00:03:32.320",
+      "end_time": "00:03:33.680",
+      "text": "it could be"
+    },
+    {
+      "start_time": "00:03:34.040",
+      "end_time": "00:03:37.120",
+      "text": "like a kind of tutorial where you guide them,"
+    },
+    {
+      "start_time": "00:03:37.360",
+      "end_time": "00:03:39.160",
+      "text": "it can be through different means."
+    },
+    {
+      "start_time": "00:03:39.200",
+      "end_time": "00:03:41.360",
+      "text": "Or it could even be before entering the SaaS,"
+    },
+    {
+      "start_time": "00:03:41.361",
+      "end_time": "00:03:42.560",
+      "text": "once the sign-up is done,"
+    },
+    {
+      "start_time": "00:03:43.000",
+      "end_time": "00:03:45.640",
+      "text": "instead of showing the dashboard directly,"
+    },
+    {
+      "start_time": "00:03:45.760",
+      "end_time": "00:03:48.360",
+      "text": "you show the dashboard in the background with a pop-up"
+    },
+    {
+      "start_time": "00:03:48.640",
+      "end_time": "00:03:50.880",
+      "text": "to have them create their first link right away."
+    },
+    {
+      "start_time": "00:03:50.960",
+      "end_time": "00:03:52.960",
+      "text": "So here, how does it work? There’s a new link."
+    },
+    {
+      "start_time": "00:03:53.920",
+      "end_time": "00:03:55.480",
+      "text": "There. It would be to put a pop-up"
+    },
+    {
+      "start_time": "00:03:55.800",
+      "end_time": "00:03:59.920",
+      "text": "or immediately have them create their first link so they get a first win"
+    },
+    {
+      "start_time": "00:04:00.320",
+      "end_time": "00:04:02.440",
+      "text": "pretty quickly, and they get that"
+    },
+    {
+      "start_time": "00:04:02.640",
+      "end_time": "00:04:04.200",
+      "text": "aha moment. That thing of, “Okay,"
+    },
+    {
+      "start_time": "00:04:04.201",
+      "end_time": "00:04:07.920",
+      "text": "I’ve arrived, and in 2 minutes I created my first link and I already"
+    },
+    {
+      "start_time": "00:04:08.280",
+      "end_time": "00:04:12.760",
+      "text": "it’s already set up.” So at that point, you have them create it directly,"
+    },
+    {
+      "start_time": "00:04:13.480",
+      "end_time": "00:04:14.280",
+      "text": "upload the link,"
+    },
+    {
+      "start_time": "00:04:14.480",
+      "end_time": "00:04:15.760",
+      "text": "and actually at the end"
+    },
+    {
+      "start_time": "00:04:16.720",
+      "end_time": "00:04:18.600",
+      "text": "you have them add the little details."
+    },
+    {
+      "start_time": "00:04:20.240",
+      "end_time": "00:04:22.200",
+      "text": "There. So now I see—I see how it works."
+    },
+    {
+      "start_time": "00:04:22.201",
+      "end_time": "00:04:23.440",
+      "text": "It’s pretty good, the little detail"
+    },
+    {
+      "start_time": "00:04:23.520",
+      "end_time": "00:04:25.080",
+      "text": "you can add a pre-view image,"
+    },
+    {
+      "start_time": "00:04:25.160",
+      "end_time": "00:04:26.480",
+      "text": "that’s cool. There’s already one."
+    },
+    {
+      "start_time": "00:04:26.960",
+      "end_time": "00:04:29.520",
+      "text": "You can add a description, you can choose a project."
+    },
+    {
+      "start_time": "00:04:29.920",
+      "end_time": "00:04:30.720",
+      "text": "That"
+    },
+    {
+      "start_time": "00:04:30.800",
+      "end_time": "00:04:34.720",
+      "text": "isn’t necessarily mandatory to put it at the start of the onboarding, the project,"
+    },
+    {
+      "start_time": "00:04:35.160",
+      "end_time": "00:04:37.520",
+      "text": "but just for creating the link, okay."
+    },
+    {
+      "start_time": "00:04:38.080",
+      "end_time": "00:04:40.160",
+      "text": "And same for the squeeze page,"
+    },
+    {
+      "start_time": "00:04:40.161",
+      "end_time": "00:04:42.760",
+      "text": "not necessarily in the onboarding either because you shouldn’t put too much,"
+    },
+    {
+      "start_time": "00:04:42.800",
+      "end_time": "00:04:44.680",
+      "text": "you really need to highlight one feature."
+    },
+    {
+      "start_time": "00:04:45.120",
+      "end_time": "00:04:48.480",
+      "text": "You have them create the link there, you put confetti everywhere,"
+    },
+    {
+      "start_time": "00:04:48.720",
+      "end_time": "00:04:52.480",
+      "text": "maybe not confetti, but you give micro wins to tell them,"
+    },
+    {
+      "start_time": "00:04:52.481",
+      "end_time": "00:04:54.000",
+      "text": "“There, you’ve created your first link.”"
+    },
+    {
+      "start_time": "00:04:54.280",
+      "end_time": "00:04:58.560",
+      "text": "and then add little hotspots, for example in the “My projects” section"
+    },
+    {
+      "start_time": "00:04:59.000",
+      "end_time": "00:05:01.160",
+      "text": "so they see here: “You can"
+    },
+    {
+      "start_time": "00:05:01.440",
+      "end_time": "00:05:05.200",
+      "text": "centralize your links in different projects, etc.” And actually you guide them"
+    },
+    {
+      "start_time": "00:05:05.720",
+      "end_time": "00:05:09.640",
+      "text": "step by step, without necessarily making everything mandatory."
+    },
+    {
+      "start_time": "00:05:09.880",
+      "end_time": "00:05:13.240",
+      "text": "but it lets them discover the SaaS in a fun way"
+    },
+    {
+      "start_time": "00:05:13.280",
+      "end_time": "00:05:15.560",
+      "text": "and at the same time brings that first win and"
+    },
+    {
+      "start_time": "00:05:16.000",
+      "end_time": "00:05:18.800",
+      "text": "makes them say, “Okay, I managed to understand how it works,"
+    },
+    {
+      "start_time": "00:05:19.120",
+      "end_time": "00:05:19.920",
+      "text": "it’s simple,"
+    },
+    {
+      "start_time": "00:05:20.200",
+      "end_time": "00:05:24.240",
+      "text": "I know how to use it, and in 3 minutes I’ve understood the whole SaaS.”"
+    },
+    {
+      "start_time": "00:05:24.360",
+      "end_time": "00:05:26.440",
+      "text": "So that’s it for the little analysis, I hope you liked it,"
+    },
+    {
+      "start_time": "00:05:26.520",
+      "end_time": "00:05:30.280",
+      "text": "anyway your SaaS is really clean and I think I’m going to use it."
+    }
+  ]
+}

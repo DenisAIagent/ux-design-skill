@@ -1,0 +1,156 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.880",
+      "text": "1 SaaS qui cartonne et qui scale repose sur 3 piliers majeurs."
+    },
+    {
+      "start_time": "00:00:02.920",
+      "end_time": "00:00:04.240",
+      "text": "Le 1er, c'est le développement."
+    },
+    {
+      "start_time": "00:00:04.320",
+      "end_time": "00:00:05.120",
+      "text": "C'est la fondation."
+    },
+    {
+      "start_time": "00:00:05.121",
+      "end_time": "00:00:06.720",
+      "text": "Sans lui, y a pas de produit. Concrètement"
+    },
+    {
+      "start_time": "00:00:06.760",
+      "end_time": "00:00:09.720",
+      "text": "le développement, c'est-ce qui fait tourner ton SaaS. La tech, les features,"
+    },
+    {
+      "start_time": "00:00:09.760",
+      "end_time": "00:00:12.200",
+      "text": "la stabilité, les performances, la sécurité."
+    },
+    {
+      "start_time": "00:00:12.240",
+      "end_time": "00:00:13.120",
+      "text": "La plupart des fondateurs"
+    },
+    {
+      "start_time": "00:00:13.240",
+      "end_time": "00:00:15.760",
+      "text": "techniques sont très à l'aise ici parce que c'est leur zone de confort."
+    },
+    {
+      "start_time": "00:00:15.840",
+      "end_time": "00:00:19.240",
+      "text": "Le 2e, c'est le marketing. C'est-ce qui fait connaître ton produit. Sans marketing,"
+    },
+    {
+      "start_time": "00:00:19.360",
+      "end_time": "00:00:21.120",
+      "text": "personne ne sait que tu existe. Pas de trafic,"
+    },
+    {
+      "start_time": "00:00:21.240",
+      "end_time": "00:00:22.520",
+      "text": "pas de lead, pas de croissance."
+    },
+    {
+      "start_time": "00:00:22.680",
+      "end_time": "00:00:25.600",
+      "text": "Beaucoup de fondateurs l’apprennent sur le tas et parfois même trop tard."
+    },
+    {
+      "start_time": "00:00:25.601",
+      "end_time": "00:00:27.680",
+      "text": "Et le 3e, c'est l’UX / UI design."
+    },
+    {
+      "start_time": "00:00:27.800",
+      "end_time": "00:00:30.360",
+      "text": "C'est le socle le plus sous-estimé des 3 et pourtant"
+    },
+    {
+      "start_time": "00:00:30.361",
+      "end_time": "00:00:32.040",
+      "text": "c'est celui qui fait la différence entre 1"
+    },
+    {
+      "start_time": "00:00:32.240",
+      "end_time": "00:00:34.215",
+      "text": "produit qu'on teste et 1 produit qu'on adopte."
+    },
+    {
+      "start_time": "00:00:34.240",
+      "end_time": "00:00:37.080",
+      "text": "Tu peux avoir la meilleure tech du monde et le meilleur marketing du monde."
+    },
+    {
+      "start_time": "00:00:37.160",
+      "end_time": "00:00:39.480",
+      "text": "Si ton utilisateur ne comprend pas ton produit en arrivant,"
+    },
+    {
+      "start_time": "00:00:39.560",
+      "end_time": "00:00:42.080",
+      "text": "s'il se perd, s'il doute, s'il voit pas la valeur rapidement,"
+    },
+    {
+      "start_time": "00:00:42.280",
+      "end_time": "00:00:45.600",
+      "text": "il part et tous tes efforts de développement et de marketing partent avec lui."
+    },
+    {
+      "start_time": "00:00:45.601",
+      "end_time": "00:00:47.200",
+      "text": "Le problème, c'est que l’UX est invisible."
+    },
+    {
+      "start_time": "00:00:47.240",
+      "end_time": "00:00:48.040",
+      "text": "Quand elle est bien faite,"
+    },
+    {
+      "start_time": "00:00:48.080",
+      "end_time": "00:00:49.680",
+      "text": "on ne relève pas 1 interface qui est fluide,"
+    },
+    {
+      "start_time": "00:00:49.800",
+      "end_time": "00:00:51.840",
+      "text": "c'est-à-dire qu'on ne commente pas 1 onboarding qui est clair."
+    },
+    {
+      "start_time": "00:00:51.880",
+      "end_time": "00:00:53.760",
+      "text": "Mais quand elle est mauvaise, on le sent immédiatement,"
+    },
+    {
+      "start_time": "00:00:53.840",
+      "end_time": "00:00:57.760",
+      "text": "on hésite, on se perd et on abandonne. Donc 1 SaaS qui investit dans les 3 socles"
+    },
+    {
+      "start_time": "00:00:57.960",
+      "end_time": "00:00:58.600",
+      "text": "convertit mieux,"
+    },
+    {
+      "start_time": "00:00:58.601",
+      "end_time": "00:01:02.080",
+      "text": "retient mieux et scale beaucoup plus vite alors qu'un SaaS qui en néglige 1"
+    },
+    {
+      "start_time": "00:01:02.160",
+      "end_time": "00:01:02.920",
+      "text": "compense en"
+    },
+    {
+      "start_time": "00:01:02.921",
+      "end_time": "00:01:05.800",
+      "text": "permanence sur les 2 autres et ça coûte beaucoup plus cher sur le long terme."
+    }
+  ]
+}

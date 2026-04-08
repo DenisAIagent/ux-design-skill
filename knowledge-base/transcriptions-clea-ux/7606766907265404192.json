@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:00.800",
+      "text": "On y pense jamais"
+    },
+    {
+      "start_time": "00:00:00.880",
+      "end_time": "00:00:02.920",
+      "text": "et pourtant ta barre de recherche pourrait littéralement"
+    },
+    {
+      "start_time": "00:00:03.080",
+      "end_time": "00:00:05.880",
+      "text": "transformer l'engagement de ton SaaS. Je te donne 3 hacks pour y arriver."
+    },
+    {
+      "start_time": "00:00:05.960",
+      "end_time": "00:00:08.360",
+      "text": "Le 1er est de montrer les recherches populaires."
+    },
+    {
+      "start_time": "00:00:08.440",
+      "end_time": "00:00:10.400",
+      "text": "Ton utilisateur a cliqué sur la barre de recherche,"
+    },
+    {
+      "start_time": "00:00:10.520",
+      "end_time": "00:00:12.440",
+      "text": "il est prêt à taper, mais juste avant,"
+    },
+    {
+      "start_time": "00:00:12.760",
+      "end_time": "00:00:15.880",
+      "text": "affiche les recherches les plus populaires. Par exemple créer 1 projet,"
+    },
+    {
+      "start_time": "00:00:16.120",
+      "end_time": "00:00:18.720",
+      "text": "inviter mon équipe, exporter mes données. Pourquoi ça marche ?"
+    },
+    {
+      "start_time": "00:00:18.840",
+      "end_time": "00:00:21.520",
+      "text": "Parce que ton utilisateur voit directement ce que les autres cherchent."
+    },
+    {
+      "start_time": "00:00:21.600",
+      "end_time": "00:00:24.000",
+      "text": "Il peut même découvrir des features qu'il ne connaissait pas."
+    },
+    {
+      "start_time": "00:00:24.120",
+      "end_time": "00:00:25.320",
+      "text": "Il clique et il explore."
+    },
+    {
+      "start_time": "00:00:25.360",
+      "end_time": "00:00:27.760",
+      "text": "Le 2e c'est d'ajouter des actions rapides."
+    },
+    {
+      "start_time": "00:00:27.800",
+      "end_time": "00:00:29.760",
+      "text": "au lieu de juste chercher de manière passive."
+    },
+    {
+      "start_time": "00:00:30.080",
+      "end_time": "00:00:31.200",
+      "text": "Propose créer 1 projet,"
+    },
+    {
+      "start_time": "00:00:31.360",
+      "end_time": "00:00:34.440",
+      "text": "ajouter 1 client ou générer 1 rapport. 1 peu comme le Spotlight sur Mac."
+    },
+    {
+      "start_time": "00:00:34.640",
+      "end_time": "00:00:35.800",
+      "text": "Ton utilisateur gagne du temps,"
+    },
+    {
+      "start_time": "00:00:35.801",
+      "end_time": "00:00:39.080",
+      "text": "il a plus besoin de naviguer dans les menus et tout est apporté de recherche."
+    },
+    {
+      "start_time": "00:00:39.240",
+      "end_time": "00:00:41.960",
+      "text": "Le 3e c'est de rendre la recherche contextuelle."
+    },
+    {
+      "start_time": "00:00:42.000",
+      "end_time": "00:00:44.120",
+      "text": "Si par exemple ton utilisateur vient de créer 1 projet,"
+    },
+    {
+      "start_time": "00:00:44.440",
+      "end_time": "00:00:47.000",
+      "text": "suggère lui ajouter des tâches à ce projet, ou alors"
+    },
+    {
+      "start_time": "00:00:47.240",
+      "end_time": "00:00:48.480",
+      "text": "inviter quelqu'un sur ce projet."
+    },
+    {
+      "start_time": "00:00:48.560",
+      "end_time": "00:00:51.240",
+      "text": "Tu anticipes son besoin suivant et il a plus besoin de chercher."
+    },
+    {
+      "start_time": "00:00:51.320",
+      "end_time": "00:00:52.560",
+      "text": "tu le guides naturellement."
+    },
+    {
+      "start_time": "00:00:52.720",
+      "end_time": "00:00:55.480",
+      "text": "Résultat ta barre de recherche n'est plus 1 simple moteur de recherche,"
+    },
+    {
+      "start_time": "00:00:55.600",
+      "end_time": "00:00:57.960",
+      "text": "mais c'est devenu le copilote de ton utilisateur."
+    }
+  ]
+}

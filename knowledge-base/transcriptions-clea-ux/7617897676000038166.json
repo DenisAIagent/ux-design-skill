@@ -1,0 +1,141 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.920",
+      "text": "There’s one psychological phenomenon that can kill your SaaS adoption rate,"
+    },
+    {
+      "start_time": "00:00:03.000",
+      "end_time": "00:00:05.920",
+      "text": "it’s the gap between intention and action. Let’s take an example,"
+    },
+    {
+      "start_time": "00:00:06.000",
+      "end_time": "00:00:08.480",
+      "text": "your user signs up for your invoicing SaaS."
+    },
+    {
+      "start_time": "00:00:08.520",
+      "end_time": "00:00:10.640",
+      "text": "They tell themselves, “I’ll send my first invoice later.”"
+    },
+    {
+      "start_time": "00:00:10.680",
+      "end_time": "00:00:12.320",
+      "text": "They close the tab and never come back."
+    },
+    {
+      "start_time": "00:00:12.321",
+      "end_time": "00:00:14.600",
+      "text": "Not because they didn’t want to, or because your product is bad,"
+    },
+    {
+      "start_time": "00:00:14.640",
+      "end_time": "00:00:17.160",
+      "text": "but because between the moment the intention was there and the moment"
+    },
+    {
+      "start_time": "00:00:17.240",
+      "end_time": "00:00:18.440",
+      "text": "you asked them to take action,"
+    },
+    {
+      "start_time": "00:00:18.480",
+      "end_time": "00:00:20.000",
+      "text": "there was way too much distance."
+    },
+    {
+      "start_time": "00:00:20.160",
+      "end_time": "00:00:21.880",
+      "text": "Because forming an intention is easy,"
+    },
+    {
+      "start_time": "00:00:22.000",
+      "end_time": "00:00:23.760",
+      "text": "whereas taking action requires effort."
+    },
+    {
+      "start_time": "00:00:23.761",
+      "end_time": "00:00:26.000",
+      "text": "And the problem is, as soon as there’s any delay between the two,"
+    },
+    {
+      "start_time": "00:00:26.120",
+      "end_time": "00:00:28.400",
+      "text": "the brain pushes it back to later. And very often, later"
+    },
+    {
+      "start_time": "00:00:28.600",
+      "end_time": "00:00:30.200",
+      "text": "becomes never. So to counter this,"
+    },
+    {
+      "start_time": "00:00:30.360",
+      "end_time": "00:00:32.840",
+      "text": "identify your user’s intention window."
+    },
+    {
+      "start_time": "00:00:32.880",
+      "end_time": "00:00:35.640",
+      "text": "It’s the exact moment when their motivation is at its peak."
+    },
+    {
+      "start_time": "00:00:35.720",
+      "end_time": "00:00:38.400",
+      "text": "And usually, that window opens right after sign-up."
+    },
+    {
+      "start_time": "00:00:38.480",
+      "end_time": "00:00:41.640",
+      "text": "Your user just created their account, they’re motivated, they’re there, they’re ready."
+    },
+    {
+      "start_time": "00:00:41.920",
+      "end_time": "00:00:45.440",
+      "text": "It’s now or never, not in a follow-up email 24 hours later, or in a"
+    },
+    {
+      "start_time": "00:00:46.000",
+      "end_time": "00:00:46.840",
+      "text": "notification 3 days later."
+    },
+    {
+      "start_time": "00:00:46.880",
+      "end_time": "00:00:49.600",
+      "text": "So your onboarding absolutely has to capture that window:"
+    },
+    {
+      "start_time": "00:00:49.760",
+      "end_time": "00:00:50.640",
+      "text": "“Add your first client,"
+    },
+    {
+      "start_time": "00:00:50.680",
+      "end_time": "00:00:54.080",
+      "text": "it takes 30 seconds.” Then “Create your first invoice, we’ve prepared a template for you.”"
+    },
+    {
+      "start_time": "00:00:54.160",
+      "end_time": "00:00:55.040",
+      "text": "One simple action,"
+    },
+    {
+      "start_time": "00:00:55.160",
+      "end_time": "00:00:57.040",
+      "text": "immediate, while the intention is still hot."
+    },
+    {
+      "start_time": "00:00:57.080",
+      "end_time": "00:01:00.240",
+      "text": "Because unfortunately, the intention window closes fast, and once it’s closed,"
+    },
+    {
+      "start_time": "00:01:00.241",
+      "end_time": "00:01:01.640",
+      "text": "it’s hard to open it again."
+    }
+  ]
+}

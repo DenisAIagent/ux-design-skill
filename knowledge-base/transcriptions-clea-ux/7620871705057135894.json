@@ -1,0 +1,181 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:01.640",
+      "text": "Here, I’ll give you one UX shortcut that reduces"
+    },
+    {
+      "start_time": "00:00:01.840",
+      "end_time": "00:00:04.080",
+      "text": "dropout in your onboarding by a lot."
+    },
+    {
+      "start_time": "00:00:04.120",
+      "end_time": "00:00:05.680",
+      "text": "The emotional progress bar."
+    },
+    {
+      "start_time": "00:00:05.760",
+      "end_time": "00:00:07.680",
+      "text": "Most SaaS have a progress bar."
+    },
+    {
+      "start_time": "00:00:07.920",
+      "end_time": "00:00:13.000",
+      "text": "Step 1/4, step 2/4. It’s informative, it’s useful, but it’s cold and mechanical,"
+    },
+    {
+      "start_time": "00:00:13.160",
+      "end_time": "00:00:14.520",
+      "text": "we don’t really know what the steps are for."
+    },
+    {
+      "start_time": "00:00:14.600",
+      "end_time": "00:00:15.960",
+      "text": "Imagine in a HR SaaS,"
+    },
+    {
+      "start_time": "00:00:16.040",
+      "end_time": "00:00:19.280",
+      "text": "a recruiter is creating their account, filling in their company info,"
+    },
+    {
+      "start_time": "00:00:19.360",
+      "end_time": "00:00:21.360",
+      "text": "setting up their space and they see at the top:"
+    },
+    {
+      "start_time": "00:00:21.520",
+      "end_time": "00:00:22.880",
+      "text": "“Step 2/4” but in the end,"
+    },
+    {
+      "start_time": "00:00:22.881",
+      "end_time": "00:00:25.840",
+      "text": "they don’t really know why they’re following these steps or what happens next."
+    },
+    {
+      "start_time": "00:00:25.880",
+      "end_time": "00:00:26.240",
+      "text": "Now"
+    },
+    {
+      "start_time": "00:00:26.241",
+      "end_time": "00:00:29.320",
+      "text": "imagine the same scenario, but at each step they see a different message."
+    },
+    {
+      "start_time": "00:00:29.440",
+      "end_time": "00:00:31.400",
+      "text": "Step 1: we’re starting, in a few minutes"
+    },
+    {
+      "start_time": "00:00:31.480",
+      "end_time": "00:00:33.640",
+      "text": "your offer will be visible to hundreds of candidates."
+    },
+    {
+      "start_time": "00:00:33.800",
+      "end_time": "00:00:34.960",
+      "text": "Step 2: well done,"
+    },
+    {
+      "start_time": "00:00:35.000",
+      "end_time": "00:00:38.160",
+      "text": "just 2 steps left and your candidates can picture themselves in your company."
+    },
+    {
+      "start_time": "00:00:38.360",
+      "end_time": "00:00:42.320",
+      "text": "Step 3: we’re almost there, just one step before publishing your offer. Step 4:"
+    },
+    {
+      "start_time": "00:00:42.520",
+      "end_time": "00:00:45.200",
+      "text": "this is it, publish and watch the applications roll in."
+    },
+    {
+      "start_time": "00:00:45.280",
+      "end_time": "00:00:46.320",
+      "text": "This second scenario"
+    },
+    {
+      "start_time": "00:00:46.640",
+      "end_time": "00:00:49.600",
+      "text": "completely changes the game. Because you’re no longer telling them where they are in a process,"
+    },
+    {
+      "start_time": "00:00:49.800",
+      "end_time": "00:00:51.480",
+      "text": "you’re telling them where they are in their goal."
+    },
+    {
+      "start_time": "00:00:51.520",
+      "end_time": "00:00:53.560",
+      "text": "And because you’re creating an emotional progression."
+    },
+    {
+      "start_time": "00:00:53.600",
+      "end_time": "00:00:54.200",
+      "text": "At each step,"
+    },
+    {
+      "start_time": "00:00:54.201",
+      "end_time": "00:00:55.600",
+      "text": "they feel something different,"
+    },
+    {
+      "start_time": "00:00:55.680",
+      "end_time": "00:00:56.800",
+      "text": "the excitement of getting started,"
+    },
+    {
+      "start_time": "00:00:56.880",
+      "end_time": "00:00:58.120",
+      "text": "the concrete progress,"
+    },
+    {
+      "start_time": "00:00:58.200",
+      "end_time": "00:01:00.040",
+      "text": "the anticipation and the sense of achievement."
+    },
+    {
+      "start_time": "00:01:00.080",
+      "end_time": "00:01:03.960",
+      "text": "A user who knows where they’re going keeps going. In the end, the emotional progress bar"
+    },
+    {
+      "start_time": "00:01:04.040",
+      "end_time": "00:01:06.560",
+      "text": "is easy to set up. At each step of your onboarding,"
+    },
+    {
+      "start_time": "00:01:06.640",
+      "end_time": "00:01:07.880",
+      "text": "ask yourself just one question:"
+    },
+    {
+      "start_time": "00:01:07.920",
+      "end_time": "00:01:09.520",
+      "text": "“What is my user feeling here,"
+    },
+    {
+      "start_time": "00:01:09.521",
+      "end_time": "00:01:12.120",
+      "text": "and above all, what will make them want to go to the next step?”"
+    },
+    {
+      "start_time": "00:01:12.400",
+      "end_time": "00:01:14.560",
+      "text": "Result: your user no longer just goes through your onboarding,"
+    },
+    {
+      "start_time": "00:01:14.640",
+      "end_time": "00:01:16.960",
+      "text": "they move forward toward something they really want to reach."
+    }
+  ]
+}

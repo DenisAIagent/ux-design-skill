@@ -1,0 +1,186 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:01.360",
+      "text": "Okay, I’ll give you one UX shortcut"
+    },
+    {
+      "start_time": "00:00:01.600",
+      "end_time": "00:00:02.160",
+      "text": "that’s often ignored"
+    },
+    {
+      "start_time": "00:00:02.161",
+      "end_time": "00:00:05.520",
+      "text": "but radically changes how fast people adopt your SaaS."
+    },
+    {
+      "start_time": "00:00:05.640",
+      "end_time": "00:00:08.600",
+      "text": "Make the search bar proactive instead of leaving it passive."
+    },
+    {
+      "start_time": "00:00:08.601",
+      "end_time": "00:00:10.360",
+      "text": "Way too many SaaS still see the search bar"
+    },
+    {
+      "start_time": "00:00:10.480",
+      "end_time": "00:00:12.520",
+      "text": "as just a simple index engine"
+    },
+    {
+      "start_time": "00:00:12.680",
+      "end_time": "00:00:14.840",
+      "text": "when it’s a real feature you can exploit."
+    },
+    {
+      "start_time": "00:00:14.960",
+      "end_time": "00:00:17.400",
+      "text": "Imagine your user is looking for a specific client."
+    },
+    {
+      "start_time": "00:00:17.600",
+      "end_time": "00:00:19.160",
+      "text": "They click on the bar, type the name,"
+    },
+    {
+      "start_time": "00:00:19.480",
+      "end_time": "00:00:21.560",
+      "text": "hit enter, the result page loads,"
+    },
+    {
+      "start_time": "00:00:21.680",
+      "end_time": "00:00:25.200",
+      "text": "they look for the right client in the list, then finally click on it. It’s slow,"
+    },
+    {
+      "start_time": "00:00:25.320",
+      "end_time": "00:00:27.920",
+      "text": "it’s frustrating, and it completely breaks the workflow."
+    },
+    {
+      "start_time": "00:00:27.960",
+      "end_time": "00:00:31.160",
+      "text": "Now imagine the same scenario, but as soon as they type the first 2 letters,"
+    },
+    {
+      "start_time": "00:00:31.200",
+      "end_time": "00:00:34.280",
+      "text": "the right client pops up with their photo and info."
+    },
+    {
+      "start_time": "00:00:34.400",
+      "end_time": "00:00:36.600",
+      "text": "Your user doesn’t even need to finish typing"
+    },
+    {
+      "start_time": "00:00:36.760",
+      "end_time": "00:00:38.920",
+      "text": "before they can click and be on their profile."
+    },
+    {
+      "start_time": "00:00:39.040",
+      "end_time": "00:00:40.360",
+      "text": "You can even go even further."
+    },
+    {
+      "start_time": "00:00:40.440",
+      "end_time": "00:00:41.240",
+      "text": "Sorry, devs."
+    },
+    {
+      "start_time": "00:00:41.241",
+      "end_time": "00:00:43.760",
+      "text": "Imagine you let them take quick actions"
+    },
+    {
+      "start_time": "00:00:44.160",
+      "end_time": "00:00:45.080",
+      "text": "directly while searching."
+    },
+    {
+      "start_time": "00:00:45.200",
+      "end_time": "00:00:47.360",
+      "text": "Like, for example, sending a message to that client"
+    },
+    {
+      "start_time": "00:00:47.520",
+      "end_time": "00:00:49.080",
+      "text": "or going straight to their profile."
+    },
+    {
+      "start_time": "00:00:49.280",
+      "end_time": "00:00:51.360",
+      "text": "Nice, right? But that’ll be the topic of another video."
+    },
+    {
+      "start_time": "00:00:51.440",
+      "end_time": "00:00:53.720",
+      "text": "So this second scenario completely changes the game."
+    },
+    {
+      "start_time": "00:00:53.760",
+      "end_time": "00:00:55.520",
+      "text": "One, because you remove the loading time."
+    },
+    {
+      "start_time": "00:00:55.600",
+      "end_time": "00:00:57.160",
+      "text": "By showing results in real time,"
+    },
+    {
+      "start_time": "00:00:57.200",
+      "end_time": "00:01:00.240",
+      "text": "you create that feeling of smoothness that makes your product feel premium."
+    },
+    {
+      "start_time": "00:01:00.280",
+      "end_time": "00:01:02.440",
+      "text": "Two, because you reduce cognitive effort."
+    },
+    {
+      "start_time": "00:01:02.640",
+      "end_time": "00:01:05.120",
+      "text": "The user doesn’t have to confirm a search they see"
+    },
+    {
+      "start_time": "00:01:05.200",
+      "end_time": "00:01:08.600",
+      "text": "is already wrong. And three, because you turn search"
+    },
+    {
+      "start_time": "00:01:08.800",
+      "end_time": "00:01:09.840",
+      "text": "into a command center."
+    },
+    {
+      "start_time": "00:01:09.880",
+      "end_time": "00:01:13.240",
+      "text": "The search bar no longer just helps you find things, it helps you navigate"
+    },
+    {
+      "start_time": "00:01:13.480",
+      "end_time": "00:01:14.680",
+      "text": "instantly through the tool."
+    },
+    {
+      "start_time": "00:01:14.681",
+      "end_time": "00:01:17.640",
+      "text": "And the result is your user feels like your tool"
+    },
+    {
+      "start_time": "00:01:17.960",
+      "end_time": "00:01:18.840",
+      "text": "anticipates their needs."
+    },
+    {
+      "start_time": "00:01:18.920",
+      "end_time": "00:01:22.800",
+      "text": "You turn a basic function into a smooth, addictive experience."
+    }
+  ]
+}

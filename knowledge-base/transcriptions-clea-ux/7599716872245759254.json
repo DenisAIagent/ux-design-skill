@@ -1,0 +1,136 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:03.880",
+      "end_time": "00:00:04.440",
+      "text": "Now this, I love!"
+    },
+    {
+      "start_time": "00:00:04.441",
+      "end_time": "00:00:05.720",
+      "text": "We pretty much never talk about UB"
+    },
+    {
+      "start_time": "00:00:05.800",
+      "end_time": "00:00:08.000",
+      "text": "even though we use it all the time in UX design."
+    },
+    {
+      "start_time": "00:00:08.160",
+      "end_time": "00:00:10.480",
+      "text": "So first, UB means user behavior,"
+    },
+    {
+      "start_time": "00:00:10.520",
+      "end_time": "00:00:12.080",
+      "text": "it’s user behavior."
+    },
+    {
+      "start_time": "00:00:12.120",
+      "end_time": "00:00:14.320",
+      "text": "And now you’re going to say, “But what’s the difference with UX?”"
+    },
+    {
+      "start_time": "00:00:14.360",
+      "end_time": "00:00:16.840",
+      "text": "Basically, UX or user experience,"
+    },
+    {
+      "start_time": "00:00:17.040",
+      "end_time": "00:00:18.400",
+      "text": "is the journey you create,"
+    },
+    {
+      "start_time": "00:00:18.640",
+      "end_time": "00:00:20.160",
+      "text": "so the starting intention. And UB,"
+    },
+    {
+      "start_time": "00:00:20.280",
+      "end_time": "00:00:24.840",
+      "text": "which we also often call UBA, for user behavior analytics,"
+    },
+    {
+      "start_time": "00:00:25.120",
+      "end_time": "00:00:27.880",
+      "text": "is what users actually do in your product,"
+    },
+    {
+      "start_time": "00:00:27.960",
+      "end_time": "00:00:31.040",
+      "text": "the reality. And sometimes it’s not the same story at all. When you look at UB,"
+    },
+    {
+      "start_time": "00:00:31.200",
+      "end_time": "00:00:33.320",
+      "text": "you mainly look at 3 things: where they get stuck,"
+    },
+    {
+      "start_time": "00:00:33.440",
+      "end_time": "00:00:35.400",
+      "text": "what they ignore, and what they do instead."
+    },
+    {
+      "start_time": "00:00:35.440",
+      "end_time": "00:00:37.360",
+      "text": "Basically, you planned a flow A B"
+    },
+    {
+      "start_time": "00:00:37.440",
+      "end_time": "00:00:39.600",
+      "text": "C, and they just go A C"
+    },
+    {
+      "start_time": "00:00:39.720",
+      "end_time": "00:00:42.280",
+      "text": "then leave. And that’s where UB becomes super powerful."
+    },
+    {
+      "start_time": "00:00:42.320",
+      "end_time": "00:00:45.120",
+      "text": "Because once you see what users really do,"
+    },
+    {
+      "start_time": "00:00:45.240",
+      "end_time": "00:00:46.680",
+      "text": "you can iterate intelligently."
+    },
+    {
+      "start_time": "00:00:46.720",
+      "end_time": "00:00:49.640",
+      "text": "and you tweak your UX, not based on what you think,"
+    },
+    {
+      "start_time": "00:00:49.641",
+      "end_time": "00:00:51.280",
+      "text": "but based on what’s actually happening."
+    },
+    {
+      "start_time": "00:00:51.320",
+      "end_time": "00:00:52.640",
+      "text": "So to make it really simple,"
+    },
+    {
+      "start_time": "00:00:52.720",
+      "end_time": "00:00:55.640",
+      "text": "UB shows you the problem and UX lets you fix it."
+    },
+    {
+      "start_time": "00:00:55.680",
+      "end_time": "00:00:59.040",
+      "text": "And it’s this constant iteration between real behavior and"
+    },
+    {
+      "start_time": "00:00:59.360",
+      "end_time": "00:01:00.160",
+      "text": "design intent"
+    },
+    {
+      "start_time": "00:01:00.520",
+      "end_time": "00:01:02.160",
+      "text": "that makes your SaaS evolve in the right direction."
+    }
+  ]
+}

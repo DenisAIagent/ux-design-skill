@@ -1,0 +1,146 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:02.360",
+      "text": "La plupart des onboarding ressemblent à 1 visite guidée."
+    },
+    {
+      "start_time": "00:00:02.400",
+      "end_time": "00:00:04.920",
+      "text": "On te montre tout, on t'explique tout, tu configures,"
+    },
+    {
+      "start_time": "00:00:05.040",
+      "end_time": "00:00:05.840",
+      "text": "tu paramètres,"
+    },
+    {
+      "start_time": "00:00:06.000",
+      "end_time": "00:00:08.520",
+      "text": "tu remplis. Et à la fin, tu sais toujours pas pourquoi t'es là."
+    },
+    {
+      "start_time": "00:00:08.680",
+      "end_time": "00:00:09.360",
+      "text": "Regarde cette image,"
+    },
+    {
+      "start_time": "00:00:09.361",
+      "end_time": "00:00:11.160",
+      "text": "il y a 1 belle allée dans 1 parc et juste à côté"
+    },
+    {
+      "start_time": "00:00:11.161",
+      "end_time": "00:00:12.760",
+      "text": "1 chemin tracé dans l'herbe. Et comme tu le vois,"
+    },
+    {
+      "start_time": "00:00:12.761",
+      "end_time": "00:00:14.080",
+      "text": "les gens n'ont pas pris le chemin officiel"
+    },
+    {
+      "start_time": "00:00:14.120",
+      "end_time": "00:00:15.440",
+      "text": "parce que le chemin tracé dans l'herbe"
+    },
+    {
+      "start_time": "00:00:15.441",
+      "end_time": "00:00:16.960",
+      "text": "allait directement là où ils voulaient aller."
+    },
+    {
+      "start_time": "00:00:17.040",
+      "end_time": "00:00:18.080",
+      "text": "Ton utilisateur fait pareil,"
+    },
+    {
+      "start_time": "00:00:18.081",
+      "end_time": "00:00:21.120",
+      "text": "il ne veut pas suivre ton parcours qui est très beau mais long et compliqué."
+    },
+    {
+      "start_time": "00:00:21.160",
+      "end_time": "00:00:23.560",
+      "text": "Il veut le chemin le plus court vers la valeur de ton produit."
+    },
+    {
+      "start_time": "00:00:23.561",
+      "end_time": "00:00:25.840",
+      "text": "Et c'est exactement comme ça que tu dois penser ton onboarding,"
+    },
+    {
+      "start_time": "00:00:25.880",
+      "end_time": "00:00:28.200",
+      "text": "pas comme 1 tutoriel, mais comme 1 raccourci vers la valeur."
+    },
+    {
+      "start_time": "00:00:28.280",
+      "end_time": "00:00:30.000",
+      "text": "Donc pour ça, t'as 1 seule question à te poser :"
+    },
+    {
+      "start_time": "00:00:30.040",
+      "end_time": "00:00:30.840",
+      "text": "quel est le moment"
+    },
+    {
+      "start_time": "00:00:30.880",
+      "end_time": "00:00:33.840",
+      "text": "précis où mon utilisateur réalise pourquoi mon produit existe ?"
+    },
+    {
+      "start_time": "00:00:33.880",
+      "end_time": "00:00:36.920",
+      "text": "Et tout ton onboarding doit mener à ce moment-là le plus directement possible."
+    },
+    {
+      "start_time": "00:00:37.000",
+      "end_time": "00:00:38.200",
+      "text": "Sans détour, sans friction,"
+    },
+    {
+      "start_time": "00:00:38.320",
+      "end_time": "00:00:41.240",
+      "text": "sans étapes inutiles. Donc chaque écran qui n'emmène pas vers ce moment,"
+    },
+    {
+      "start_time": "00:00:41.480",
+      "end_time": "00:00:43.560",
+      "text": "tu l'enlèves. Chaque configuration qui peut attendre,"
+    },
+    {
+      "start_time": "00:00:43.800",
+      "end_time": "00:00:46.120",
+      "text": "tu la mets après. Chaque information que tu demandes trop tôt,"
+    },
+    {
+      "start_time": "00:00:46.360",
+      "end_time": "00:00:47.000",
+      "text": "tu la supprimes."
+    },
+    {
+      "start_time": "00:00:47.001",
+      "end_time": "00:00:50.000",
+      "text": "1 onboarding qui convertit, c'est pas celui qui montre le plus de choses,"
+    },
+    {
+      "start_time": "00:00:50.040",
+      "end_time": "00:00:51.920",
+      "text": "c'est celui qui amène le plus vite à la valeur."
+    },
+    {
+      "start_time": "00:00:51.921",
+      "end_time": "00:00:55.800",
+      "text": "Et c'est comme ça que tu passes d'une UX bancale à 1 UX qui active et retient"
+    },
+    {
+      "start_time": "00:00:55.840",
+      "end_time": "00:00:56.638",
+      "text": "tes utilisateurs."
+    }
+  ]
+}

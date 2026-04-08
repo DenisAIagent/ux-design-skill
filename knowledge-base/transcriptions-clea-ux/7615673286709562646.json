@@ -1,0 +1,161 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.000",
+      "text": "Allez je te donne 1 raccourci ux qu'on voit rarement,"
+    },
+    {
+      "start_time": "00:00:02.040",
+      "end_time": "00:00:04.680",
+      "text": "mais qui change radicalement la façon dont ton utilisateur"
+    },
+    {
+      "start_time": "00:00:05.040",
+      "end_time": "00:00:06.040",
+      "text": "interagit avec ton produit."
+    },
+    {
+      "start_time": "00:00:06.120",
+      "end_time": "00:00:06.920",
+      "text": "Le mode focus."
+    },
+    {
+      "start_time": "00:00:07.040",
+      "end_time": "00:00:10.080",
+      "text": "Beaucoup SaaS affichent tout en permanence. Le menu, les"
+    },
+    {
+      "start_time": "00:00:10.600",
+      "end_time": "00:00:10.960",
+      "text": "notifications,"
+    },
+    {
+      "start_time": "00:00:10.961",
+      "end_time": "00:00:11.640",
+      "text": "les options,"
+    },
+    {
+      "start_time": "00:00:11.641",
+      "end_time": "00:00:14.600",
+      "text": "les raccourcis. C'est bien parce que ça donne l'impression d'un produit riche,"
+    },
+    {
+      "start_time": "00:00:14.840",
+      "end_time": "00:00:15.440",
+      "text": "complet, puissant,"
+    },
+    {
+      "start_time": "00:00:15.441",
+      "end_time": "00:00:16.720",
+      "text": "mais ça peut créer 1 p'tit problème."
+    },
+    {
+      "start_time": "00:00:16.721",
+      "end_time": "00:00:19.240",
+      "text": "Quand ton utilisateur est en train d'accomplir 1 tâche précise,"
+    },
+    {
+      "start_time": "00:00:19.320",
+      "end_time": "00:00:20.640",
+      "text": "comme rédiger 1 offre d'emploi,"
+    },
+    {
+      "start_time": "00:00:20.920",
+      "end_time": "00:00:23.040",
+      "text": "compléter 1 formulaire ou finaliser 1 rapport,"
+    },
+    {
+      "start_time": "00:00:23.120",
+      "end_time": "00:00:25.920",
+      "text": "tout ce qui l'entoure devient du bruit. Et le bruit bah ça distrait,"
+    },
+    {
+      "start_time": "00:00:25.960",
+      "end_time": "00:00:27.360",
+      "text": "ça ralentit et ça fait douter."
+    },
+    {
+      "start_time": "00:00:27.480",
+      "end_time": "00:00:30.840",
+      "text": "Imagine que l'utilisateur est en train de remplir 1 fiche de poste sur ton SaaS"
+    },
+    {
+      "start_time": "00:00:30.920",
+      "end_time": "00:00:33.680",
+      "text": "RH. À sa gauche y a 1 menu avec 12 option, en haut des"
+    },
+    {
+      "start_time": "00:00:34.200",
+      "end_time": "00:00:35.520",
+      "text": "notifications qui clignotent et à droite"
+    },
+    {
+      "start_time": "00:00:35.521",
+      "end_time": "00:00:37.600",
+      "text": "des suggestions de feature qu’il n'utilise pas encore."
+    },
+    {
+      "start_time": "00:00:37.601",
+      "end_time": "00:00:39.560",
+      "text": "Là, il est plus vraiment focus sur sa tâche,"
+    },
+    {
+      "start_time": "00:00:39.600",
+      "end_time": "00:00:41.280",
+      "text": "il gère toute l'interface. Maintenant."
+    },
+    {
+      "start_time": "00:00:41.360",
+      "end_time": "00:00:44.000",
+      "text": "Imagine le même scénario, mais dès qu'il entre en mode rédaction,"
+    },
+    {
+      "start_time": "00:00:44.120",
+      "end_time": "00:00:47.240",
+      "text": "tu le fais entrer dans 1 espace entièrement dédié et sans distraction."
+    },
+    {
+      "start_time": "00:00:47.280",
+      "end_time": "00:00:50.000",
+      "text": "Plus que lui, son contenu et les actions dont il a besoin"
+    },
+    {
+      "start_time": "00:00:50.001",
+      "end_time": "00:00:52.520",
+      "text": "maintenant. Ce 2e scénario change complètement la donne."
+    },
+    {
+      "start_time": "00:00:52.801",
+      "end_time": "00:00:55.680",
+      "text": "parce que tu réduis la charge cognitive au moment où elle est la plus haute,"
+    },
+    {
+      "start_time": "00:00:55.720",
+      "end_time": "00:00:57.520",
+      "text": "et ensuite parce que tu dis à ton utilisateur,"
+    },
+    {
+      "start_time": "00:00:57.720",
+      "end_time": "00:00:59.280",
+      "text": "« là, t'as juste 1 chose à faire »."
+    },
+    {
+      "start_time": "00:00:59.440",
+      "end_time": "00:01:02.560",
+      "text": "Résultat, ton utilisateur ne se perd plus dans ton interface, il accomplit,"
+    },
+    {
+      "start_time": "00:01:02.680",
+      "end_time": "00:01:03.640",
+      "text": "il reste focus,"
+    },
+    {
+      "start_time": "00:01:03.880",
+      "end_time": "00:01:05.240",
+      "text": "il avance et il revient."
+    }
+  ]
+}

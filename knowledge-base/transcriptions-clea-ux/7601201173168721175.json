@@ -1,0 +1,196 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.040",
+      "end_time": "00:00:01.920",
+      "text": "Do you know why your onboarding doesn’t work?"
+    },
+    {
+      "start_time": "00:00:01.960",
+      "end_time": "00:00:03.280",
+      "text": "It’s not because it’s badly explained,"
+    },
+    {
+      "start_time": "00:00:03.520",
+      "end_time": "00:00:04.800",
+      "text": "too short or too simple."
+    },
+    {
+      "start_time": "00:00:04.840",
+      "end_time": "00:00:07.640",
+      "text": "In most cases, it’s because there’s no aha moment."
+    },
+    {
+      "start_time": "00:00:07.840",
+      "end_time": "00:00:10.680",
+      "text": "So today I’m going to explain what a real aha moment is."
+    },
+    {
+      "start_time": "00:00:10.880",
+      "end_time": "00:00:13.520",
+      "text": "A lot of SaaS still see onboarding as a sign-up,"
+    },
+    {
+      "start_time": "00:00:13.720",
+      "end_time": "00:00:15.840",
+      "text": "a setup or a mini tutorial, and that’s it."
+    },
+    {
+      "start_time": "00:00:15.841",
+      "end_time": "00:00:16.600",
+      "text": "But in reality,"
+    },
+    {
+      "start_time": "00:00:16.601",
+      "end_time": "00:00:20.280",
+      "text": "onboarding goes from sign-up until the user is independent."
+    },
+    {
+      "start_time": "00:00:20.320",
+      "end_time": "00:00:21.840",
+      "text": "And that’s where the aha moment"
+    },
+    {
+      "start_time": "00:00:22.120",
+      "end_time": "00:00:24.760",
+      "text": "matters. Because instead of showing a tutorial or just a checklist,"
+    },
+    {
+      "start_time": "00:00:25.040",
+      "end_time": "00:00:27.760",
+      "text": "you’re going to guide the user to take one key action"
+    },
+    {
+      "start_time": "00:00:27.880",
+      "end_time": "00:00:29.720",
+      "text": "that will show them the value of the SaaS"
+    },
+    {
+      "start_time": "00:00:30.000",
+      "end_time": "00:00:30.480",
+      "text": "immediately."
+    },
+    {
+      "start_time": "00:00:30.481",
+      "end_time": "00:00:33.560",
+      "text": "In psychology, we compare aha moments to the Eureka effect."
+    },
+    {
+      "start_time": "00:00:33.640",
+      "end_time": "00:00:35.560",
+      "text": "It’s the moment when the user says to themselves,"
+    },
+    {
+      "start_time": "00:00:35.680",
+      "end_time": "00:00:37.680",
+      "text": "“I get why I need to use this tool.”"
+    },
+    {
+      "start_time": "00:00:37.681",
+      "end_time": "00:00:40.480",
+      "text": "For example, an online booking tool like Calendly."
+    },
+    {
+      "start_time": "00:00:40.481",
+      "end_time": "00:00:41.640",
+      "text": "When you sign up for this tool,"
+    },
+    {
+      "start_time": "00:00:41.720",
+      "end_time": "00:00:44.920",
+      "text": "you might think the aha moment is setting up your schedule,"
+    },
+    {
+      "start_time": "00:00:45.200",
+      "end_time": "00:00:46.520",
+      "text": "your slots, your time blocks."
+    },
+    {
+      "start_time": "00:00:46.600",
+      "end_time": "00:00:47.600",
+      "text": "But that’s not really it. Here,"
+    },
+    {
+      "start_time": "00:00:47.601",
+      "end_time": "00:00:50.760",
+      "text": "the aha moment is when you generate your link and share it."
+    },
+    {
+      "start_time": "00:00:50.840",
+      "end_time": "00:00:53.160",
+      "text": "You open the link and you see your availability,"
+    },
+    {
+      "start_time": "00:00:53.240",
+      "end_time": "00:00:56.720",
+      "text": "a quick booking with no need for long email exchanges."
+    },
+    {
+      "start_time": "00:00:56.800",
+      "end_time": "00:00:57.600",
+      "text": "And then you say to yourself,"
+    },
+    {
+      "start_time": "00:00:57.640",
+      "end_time": "00:00:58.840",
+      "text": "“Okay, I’m bookable,"
+    },
+    {
+      "start_time": "00:00:59.080",
+      "end_time": "00:01:02.360",
+      "text": "accessible, and I’ve got nothing left to manage.” That moment isn’t about the tool,"
+    },
+    {
+      "start_time": "00:01:02.400",
+      "end_time": "00:01:04.520",
+      "text": "it’s about what the tool lets you become."
+    },
+    {
+      "start_time": "00:01:05.000",
+      "end_time": "00:01:06.040",
+      "text": "Visible, accessible,"
+    },
+    {
+      "start_time": "00:01:06.160",
+      "end_time": "00:01:07.880",
+      "text": "reachable. And that’s exactly"
+    },
+    {
+      "start_time": "00:01:07.920",
+      "end_time": "00:01:09.480",
+      "text": "a successful aha moment."
+    },
+    {
+      "start_time": "00:01:09.520",
+      "end_time": "00:01:11.400",
+      "text": "It’s not “I understood all the features,”"
+    },
+    {
+      "start_time": "00:01:11.480",
+      "end_time": "00:01:13.600",
+      "text": "but “I immediately see how this changes my real life.”"
+    },
+    {
+      "start_time": "00:01:13.640",
+      "end_time": "00:01:15.680",
+      "text": "That’s why the aha moment is often misunderstood."
+    },
+    {
+      "start_time": "00:01:15.720",
+      "end_time": "00:01:16.880",
+      "text": "We look for it in the features,"
+    },
+    {
+      "start_time": "00:01:17.120",
+      "end_time": "00:01:19.560",
+      "text": "when in fact it’s in the product’s main promise:"
+    },
+    {
+      "start_time": "00:01:19.760",
+      "end_time": "00:01:22.240",
+      "text": "made visible as fast as possible."
+    }
+  ]
+}

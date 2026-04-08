@@ -1,0 +1,156 @@
+{
+  "ok": true,
+  "taskCredits": 1,
+  "caption": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:01.440",
+      "text": "Developers are not UX designers"
+    },
+    {
+      "start_time": "00:00:01.920",
+      "end_time": "00:00:03.880",
+      "text": "and UX designers are not developers."
+    },
+    {
+      "start_time": "00:00:03.881",
+      "end_time": "00:00:06.680",
+      "text": "I'm a bit tired of seeing SaaS founders think they just"
+    },
+    {
+      "start_time": "00:00:06.800",
+      "end_time": "00:00:07.440",
+      "text": "need a developer."
+    },
+    {
+      "start_time": "00:00:07.441",
+      "end_time": "00:00:09.600",
+      "text": "that everything boils down to \"if it works technically"
+    },
+    {
+      "start_time": "00:00:09.920",
+      "end_time": "00:00:11.440",
+      "text": "then it will work for the user\"."
+    },
+    {
+      "start_time": "00:00:11.480",
+      "end_time": "00:00:11.960",
+      "text": "Except no."
+    },
+    {
+      "start_time": "00:00:11.961",
+      "end_time": "00:00:15.280",
+      "text": "A developer is there to make the product work solidly and securely,"
+    },
+    {
+      "start_time": "00:00:15.360",
+      "end_time": "00:00:18.120",
+      "text": "and a UX designer is there to ensure it is understood,"
+    },
+    {
+      "start_time": "00:00:18.360",
+      "end_time": "00:00:21.000",
+      "text": "used and adopted. These are two different professions,"
+    },
+    {
+      "start_time": "00:00:21.160",
+      "end_time": "00:00:24.920",
+      "text": "two different ways of thinking and two different responsibilities."
+    },
+    {
+      "start_time": "00:00:25.080",
+      "end_time": "00:00:25.520",
+      "text": "The problem"
+    },
+    {
+      "start_time": "00:00:25.521",
+      "end_time": "00:00:28.200",
+      "text": "is that developers are often asked to do a job that is not theirs."
+    },
+    {
+      "start_time": "00:00:28.201",
+      "end_time": "00:00:28.880",
+      "text": "And conversely,"
+    },
+    {
+      "start_time": "00:00:28.881",
+      "end_time": "00:00:31.040",
+      "text": "a UX designer is not there to develop an app."
+    },
+    {
+      "start_time": "00:00:31.041",
+      "end_time": "00:00:33.880",
+      "text": "So when a SaaS is designed solely from a technical angle,"
+    },
+    {
+      "start_time": "00:00:33.960",
+      "end_time": "00:00:35.080",
+      "text": "the problem is always the same:"
+    },
+    {
+      "start_time": "00:00:35.120",
+      "end_time": "00:00:37.400",
+      "text": "the product works, but nobody really uses it."
+    },
+    {
+      "start_time": "00:00:37.440",
+      "end_time": "00:00:40.200",
+      "text": "A good SaaS doesn't come from one or the other,"
+    },
+    {
+      "start_time": "00:00:40.280",
+      "end_time": "00:00:41.600",
+      "text": "but from good collaboration."
+    },
+    {
+      "start_time": "00:00:41.680",
+      "end_time": "00:00:45.400",
+      "text": "When the developer tells you \"technically here's what's possible\", and the UX designer"
+    },
+    {
+      "start_time": "00:00:45.800",
+      "end_time": "00:00:47.360",
+      "text": "responds: \"here's how we make it simple\"."
+    },
+    {
+      "start_time": "00:00:47.400",
+      "end_time": "00:00:48.200",
+      "text": "One without the other"
+    },
+    {
+      "start_time": "00:00:48.240",
+      "end_time": "00:00:51.040",
+      "text": "results in a lopsided product. and all successful SaaSs have understood this,"
+    },
+    {
+      "start_time": "00:00:51.080",
+      "end_time": "00:00:52.680",
+      "text": "UX design isn't about making it look pretty."
+    },
+    {
+      "start_time": "00:00:52.760",
+      "end_time": "00:00:54.120",
+      "text": "it's about structuring decisions,"
+    },
+    {
+      "start_time": "00:00:54.280",
+      "end_time": "00:00:56.720",
+      "text": "reducing mental load and guiding users."
+    },
+    {
+      "start_time": "00:00:56.760",
+      "end_time": "00:00:59.040",
+      "text": "So if your SaaS is difficult to use,"
+    },
+    {
+      "start_time": "00:00:59.080",
+      "end_time": "00:01:00.920",
+      "text": "it's not necessarily a developer problem."
+    },
+    {
+      "start_time": "00:01:00.921",
+      "end_time": "00:01:04.320",
+      "text": "It might be that the UX wasn't really treated as a real subject."
+    }
+  ]
+}
