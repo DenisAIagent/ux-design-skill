@@ -1,20 +1,39 @@
 # UX Design Expert — Claude Code Skill
 
-Skill complet pour Claude Code couvrant le design UI/UX, les strategies de croissance SaaS, et les interfaces IA.
+**v2.0.0** — Skill complet pour Claude Code couvrant le design UI/UX, les stratégies de croissance SaaS, et les interfaces IA. Fonctionne sur n'importe quel site web.
+
+## Commandes
+
+| Commande | Description |
+|----------|-------------|
+| `/audit <url>` | Audit UX complet avec score /100 et plan d'action priorisé |
+| `/landing <url>` | Analyse et optimisation de landing page |
+| `/onboarding <url>` | Audit ou conception de flow d'onboarding |
+| `/roast <url>` | Critique UX rapide, directe, top 5 problèmes |
+| `/compare <url1> <url2>` | Comparaison UX de deux sites concurrents |
+| `/flow <description>` | Conception de user flow complet avec wireframes textuels |
+| `/copy <element> <context>` | UX writing et micro-copy optimisé (3 variantes) |
+| `/checklist <type>` | Checklist UX prête à l'emploi (launch, landing, onboarding, retention, accessibility, mobile, ai, conversion) |
+| `/strategy <description>` | Stratégie UX complète (canvas, roadmap, KPIs) |
+| `/heuristics <url>` | Évaluation heuristique formelle (Nielsen's 10, score /50) |
+| `/persona <description>` | Création de personas utilisateur (P50/P95) |
+
+Sans commande, le skill agit comme consultant UX senior.
 
 ## Contenu
 
 ### Skill principal (`SKILL.md`)
+- 11 commandes documentées avec workflows détaillés
 - Masterclass SaaS Growth (6 modules)
 - 10 heuristiques de Nielsen
-- Design P50/P95
+- Design P50/P95 (Nielsen, 2026)
 - Intent-Based UX pour l'IA
-- Patterns SaaS (onboarding, landing pages, fidelisation)
-- Patterns AI interfaces
-- Biais psychologiques (contraste, cadrage, Hick, Fitts, Miller, Jakob, position serielle)
-- Strategie UX + tendances 2026
-- Checklist d'audit UX
-- Formats de sortie structures
+- Patterns SaaS (onboarding, landing pages, fidélisation)
+- Patterns AI interfaces (Wroblewski, Friedman)
+- Biais psychologiques (contraste, cadrage, Hick, Fitts, Miller, Jakob, position sérielle)
+- Stratégie UX + tendances 2026
+- Checklist d'audit UX complète
+- Formats de sortie structurés (audit, design, recommandations)
 
 ### Base de connaissances (`knowledge-base/`)
 
@@ -50,13 +69,25 @@ ln -sf ../../.agents/skills/ux-design-expert ~/.claude/skills/ux-design-expert
 
 ## Utilisation
 
-Le skill se declenche automatiquement quand vous parlez de :
+Le skill se déclenche automatiquement quand vous parlez de :
 - UX audit, onboarding, landing page, conversion
-- SaaS UX, fidelisation, retention, churn
+- SaaS UX, fidélisation, rétention, churn
 - AI UX, design patterns, heuristic evaluation
 - Figma, wireframes, prototypage
 
-Ou invoquez-le directement : `/ux-design-expert`
+Ou invoquez une commande directement : `/audit www.example.com`
+
+### Architecture
+
+```
+Utilisateur → /audit www.example.com
+       ↓
+Claude + SKILL.md (toute la connaissance UX chargée)
+       ↓
+WebFetch du site → Analyse avec les frameworks → Output structuré
+```
+
+Le skill injecte l'expertise UX dans le contexte de Claude. Pas d'agent orchestrateur — Claude applique directement les frameworks (Nielsen, @clea_ux, Zhuo, etc.) avec une vision holistique.
 
 ## Sources
 
